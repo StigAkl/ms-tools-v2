@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2020", // Moderne JS
+    "module": "ESNext", // Bruk ESM
+    "moduleResolution": "node", // Node-stil moduloppløsning
+    "outDir": "./dist", // Output-mappe
+    "rootDir": "./src", // Kildekode-mappe
+    "strict": true, // Strenge regler
+    "esModuleInterop": true, // For default-eksport
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/**/*"]
+}
