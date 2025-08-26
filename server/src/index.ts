@@ -1,6 +1,6 @@
 import { Player } from "./models";
 import fs from "fs";
-import { analyzeEvent } from "./eventsUtils";
+import { analyzeEvent, backtrackAliases } from "./eventsUtils";
 import path from "path";
 import express from "express";
 import { fileURLToPath } from "url";
@@ -19,6 +19,8 @@ const filePath = path.join(import.meta.dirname, "data", "events.txt");
 for (const line of fs.readFileSync(filePath, "utf-8").split("\n")) {
   analyzeEvent(line, players);
 }
+
+backtrackAliases(players);
 
 fs.writeFileSync(
   path.join(import.meta.dirname, "data", "data.json"),

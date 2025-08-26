@@ -10,9 +10,7 @@ const SearchEngine = () => {
   const [searchString, setSearchString] = useState<string>("");
 
   const players = useEventsStore(state => state.players);
-  const playerNames = players.map(p => p.username);
 
-  console.log(players);
   const searchByUsername = (username: string) => {
     const foundPlayer = players.find(p => p.username.toLowerCase() === username.toLowerCase());
     if (foundPlayer) {
@@ -53,6 +51,12 @@ const PlayerCard = ({ player }: PlayerCardProps) => {
     <span key={name} className="text-blue-500">{name}, </span>
   ));
 
+  const aliasMap = player.aliases.map((alias, i) => (
+    <span key={alias} className="text-blue-500">
+      {alias}{i < player.aliases.length - 1 && ", "}
+    </span>
+  ))
+
   return (
     <div className="bg-card p-4 rounded-lg shadow-md">
       <h2 className="text-xl font-bold border-b py-2 mb-2">Søkeresultat</h2>
@@ -62,6 +66,7 @@ const PlayerCard = ({ player }: PlayerCardProps) => {
       <p className="text-sm text-muted-foreground">Status: {player.dead ? "Død" : <span className="text-green-500">Levende</span>}</p>
       <p className="text-sm text-muted-foreground">Antall ganger truffet: {player.gottenHit}</p>
       <p className="text-sm text-muted-foreground">Antall treff på andre: {player.hits}</p>
+      {aliasMap.length > 0 && <p className="text-sm text-muted-foreground">Tidligere navn: {aliasMap} </p>}
       <hr />
       <p className="bg-muted mt-4 p-4 rounded-lg">
         Truffet av: {hitByMap.length > 0 ? hitByMap : "Ingen"}

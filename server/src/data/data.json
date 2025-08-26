@@ -1,106 +1,48 @@
 [
   {
-    "id": "14256d9aaf1ff8f134bee260475d4f69",
-    "username": "Stokkand",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 5,
-    "dead": true,
-    "hitBy": [
-      "[Anonym bruker]",
-      "rawr xD",
-      "Ted",
-      "rawr xD",
-      "[Anonym bruker]"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "d3023f82c47e2f4d9bd27a5cff090183",
-    "username": "[Anonym bruker]",
-    "rank": null,
-    "hits": 340,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "99b35756060621c990506a8fa665a6b2",
-    "username": "rawr xD",
-    "rank": "Capo Crimini",
-    "hits": 4,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "fe86c55c95c516799d2b81502225ddf5",
-    "username": "Dfbot140",
-    "rank": null,
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": true,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "751fd05412a67d142fd338f0204b1069",
-    "username": "Jfax",
-    "rank": "Capo Crimini",
-    "hits": 2,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "1506aeeb8c3a699b1e3c87db03156428",
-    "username": "Midnight",
-    "rank": null,
-    "hits": 5,
-    "gottenHit": 6,
-    "dead": false,
-    "hitBy": [
-      "Jfax",
-      "Arvid 2",
-      "Unseelie",
-      "[Anonym bruker]",
-      "A La Carte",
-      "[Anonym bruker]"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "870fa8ee962d90af50c7eaed792b075a",
-    "username": "Ted",
+    "id": "c7b8baca-da30-4c73-8a28-82a9ec4f1c5b",
+    "username": "Maestro",
     "rank": "Capo de tutti Capi",
     "hits": 7,
-    "gottenHit": 4,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]",
-      "Clown",
-      "Kodak black",
-      "Kodak black"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "0bf44a9634896de88678e56222c1b012",
-    "username": "Mikey",
-    "rank": "Capo Crimini",
-    "hits": 0,
     "gottenHit": 0,
     "dead": false,
     "hitBy": [],
     "aliases": []
   },
   {
-    "id": "76010858c8362d7302ef5f9436aa6639",
-    "username": "Fresh",
+    "id": "5e95493f-06ae-4db3-b4a5-ac2b4c414b7f",
+    "username": "Mi2",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 9,
+    "dead": true,
+    "hitBy": [
+      "Maestro",
+      "[Anonym bruker]",
+      "Alpha",
+      "Uheldige Berga",
+      "WinterSeason",
+      "Clown",
+      "Hunk",
+      "[Anonym bruker]",
+      "Obsession"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "45f0ca1a-6d84-4fcc-97eb-cb5e3a396eb7",
+    "username": "[Anonym bruker]",
     "rank": null,
+    "hits": 345,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "af7a4b88-14c8-454d-bd89-ddffe35c59a7",
+    "username": "Radagast",
+    "rank": "Gudfar",
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
@@ -108,42 +50,41 @@
     "aliases": []
   },
   {
-    "id": "6b1b36cbb04b41490bfc0ab2bfa26f86",
-    "username": "Hunter",
+    "id": "efa440e1-9d71-4d16-8d34-6e232060161e",
+    "username": "Ypsilon",
     "rank": "Gudfar",
     "hits": 0,
-    "gottenHit": 3,
-    "dead": true,
+    "gottenHit": 1,
+    "dead": false,
     "hitBy": [
-      "Fresh",
-      "Abcdefgh",
-      "Magnus Karlsen"
+      "Radagast"
     ],
     "aliases": []
   },
   {
-    "id": "219bee0d53c018e4dc03c110b6383a2e",
-    "username": "Darkpassenger",
-    "rank": "Gudfar",
-    "hits": 0,
+    "id": "0ba96d46-0c56-4e8f-bf04-6704b96e901e",
+    "username": "Knust",
+    "rank": "Capo Crimini",
+    "hits": 4,
     "gottenHit": 4,
     "dead": false,
     "hitBy": [
+      "Precious",
       "[Anonym bruker]",
-      "[Anonym bruker]",
-      "Yoshi",
-      "Jfax"
+      "Jesse pinkman",
+      "Denial"
     ],
     "aliases": []
   },
   {
-    "id": "504f526af8e50b39a11aa28ddebe2abe",
+    "id": "d12ed1f4-a885-4a07-bc1d-60a7db265c35",
     "username": "Seraphiel",
     "rank": "Capo de tutti Capi",
     "hits": 9,
-    "gottenHit": 12,
+    "gottenHit": 13,
     "dead": false,
     "hitBy": [
+      "Knust",
       "[Anonym bruker]",
       "Joe Camel",
       "[Anonym bruker]",
@@ -160,74 +101,30 @@
     "aliases": []
   },
   {
-    "id": "f4a3411c893cadaf849b50e576e8c78f",
-    "username": "Joe Camel",
-    "rank": "Capo Crimini",
-    "hits": 2,
+    "id": "671c1858-bb19-4378-b327-79a9fd949e50",
+    "username": "Uheldige Berga",
+    "rank": "Gudfar",
+    "hits": 4,
     "gottenHit": 0,
     "dead": false,
     "hitBy": [],
     "aliases": []
   },
   {
-    "id": "7e998ca05ea385209aff64dd26b18337",
-    "username": "Obsession",
+    "id": "a755551b-5c45-4514-8141-b0351f8b9e9c",
+    "username": "Lecter",
     "rank": "Capo de tutti Capi",
-    "hits": 10,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]",
-      "Herobrine"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "72fa0f93182839e32ccf8732ed61a570",
-    "username": "Lecce",
-    "rank": "Capo de tutti Capi",
-    "hits": 5,
-    "gottenHit": 6,
-    "dead": false,
-    "hitBy": [
-      "Obsession",
-      "[Anonym bruker]",
-      "nopqrstuvwxyz",
-      "Herobrine",
-      "Jarle",
-      "Kortopi"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "ed8b38fd3ef9b08697d7a2728cf831b4",
-    "username": "Torino",
-    "rank": "Capo de tutti Capi",
-    "hits": 12,
-    "gottenHit": 3,
-    "dead": false,
-    "hitBy": [
-      "Hanslarsen",
-      "test160",
-      "Olga Burger"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "b7f8523fd3d50cf56095fdf81274b82b",
-    "username": "Jenna Ortega",
-    "rank": "Capo Crimini",
-    "hits": 0,
+    "hits": 3,
     "gottenHit": 1,
     "dead": false,
     "hitBy": [
-      "Torino"
+      "Uheldige Berga"
     ],
     "aliases": []
   },
   {
-    "id": "66986890fbd97cca35d95261730e78dc",
-    "username": "Skolest",
+    "id": "774167d7-57fd-4efc-9323-121451fab4b6",
+    "username": "Don Perroni",
     "rank": "Gudfar",
     "hits": 0,
     "gottenHit": 0,
@@ -236,23 +133,62 @@
     "aliases": []
   },
   {
-    "id": "27b205035c328b16d8c8329c4b41e87e",
-    "username": "DIO",
-    "rank": null,
-    "hits": 1,
+    "id": "acd7483d-0be8-4e6c-8246-4979bf3f83e3",
+    "username": "Castro",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 4,
+    "dead": true,
+    "hitBy": [
+      "Maestro",
+      "balltre",
+      "Knust",
+      "Sicilia"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "c544b78b-4231-422b-bc7a-5de7770da682",
+    "username": "Bruno Fernandes",
+    "rank": "Gudfar",
+    "hits": 0,
     "gottenHit": 0,
     "dead": false,
     "hitBy": [],
     "aliases": []
   },
   {
-    "id": "78020ef7803a97afc5429b2310fcf160",
+    "id": "ae6e9a61-36e2-4f7e-9496-d5251ed34504",
+    "username": "Midnight",
+    "rank": null,
+    "hits": 14,
+    "gottenHit": 9,
+    "dead": false,
+    "hitBy": [
+      "balltre",
+      "Jfax",
+      "Arvid 2",
+      "Unseelie",
+      "[Anonym bruker]",
+      "A La Carte",
+      "[Anonym bruker]",
+      "Best Rente Her",
+      "[Anonym bruker]"
+    ],
+    "aliases": [
+      "WhoRWe"
+    ]
+  },
+  {
+    "id": "12b3591c-20e8-42e5-a538-22ad4fc1bfd7",
     "username": "Arvid 2",
     "rank": "Capo Crimini",
     "hits": 2,
-    "gottenHit": 15,
+    "gottenHit": 17,
     "dead": false,
     "hitBy": [
+      "Midnight",
+      "Midnight",
       "DIO",
       "Xyse",
       "Notorious",
@@ -272,7 +208,509 @@
     "aliases": []
   },
   {
-    "id": "468f7b0aaba9a806a0ce5bc4d4482164",
+    "id": "fa724304-3a6b-4e54-be5e-e646b8bcddd3",
+    "username": "balltre",
+    "rank": "Capo Crimini",
+    "hits": 6,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "Alpha"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "630e0f77-78ad-4ea5-9c96-bd7e6323fbea",
+    "username": "Tony Soprano",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "balltre"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "25602758-53e7-4c52-ab3f-ca753eccd6d5",
+    "username": "VitoCorleone",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "06fa7ea6-7ec7-4ace-9c73-7c1bf3e8e751",
+    "username": "Ferie er over",
+    "rank": "Gudfar",
+    "hits": 3,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "c4c38938-2644-435e-8378-4308e77933c1",
+    "username": "Apeloff",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "Ferie er over"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "a7910bf8-8f62-4e08-8272-04da22d997c6",
+    "username": "Guy Fawkes",
+    "rank": "Capo de tutti Capi",
+    "hits": 3,
+    "gottenHit": 4,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Bastardo",
+      "WinterSeason",
+      "WinterSeason"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "ff8a2f6f-151e-4fd5-b9a3-c0813136fa0d",
+    "username": "Bastardo",
+    "rank": "Capo de tutti Capi",
+    "hits": 18,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Gallery",
+      "Saul Goodman"
+    ],
+    "aliases": [
+      "Nelson"
+    ]
+  },
+  {
+    "id": "1a23f391-9637-4632-b445-17d4a911f49e",
+    "username": "Chaeyoung",
+    "rank": null,
+    "hits": 4,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "Muammar Gaddafi"
+    ],
+    "aliases": [
+      "Sade"
+    ]
+  },
+  {
+    "id": "1fea5dff-26c1-4630-a422-aee6d0969466",
+    "username": "Notorious",
+    "rank": null,
+    "hits": 6,
+    "gottenHit": 7,
+    "dead": false,
+    "hitBy": [
+      "Chaeyoung",
+      "Chaeyoung",
+      "[Anonym bruker]",
+      "Caligula",
+      "Arvid 2",
+      "Unseelie",
+      "Hunk"
+    ],
+    "aliases": [
+      "Rizz"
+    ]
+  },
+  {
+    "id": "681fcbba-ae3d-4173-bef2-4a53c73c7936",
+    "username": "luksus",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Uheldige Berga",
+      "Gible"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "0695a96b-70b1-450b-b561-2eb25c54d848",
+    "username": "Gible",
+    "rank": null,
+    "hits": 3,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": [
+      "Joe Camel"
+    ]
+  },
+  {
+    "id": "724f60a9-4e91-462e-9553-e7ba76d05753",
+    "username": "Dfbot140",
+    "rank": null,
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": true,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "1cf330e3-f8e9-4602-bbcb-127610a50008",
+    "username": "KTN",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "eeff9d68-fe9d-4c34-9ef9-f98784ec1598",
+    "username": "Bunny",
+    "rank": "Capo de tutti Capi",
+    "hits": 2,
+    "gottenHit": 3,
+    "dead": false,
+    "hitBy": [
+      "Olga Burger",
+      "Nightwalker",
+      "Hunk"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "22b747f7-cfd2-4c47-969d-fd7de78ce580",
+    "username": "Hal Finney",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": true,
+    "hitBy": [
+      "Bunny"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "e32a6fbb-1c00-498c-a2c7-2aa9fcb84d50",
+    "username": "Dalle",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "070a6b81-5b37-439c-ab85-378a9f04bad7",
+    "username": "Fresh",
+    "rank": "Gudfar",
+    "hits": 1,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "cf3a7fb4-58f4-4343-9a58-15450342c796",
+    "username": "Yoshi",
+    "rank": "Capo de tutti Capi",
+    "hits": 6,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "R octavoc r"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "3ae6dced-f39f-4e7b-a570-bd8884a3d254",
+    "username": "Trampolini",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "2aa3a1fe-61d6-42ed-a10d-9dff19a733c4",
+    "username": "lillevenn",
+    "rank": "Capo de tutti Capi",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "2bcfd9b9-8963-4e72-a90b-4bc19697c0a9",
+    "username": "The Duke",
+    "rank": "Capo Crimini",
+    "hits": 4,
+    "gottenHit": 3,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Ferie er over",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "1a058e42-6b93-4636-b040-6e22703bcb2d",
+    "username": "Katt",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "Turid",
+      "Turid"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "82ef3c7e-89fa-48cc-8e8b-05f15278ec9d",
+    "username": "Turid",
+    "rank": "Gudfar",
+    "hits": 2,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "f984a07a-50d9-4ab6-a797-4008ef4b79ad",
+    "username": "Joe Camel",
+    "rank": "Capo Crimini",
+    "hits": 2,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "194694f8-8e19-4fc0-ac99-43ef90c59c51",
+    "username": "Alpha",
+    "rank": "Capo Crimini",
+    "hits": 2,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "d32308a9-0b4a-42f3-af49-fc77fe4cb190",
+    "username": "Brian",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 3,
+    "dead": true,
+    "hitBy": [
+      "balltre",
+      "balltre",
+      "balltre"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "33bb7248-f294-4f89-806e-f51ee14c8745",
+    "username": "Precious",
+    "rank": null,
+    "hits": 7,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]"
+    ],
+    "aliases": [
+      "Honey"
+    ]
+  },
+  {
+    "id": "6b0235c4-f3b2-4369-8d22-b02ba44cfb7e",
+    "username": "Stokkand",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 5,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "rawr xD",
+      "Ted",
+      "rawr xD",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "bfa069e0-0e0f-4fac-99bd-3d787b4f37b1",
+    "username": "rawr xD",
+    "rank": "Capo Crimini",
+    "hits": 4,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "2a3295fe-a9ca-413b-b35c-303002311adc",
+    "username": "Jfax",
+    "rank": "Capo Crimini",
+    "hits": 2,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "69086d45-dcb4-49d7-a45a-47b3eede9227",
+    "username": "Ted",
+    "rank": "Capo de tutti Capi",
+    "hits": 7,
+    "gottenHit": 4,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Clown",
+      "Kodak black",
+      "Kodak black"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "e76c8d4f-95d9-4673-99a9-48d9df015f33",
+    "username": "Mikey",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "eaf46726-9d8f-4ad5-8671-9dbc68bbe99b",
+    "username": "Hunter",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 3,
+    "dead": true,
+    "hitBy": [
+      "Fresh",
+      "Abcdefgh",
+      "Magnus Karlsen"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "46fe80f7-381b-457f-828c-cdce20240068",
+    "username": "Darkpassenger",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 4,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "[Anonym bruker]",
+      "Yoshi",
+      "Jfax"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "704e06e6-7d21-4890-b892-ba87ee251181",
+    "username": "Obsession",
+    "rank": "Capo de tutti Capi",
+    "hits": 11,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Herobrine"
+    ],
+    "aliases": [
+      "send sokker"
+    ]
+  },
+  {
+    "id": "fce1e032-db61-43a7-a944-c82ad106c8d8",
+    "username": "Lecce",
+    "rank": "Capo de tutti Capi",
+    "hits": 5,
+    "gottenHit": 6,
+    "dead": false,
+    "hitBy": [
+      "Obsession",
+      "[Anonym bruker]",
+      "nopqrstuvwxyz",
+      "Herobrine",
+      "Jarle",
+      "Kortopi"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "2a595429-c848-4570-a51e-554a16c1d4ad",
+    "username": "Torino",
+    "rank": "Capo de tutti Capi",
+    "hits": 12,
+    "gottenHit": 3,
+    "dead": false,
+    "hitBy": [
+      "Hanslarsen",
+      "test160",
+      "Olga Burger"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "df8fcb38-c4be-4b51-8e08-4a15bff90036",
+    "username": "Jenna Ortega",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "Torino"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "ddbd80a2-abbe-4e2d-8cb4-0067a2fa0253",
+    "username": "Skolest",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "28b9c2a3-e904-4ce6-a58c-8bf03a25613a",
+    "username": "DIO",
+    "rank": null,
+    "hits": 2,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Rose",
+      "Rose"
+    ],
+    "aliases": [
+      "Haakon"
+    ]
+  },
+  {
+    "id": "d3098594-c6b9-4972-8a76-3120a376f77a",
     "username": "Lamar",
     "rank": "Gudfar",
     "hits": 0,
@@ -282,7 +720,7 @@
     "aliases": []
   },
   {
-    "id": "ddee51ba0bd451072e7f7efcd59d2e09",
+    "id": "00503894-0a94-455b-88f3-ea3317dab8b1",
     "username": "Kasino",
     "rank": "Gudfar",
     "hits": 0,
@@ -292,40 +730,25 @@
     "aliases": []
   },
   {
-    "id": "2c1743a391305fbf367df8e4f069f9f9",
-    "username": "Alpha",
-    "rank": "Capo Crimini",
-    "hits": 1,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "228c70bfc5589c58c044e03fff0e17eb",
+    "id": "89652ee1-dd42-40a1-8a72-4ba7e5fe11df",
     "username": "Legacy",
     "rank": null,
-    "hits": 0,
-    "gottenHit": 2,
+    "hits": 1,
+    "gottenHit": 5,
     "dead": false,
     "hitBy": [
       "[Anonym bruker]",
-      "Knust"
+      "Knust",
+      "Ascension",
+      "Magnus Karlsen",
+      "Sala Consilina"
     ],
-    "aliases": []
+    "aliases": [
+      "Anonyma"
+    ]
   },
   {
-    "id": "b60eb63f56492b10e091f78de503bcf4",
-    "username": "Uheldige Berga",
-    "rank": "Gudfar",
-    "hits": 2,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "58b3994b2fc2536ee6d208039d3f8849",
+    "id": "f067801a-dd04-4d4c-9cd7-436a26a85554",
     "username": "Casper",
     "rank": "Gudfar",
     "hits": 0,
@@ -338,59 +761,7 @@
     "aliases": []
   },
   {
-    "id": "3167898881e33f46c0b3bae578b7c263",
-    "username": "luksus",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "3d8829fefb8fe6f0df44a76f14c449d2",
-    "username": "Yoshi",
-    "rank": "Capo de tutti Capi",
-    "hits": 6,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "R octavoc r"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "d93e08b79bc96b75044f4ef6d582c972",
-    "username": "Apeloff",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "904cafa8ffce37bde36f2642dbc38e6e",
-    "username": "Bastardo",
-    "rank": "Capo de tutti Capi",
-    "hits": 16,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "cbd44f8b5b48a51f7dab98abcdf45d4e",
-    "username": "Brian",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "2d626704807d4c5be1b46e85c4070fec",
+    "id": "25a40122-a4ee-4bb2-bf16-239bba418ea7",
     "username": "Mayhem",
     "rank": "Capo Crimini",
     "hits": 4,
@@ -403,17 +774,7 @@
     "aliases": []
   },
   {
-    "id": "d7260cc2ec426d6fdd4120c73c37291c",
-    "username": "balltre",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "8b2a9c176d358811a479f771a5874c1b",
+    "id": "aa13fa08-1b79-4662-a9d9-fdeb4371ff92",
     "username": "6037",
     "rank": "Capo Crimini",
     "hits": 7,
@@ -430,7 +791,7 @@
     "aliases": []
   },
   {
-    "id": "6384e2b2184bcbf58eccf10ca7a6563c",
+    "id": "1eb2d7db-2e8b-4d83-888f-0feab043e2d2",
     "username": "Alice",
     "rank": "Gudfar",
     "hits": 0,
@@ -444,25 +805,7 @@
     "aliases": []
   },
   {
-    "id": "b1bf8e6f2cb414dc95f5953f464c6694",
-    "username": "Mi2",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 7,
-    "dead": false,
-    "hitBy": [
-      "Alpha",
-      "Uheldige Berga",
-      "WinterSeason",
-      "Clown",
-      "Hunk",
-      "[Anonym bruker]",
-      "Obsession"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "3b74a50a44a41ccb8a45b998b80d762f",
+    "id": "24a4c389-e93b-4efe-ae1a-d6cc5987702d",
     "username": "Sjef1",
     "rank": "Gudfar",
     "hits": 0,
@@ -474,7 +817,7 @@
     "aliases": []
   },
   {
-    "id": "710b823d400376541e126d627083a84b",
+    "id": "b543d10a-1143-4a24-a052-4bc33e98645b",
     "username": "Tuco Salamanca",
     "rank": "Capo de tutti Capi",
     "hits": 0,
@@ -490,7 +833,7 @@
     "aliases": []
   },
   {
-    "id": "2e92d188dbdbd88e7c15831f4abfe1fc",
+    "id": "a800a275-dd2b-4b1f-b6b9-e01f39851308",
     "username": "Roma",
     "rank": "Capo de tutti Capi",
     "hits": 2,
@@ -500,7 +843,7 @@
     "aliases": []
   },
   {
-    "id": "20edaa5ee4bde68e1ea0a9b4e8f5235f",
+    "id": "961174b0-e136-4a72-b5ff-a412e603d576",
     "username": "Latis",
     "rank": "Capo Crimini",
     "hits": 9,
@@ -513,7 +856,7 @@
     "aliases": []
   },
   {
-    "id": "34e299984ef9a6a236767d1c4a0bdeff",
+    "id": "33f2e9e3-8283-44a0-a98e-e524a63e892f",
     "username": "Cunha",
     "rank": "Capo de tutti Capi",
     "hits": 3,
@@ -526,42 +869,7 @@
     "aliases": []
   },
   {
-    "id": "0c1676dc14225ed22c7f183bd7ca17bc",
-    "username": "Radagast",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "23f9d50ecd20ccc464f4ad45a3328948",
-    "username": "Precious",
-    "rank": null,
-    "hits": 4,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "8a5ae21a7df6b5b4559296095cce36d2",
-    "username": "Knust",
-    "rank": "Capo Crimini",
-    "hits": 3,
-    "gottenHit": 4,
-    "dead": false,
-    "hitBy": [
-      "Precious",
-      "[Anonym bruker]",
-      "Jesse pinkman",
-      "Denial"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "9ba6ffa93e74bb826528cd9d749e1f3e",
+    "id": "3034d45d-1089-4b2d-808d-886b107b62af",
     "username": "Xyse",
     "rank": "Gudfar",
     "hits": 1,
@@ -571,7 +879,7 @@
     "aliases": []
   },
   {
-    "id": "8abf9ea4e2d083fe1076ee2f8de5f301",
+    "id": "4d7d4a61-4930-4254-9b50-2d182774e010",
     "username": "storevenn",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -581,7 +889,7 @@
     "aliases": []
   },
   {
-    "id": "ab17850978e36aaf6a2b8808f1ded971",
+    "id": "0249791e-d614-4dcc-aba0-4544b62245dc",
     "username": "Gandalf",
     "rank": "Gudfar",
     "hits": 0,
@@ -591,23 +899,7 @@
     "aliases": []
   },
   {
-    "id": "04a59999881e587cda0d94739f18283c",
-    "username": "Notorious",
-    "rank": null,
-    "hits": 4,
-    "gottenHit": 5,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]",
-      "Caligula",
-      "Arvid 2",
-      "Unseelie",
-      "Hunk"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "d78ea4b22d238d0f65d02074210c2651",
+    "id": "36a267bd-8cce-46d4-aad8-d02117a42d46",
     "username": "WinterSeason",
     "rank": "Gudfar",
     "hits": 3,
@@ -619,7 +911,7 @@
     "aliases": []
   },
   {
-    "id": "18126e7bd3f84b3f3e4df094def5b7de",
+    "id": "c356978a-bfd9-4031-9169-7583c051378c",
     "username": "Mike",
     "rank": "Gudfar",
     "hits": 0,
@@ -632,7 +924,7 @@
     "aliases": []
   },
   {
-    "id": "eb479605271a1f0ffff9d87f2cab0b75",
+    "id": "77e6a13b-d16d-46c8-95cd-31224461d77b",
     "username": "Freeze",
     "rank": "Gudfar",
     "hits": 0,
@@ -645,7 +937,7 @@
     "aliases": []
   },
   {
-    "id": "9617763692041122bb517f131f6520e7",
+    "id": "925b7956-3459-4378-b977-41db2a7f0485",
     "username": "Ubuden Gjest",
     "rank": "Capo Crimini",
     "hits": 11,
@@ -657,7 +949,7 @@
     "aliases": []
   },
   {
-    "id": "8648890d976cf9f271bea16c51fb91d7",
+    "id": "bfe80aa1-8011-45f2-86f4-12ffc24fbeb9",
     "username": "Vikingen",
     "rank": "Gudfar",
     "hits": 0,
@@ -667,7 +959,7 @@
     "aliases": []
   },
   {
-    "id": "182a1e726ac1c8ae851194cea6df0393",
+    "id": "95377cca-8d27-49d9-bbb7-fe0952563b9a",
     "username": "Schizophrenia",
     "rank": "Capo de tutti Capi",
     "hits": 0,
@@ -677,7 +969,7 @@
     "aliases": []
   },
   {
-    "id": "7e9aedd97b5ec4590edb8281ff12b168",
+    "id": "19d0786b-3511-4ecf-87ff-3c35faf43dbf",
     "username": "Zen",
     "rank": "Capo de tutti Capi",
     "hits": 8,
@@ -694,20 +986,25 @@
     "aliases": []
   },
   {
-    "id": "c22dbeb461dc31b294d39ee5aa949a74",
+    "id": "ea75b364-aab4-4454-9c1c-1c1e6c3533a6",
     "username": "The Skankhunt",
     "rank": null,
     "hits": 3,
-    "gottenHit": 2,
+    "gottenHit": 5,
     "dead": true,
     "hitBy": [
       "[Anonym bruker]",
-      "Hunk"
+      "Hunk",
+      "Freddy Geas",
+      "[Anonym bruker]",
+      "Palermo"
     ],
-    "aliases": []
+    "aliases": [
+      "Skankhunt"
+    ]
   },
   {
-    "id": "04390ea7bfc1081a553c36dc11b3c95a",
+    "id": "46147ac6-b767-43f7-ad97-5196e84cc4c2",
     "username": "Hunk",
     "rank": "Capo de tutti Capi",
     "hits": 34,
@@ -723,7 +1020,7 @@
     "aliases": []
   },
   {
-    "id": "458a2eb0daa8654a68c39ef768141728",
+    "id": "5c366a98-a960-4830-95da-235d9ed2fb1e",
     "username": "PS5",
     "rank": "Gudfar",
     "hits": 0,
@@ -736,7 +1033,7 @@
     "aliases": []
   },
   {
-    "id": "226e70a7049829ab8f533587d91c7d6d",
+    "id": "b02836b3-d53f-4d78-81f9-2e2d5627cb67",
     "username": "Grief",
     "rank": "Capo Crimini",
     "hits": 9,
@@ -750,7 +1047,7 @@
     "aliases": []
   },
   {
-    "id": "0c90d610047f17b6c9af17d7c9faa333",
+    "id": "9c85e41d-d60a-43c7-8135-234a534f9207",
     "username": "Joani",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -760,20 +1057,7 @@
     "aliases": []
   },
   {
-    "id": "848ffd503f98d2368d47abceb4821465",
-    "username": "Castro",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Knust",
-      "Sicilia"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "26af55a4745abd7b474d72f6146b8b3f",
+    "id": "5143e6e0-b525-425e-9ad3-fd9aa981b1ea",
     "username": "sykes",
     "rank": "Gudfar",
     "hits": 0,
@@ -788,7 +1072,7 @@
     "aliases": []
   },
   {
-    "id": "1b36a396c06bbcecdd2740c9716bb331",
+    "id": "fd56b11f-1d86-4c66-835e-0de1c25fa933",
     "username": "Vow",
     "rank": "Capo Crimini",
     "hits": 13,
@@ -800,7 +1084,7 @@
     "aliases": []
   },
   {
-    "id": "910212d01c6ca98d108561a645b21e84",
+    "id": "9ffc398d-7e5d-4e41-919f-500a3c15fdb9",
     "username": "Jimbo",
     "rank": "Capo de tutti Capi",
     "hits": 0,
@@ -815,7 +1099,7 @@
     "aliases": []
   },
   {
-    "id": "99b6d569ecb9344764d08b4f076901f0",
+    "id": "51065b39-b3dd-4679-8234-2ae6a15cd6ba",
     "username": "Firenze",
     "rank": "Capo de tutti Capi",
     "hits": 12,
@@ -828,7 +1112,7 @@
     "aliases": []
   },
   {
-    "id": "e08622684102438eb6f4285e36c995e2",
+    "id": "55ce3b89-5687-4a4d-b66f-c61cd75f6265",
     "username": "vowen",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -842,7 +1126,7 @@
     "aliases": []
   },
   {
-    "id": "b20b9937d149bffc673ee6a8fd67d09a",
+    "id": "c3b888ad-4d93-4667-994b-bf0c617ba565",
     "username": "Mr Livermore",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -852,7 +1136,7 @@
     "aliases": []
   },
   {
-    "id": "e8dc4081b13434b45189a720b77b6818",
+    "id": "7c3059ef-e72f-4ad4-abaf-a6d4ab40ea45",
     "username": "Abcdefgh",
     "rank": "Capo Crimini",
     "hits": 8,
@@ -865,20 +1149,7 @@
     "aliases": []
   },
   {
-    "id": "38aaab77830814713ca701272923933c",
-    "username": "The Duke",
-    "rank": "Capo Crimini",
-    "hits": 4,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Ferie er over",
-      "[Anonym bruker]"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "c47726cbfa46f5303ad15747a0fb4131",
+    "id": "dc9f60b8-4faf-4c5b-b3eb-bc3eac9d8f3e",
     "username": "The Accountant",
     "rank": "Gudfar",
     "hits": 0,
@@ -892,7 +1163,7 @@
     "aliases": []
   },
   {
-    "id": "8b61c11eb8baedd53d2e99d1a01fa7bb",
+    "id": "1737d8dd-85e0-4817-a250-ea648dfc0343",
     "username": "Clown",
     "rank": "Capo de tutti Capi",
     "hits": 21,
@@ -909,20 +1180,52 @@
     "aliases": []
   },
   {
-    "id": "46a9c7a3ede3c60eb54721d9e6431309",
-    "username": "Guy Fawkes",
-    "rank": "Capo de tutti Capi",
-    "hits": 3,
+    "id": "b8403dfa-84e8-4f6e-b504-4a02caf2318d",
+    "username": "Haakon",
+    "rank": "Capo Crimini",
+    "hits": 1,
     "gottenHit": 2,
     "dead": false,
     "hitBy": [
-      "WinterSeason",
-      "WinterSeason"
+      "Rose",
+      "Rose"
     ],
     "aliases": []
   },
   {
-    "id": "68c00dce0c295ef29a71840f75bb0352",
+    "id": "681cad70-f57d-460d-8ce3-4dc959b7a6da",
+    "username": "Ferrara",
+    "rank": "Capo de tutti Capi",
+    "hits": 3,
+    "gottenHit": 4,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Jesse pinkman",
+      "Walt Whitman",
+      "Walt Whitman"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "2e1321ea-704b-42b8-a582-9875df3b8c26",
+    "username": "Sniper",
+    "rank": null,
+    "hits": 3,
+    "gottenHit": 4,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Jesse pinkman",
+      "Walt Whitman",
+      "Walt Whitman"
+    ],
+    "aliases": [
+      "Ferrara"
+    ]
+  },
+  {
+    "id": "8eb18963-e1f5-4d3c-a194-9ad631b7db3e",
     "username": "Sir Racha",
     "rank": "Gudfar",
     "hits": 0,
@@ -932,7 +1235,7 @@
     "aliases": []
   },
   {
-    "id": "59c04b84b374e9368fb21b1cd0e9846a",
+    "id": "6e01897b-f8ac-43c1-9c19-1745d1211153",
     "username": "Vengeance",
     "rank": "Gudfar",
     "hits": 0,
@@ -942,7 +1245,7 @@
     "aliases": []
   },
   {
-    "id": "4229d691b07b13341da53f17ab9f2416",
+    "id": "480cfbc5-309b-4b65-a14c-73282e6f3d82",
     "username": "Hell",
     "rank": "Gudfar",
     "hits": 0,
@@ -954,7 +1257,7 @@
     "aliases": []
   },
   {
-    "id": "12313a3d28f802e3a22b07d2e01c6dcf",
+    "id": "b5b875f9-b9fb-4693-aa71-7e0bc5c1e75f",
     "username": "Sol",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -964,7 +1267,7 @@
     "aliases": []
   },
   {
-    "id": "b0d0eed5f1ffba58f9cd1ab57834712c",
+    "id": "fb0bdd6a-f3ea-4826-938f-aabe93d9cd8e",
     "username": "Sicilia",
     "rank": "Capo de tutti Capi",
     "hits": 11,
@@ -976,7 +1279,7 @@
     "aliases": []
   },
   {
-    "id": "fd04791012b234e48d348cebb5e18790",
+    "id": "4097d0be-6a17-4913-86e5-c8d73373e67c",
     "username": "Fanta",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -988,7 +1291,7 @@
     "aliases": []
   },
   {
-    "id": "9aea99aed2f8fd9e0648ec445062673b",
+    "id": "cf00da2c-6d4b-4896-8d92-592ca748285b",
     "username": "Glitch",
     "rank": "Capo de tutti Capi",
     "hits": 2,
@@ -1004,7 +1307,7 @@
     "aliases": []
   },
   {
-    "id": "250ad995a9e9a734e027b093907cea70",
+    "id": "43f3e13c-e43a-4384-9baa-e0ddb23ef51e",
     "username": "SynVoid",
     "rank": "Gudfar",
     "hits": 0,
@@ -1017,7 +1320,7 @@
     "aliases": []
   },
   {
-    "id": "56446e0107ff8c121750ff4f3fe8d779",
+    "id": "9191edd6-4312-4a67-b2f6-4232cf927c13",
     "username": "Herregud",
     "rank": "Gudfar",
     "hits": 0,
@@ -1027,7 +1330,7 @@
     "aliases": []
   },
   {
-    "id": "58285403df031b71f35528872f161695",
+    "id": "2bdad15d-bea9-4769-827a-29e178fac2f5",
     "username": "Haze",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1040,7 +1343,7 @@
     "aliases": []
   },
   {
-    "id": "85e7a4fd7d0f511ae5eb03baa3db4074",
+    "id": "70f5f7fa-693d-4ebe-9402-7d12d1f8d817",
     "username": "SelbuVott",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1052,7 +1355,7 @@
     "aliases": []
   },
   {
-    "id": "8e30cec278e93cd697957be1508b8f5d",
+    "id": "778e84fb-696f-4ef7-9ff3-5cad366d2bd7",
     "username": "Jesse pinkman",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -1069,7 +1372,7 @@
     "aliases": []
   },
   {
-    "id": "68f46db15e0435f3818becf523f52b2b",
+    "id": "52d89e5b-dba5-4325-9039-2e5da9020ff0",
     "username": "travelt",
     "rank": "Gudfar",
     "hits": 0,
@@ -1079,7 +1382,7 @@
     "aliases": []
   },
   {
-    "id": "6d684af133efbbeb1445fe87d3a16765",
+    "id": "35dd3967-e5ba-40ff-a4bd-7063ce2f06d7",
     "username": "Denial",
     "rank": "Gudfar",
     "hits": 1,
@@ -1093,7 +1396,7 @@
     "aliases": []
   },
   {
-    "id": "bb31b86124cc4f7df651e7bfdc801f68",
+    "id": "7d00de55-46fb-438f-8abe-91c781a1ef7b",
     "username": "Gustavo Fring",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1107,22 +1410,7 @@
     "aliases": []
   },
   {
-    "id": "dee77b12002b838de315147b1dac24cc",
-    "username": "Ferrara",
-    "rank": "Capo de tutti Capi",
-    "hits": 3,
-    "gottenHit": 4,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]",
-      "Jesse pinkman",
-      "Walt Whitman",
-      "Walt Whitman"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "8d45c85b51b27a04ad7fdfc3f126f9f8",
+    "id": "9fd16722-472c-4a40-aecf-e4d4162d260c",
     "username": "Bell",
     "rank": "Capo de tutti Capi",
     "hits": 4,
@@ -1135,7 +1423,7 @@
     "aliases": []
   },
   {
-    "id": "c48ba993d35c3abe0380f91738fe2a34",
+    "id": "82ff2bc1-cbe0-4dbf-ab4a-7cb335bbb8c7",
     "username": "Candy",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1148,7 +1436,7 @@
     "aliases": []
   },
   {
-    "id": "a12e5552edff245429ab97122673b0bc",
+    "id": "f6177260-33b1-43ee-8122-d4a1886f0f7b",
     "username": "Far reidar",
     "rank": "Gudfar",
     "hits": 1,
@@ -1158,7 +1446,7 @@
     "aliases": []
   },
   {
-    "id": "e4d0c5fcda1abceddd53379390de54d9",
+    "id": "3e7e5b6d-e68b-494f-b9b1-3f5962e5ded2",
     "username": "Chilllz",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1168,7 +1456,7 @@
     "aliases": []
   },
   {
-    "id": "214d8fdda55470e7ec52b278539ad7bc",
+    "id": "6368f1bf-e041-4ef0-afc7-5aa057513e85",
     "username": "Pepsimax",
     "rank": "Gudfar",
     "hits": 0,
@@ -1178,7 +1466,7 @@
     "aliases": []
   },
   {
-    "id": "3e671ea34dcac32e7e9e7c67ee8cfc0b",
+    "id": "0ef34a3c-c1e5-4d3b-b7a7-45112b6758e0",
     "username": "SMK",
     "rank": "Gudfar",
     "hits": 0,
@@ -1190,7 +1478,7 @@
     "aliases": []
   },
   {
-    "id": "3a2297387d80efa2de1653073c4cce63",
+    "id": "a2d5908e-e48b-47e6-a8bb-1d22efdffe91",
     "username": "Snodig",
     "rank": "Gudfar",
     "hits": 0,
@@ -1202,7 +1490,33 @@
     "aliases": []
   },
   {
-    "id": "c2770489e2a865dc6d0cd05fcc30e511",
+    "id": "16445126-c6b7-4021-a8b6-f0fd73801293",
+    "username": "Vixen",
+    "rank": "Capo de tutti Capi",
+    "hits": 3,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "3c8310f8-1d55-4416-bed8-e31dd5dfb3f8",
+    "username": "Desire",
+    "rank": null,
+    "hits": 3,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]"
+    ],
+    "aliases": [
+      "Vixen"
+    ]
+  },
+  {
+    "id": "bdd86434-98d3-4a20-a1ea-40cef27a4e5e",
     "username": "kunstner navn",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -1219,7 +1533,7 @@
     "aliases": []
   },
   {
-    "id": "114fdfefd3d69799f0b6f73ef764d405",
+    "id": "6586b2e9-2533-4dc4-a742-12460b2251f7",
     "username": "Santos",
     "rank": "Capo Crimini",
     "hits": 5,
@@ -1229,7 +1543,7 @@
     "aliases": []
   },
   {
-    "id": "74ea571b38a834469ce412431eef7270",
+    "id": "6b49216b-06a5-472c-a56d-8d1101f5da81",
     "username": "Caligula",
     "rank": "Capo Crimini",
     "hits": 5,
@@ -1239,7 +1553,7 @@
     "aliases": []
   },
   {
-    "id": "292d11345435f42644a823fdac19a55c",
+    "id": "3f6e68e0-c83d-461f-acab-71e636eee28d",
     "username": "Tussemor",
     "rank": "Gudfar",
     "hits": 0,
@@ -1249,7 +1563,7 @@
     "aliases": []
   },
   {
-    "id": "e06d4d1d940389d84eb221b96eddf294",
+    "id": "c6b85a14-1685-4595-8a61-27f8d7c884d9",
     "username": "Sir Endipity",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1266,7 +1580,7 @@
     "aliases": []
   },
   {
-    "id": "3f8da8d150df71f64db5f8e96438c567",
+    "id": "0a8c5bc9-416b-478e-87c3-fcb4d449904e",
     "username": "Scorpion",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1279,17 +1593,7 @@
     "aliases": []
   },
   {
-    "id": "7a7ea6908e33896ddcc8b82f264f4f7a",
-    "username": "Maestro",
-    "rank": "Capo de tutti Capi",
-    "hits": 5,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "47bc17dc1a2f164967f55325d866c75c",
+    "id": "3298adf8-1f43-46fe-8b3b-6064a9defc7d",
     "username": "Olivia",
     "rank": "Capo Crimini",
     "hits": 4,
@@ -1305,7 +1609,7 @@
     "aliases": []
   },
   {
-    "id": "0d9467dca9236af75102a3a95c410bc5",
+    "id": "b57aeda1-1155-4720-aaea-9b10b02bdb9a",
     "username": "Vock",
     "rank": "Gudfar",
     "hits": 0,
@@ -1315,19 +1619,7 @@
     "aliases": []
   },
   {
-    "id": "a4f3da8738ae76e3e61fed54f89da40c",
-    "username": "Vixen",
-    "rank": "Capo de tutti Capi",
-    "hits": 3,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "83b3335d71138a7d33a1d9ea63e19fba",
+    "id": "2c95477e-e508-488e-8216-86afaca96db8",
     "username": "Bezos",
     "rank": "Gudfar",
     "hits": 0,
@@ -1340,7 +1632,7 @@
     "aliases": []
   },
   {
-    "id": "bf8525b4cd3cf2d4d92df4fa7d11e404",
+    "id": "def0e275-213e-4bd4-af2d-a9b0ece4484b",
     "username": "torsken",
     "rank": "Gudfar",
     "hits": 0,
@@ -1354,7 +1646,7 @@
     "aliases": []
   },
   {
-    "id": "1c21d9b19298645fa2534d9828ee0778",
+    "id": "c7f3ef46-ceea-4065-b41d-3f473888c264",
     "username": "Micro",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1367,7 +1659,7 @@
     "aliases": []
   },
   {
-    "id": "1523a3e2351d153732ff47b316c85389",
+    "id": "cdd7f7fa-fbd7-49e8-820b-54d0fd387049",
     "username": "Koma",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1380,7 +1672,7 @@
     "aliases": []
   },
   {
-    "id": "7853a76cdbdba2939d0dd50bfa1a0db3",
+    "id": "f829f651-930f-4f6c-bca7-55dbffeec2aa",
     "username": "Smaay",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -1395,17 +1687,7 @@
     "aliases": []
   },
   {
-    "id": "4330f101855d8ef6a9bfc5f097fd28fa",
-    "username": "Ferie er over",
-    "rank": "Gudfar",
-    "hits": 2,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "756eda031c28322e37f1db0f742cc56c",
+    "id": "d61d7c92-5cd4-422d-91d7-8205ae4455ef",
     "username": "fena",
     "rank": "Gudfar",
     "hits": 0,
@@ -1418,17 +1700,19 @@
     "aliases": []
   },
   {
-    "id": "a8373c1b02760740032a9c893afeefff",
+    "id": "690a63cc-f373-42c6-abc4-819fd0aeeca1",
     "username": "Uheldige Olga",
     "rank": "Capo de tutti Capi",
-    "hits": 9,
+    "hits": 12,
     "gottenHit": 0,
     "dead": false,
     "hitBy": [],
-    "aliases": []
+    "aliases": [
+      "Mongo"
+    ]
   },
   {
-    "id": "104004214ebf2a9e7840ed8d280a887d",
+    "id": "92b1908d-09ee-4ae6-90ff-cf6ccbb359c5",
     "username": "Marshmallow",
     "rank": "Gudfar",
     "hits": 4,
@@ -1441,7 +1725,7 @@
     "aliases": []
   },
   {
-    "id": "00423e8e82a9b6acab0a6585045fb0e6",
+    "id": "dab81a32-0c29-4b60-8697-0a4242ca7657",
     "username": "Exys",
     "rank": "Capo Crimini",
     "hits": 5,
@@ -1455,7 +1739,7 @@
     "aliases": []
   },
   {
-    "id": "d5b2f19fa37455dab704aae278c6c2ae",
+    "id": "b6529558-ec49-45e7-b50c-928011de48cb",
     "username": "Th Kittelsen",
     "rank": "Capo Crimini",
     "hits": 3,
@@ -1473,7 +1757,7 @@
     "aliases": []
   },
   {
-    "id": "c31f6e2b563a971389c69eb392b54e29",
+    "id": "06f36132-984c-4f6f-8ea7-ec98e5365e67",
     "username": "Gambino",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1486,7 +1770,7 @@
     "aliases": []
   },
   {
-    "id": "288311fdda8a29ae019afdb0ad82739c",
+    "id": "f948dba5-813e-4723-9e84-7d6f4179d057",
     "username": "Crocs",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1498,7 +1782,7 @@
     "aliases": []
   },
   {
-    "id": "d54df3dc87a66a88993aff87dcb34335",
+    "id": "ca7bed5e-d715-40b0-b0d2-0fdd32c50f07",
     "username": "Santino",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1511,7 +1795,7 @@
     "aliases": []
   },
   {
-    "id": "b87ea7c0807a8f9a950265258037b509",
+    "id": "93d74904-1ed6-43eb-82e5-bb4f1fe07ae0",
     "username": "Magnus Karlsen",
     "rank": "Capo Crimini",
     "hits": 5,
@@ -1525,7 +1809,7 @@
     "aliases": []
   },
   {
-    "id": "6e2213858374dda06c6c17da156466ee",
+    "id": "4d82b9f2-f291-4675-8b51-a082279df036",
     "username": "Sleiken",
     "rank": "Gudfar",
     "hits": 0,
@@ -1537,7 +1821,7 @@
     "aliases": []
   },
   {
-    "id": "d3aa9bc61e5ef67b3f3d4f616ce75123",
+    "id": "c9ea146b-fb4c-4927-972f-a2c72e9f567d",
     "username": "MrVitaley",
     "rank": "Gudfar",
     "hits": 0,
@@ -1551,7 +1835,7 @@
     "aliases": []
   },
   {
-    "id": "bb8a448c1e7b1ef9400da3382fce603a",
+    "id": "a5969803-f0d2-4f7e-9b44-68683c55eccf",
     "username": "Typhon",
     "rank": "Gudfar",
     "hits": 0,
@@ -1561,7 +1845,7 @@
     "aliases": []
   },
   {
-    "id": "ae502d8202f5f0864e98e552ba43b4cb",
+    "id": "8f549338-288b-4d14-ad88-ced0c32833b7",
     "username": "Ica2",
     "rank": "Gudfar",
     "hits": 0,
@@ -1575,7 +1859,7 @@
     "aliases": []
   },
   {
-    "id": "d501189aae0353415a0de78b74b81f2c",
+    "id": "53381d0d-ff1b-46aa-a38e-bc9edb6cd6be",
     "username": "Eltre 3",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1585,7 +1869,7 @@
     "aliases": []
   },
   {
-    "id": "a3f09382d0d3e07f89a5b8bf29a5a8d2",
+    "id": "d8848d62-4000-4542-9535-b882f7683a06",
     "username": "Ash Ketchum",
     "rank": "Gudfar",
     "hits": 0,
@@ -1599,7 +1883,7 @@
     "aliases": []
   },
   {
-    "id": "e9c5d2742ba9769d527f3ed8c3794db0",
+    "id": "344d0c52-5d25-456f-afaa-d0ae772bfb54",
     "username": "Loppa84",
     "rank": "Gudfar",
     "hits": 0,
@@ -1613,22 +1897,25 @@
     "aliases": []
   },
   {
-    "id": "6e5b068265b5880e34cfe6c247922d00",
+    "id": "332c7614-de15-4368-a86c-be4a762b4b1c",
     "username": "test160",
     "rank": "Capo de tutti Capi",
-    "hits": 9,
-    "gottenHit": 4,
+    "hits": 10,
+    "gottenHit": 5,
     "dead": false,
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]",
       "Hank Schrader",
-      "Mundo"
+      "Mundo",
+      "Interstellar"
     ],
-    "aliases": []
+    "aliases": [
+      "Piccolo"
+    ]
   },
   {
-    "id": "d2aefeac9dc661bc98eebd6cc12f0b82",
+    "id": "6405164f-200d-494f-ac88-2b3de7e74272",
     "username": "Bullshit",
     "rank": "Gudfar",
     "hits": 0,
@@ -1641,7 +1928,7 @@
     "aliases": []
   },
   {
-    "id": "858706c41c03db18d565da440fc97bc9",
+    "id": "a3093424-38fc-42d7-9583-420584f96d46",
     "username": "Superuuflaks",
     "rank": "Gudfar",
     "hits": 0,
@@ -1653,20 +1940,26 @@
     "aliases": []
   },
   {
-    "id": "8bf4e6addd72a9c4c4714708d2941528",
+    "id": "1afe22a1-37aa-4d6d-b4fc-5da842e9db91",
     "username": "Monster",
     "rank": "Capo de tutti Capi",
-    "hits": 3,
-    "gottenHit": 2,
+    "hits": 17,
+    "gottenHit": 6,
     "dead": true,
     "hitBy": [
       "[Anonym bruker]",
-      "[Anonym bruker]"
+      "[Anonym bruker]",
+      "singel igjen",
+      "[Anonym bruker]",
+      "[Anonym bruker]",
+      "Grief"
     ],
-    "aliases": []
+    "aliases": [
+      "Kodak black"
+    ]
   },
   {
-    "id": "eac6bc8a9917277f50a76b99c5dc749a",
+    "id": "0cfd9a5f-a139-489b-8c92-b4036db57055",
     "username": "Tasso1996",
     "rank": "Gudfar",
     "hits": 0,
@@ -1679,17 +1972,21 @@
     "aliases": []
   },
   {
-    "id": "6591c9d16465e73c45b594e283c408ab",
-    "username": "Turid",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
+    "id": "7c5e8eeb-cbe5-4e6b-8243-58ce835942ed",
+    "username": "Anonyma",
+    "rank": "Capo Crimini",
+    "hits": 1,
+    "gottenHit": 3,
     "dead": false,
-    "hitBy": [],
+    "hitBy": [
+      "Ascension",
+      "Magnus Karlsen",
+      "Sala Consilina"
+    ],
     "aliases": []
   },
   {
-    "id": "c93a180d46db50c944dab0aefa87b0d3",
+    "id": "d33d559a-3cb2-4ad0-9820-ed68fb2bf3bf",
     "username": "Unseelie",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -1703,7 +2000,7 @@
     "aliases": []
   },
   {
-    "id": "53dfe343354d174e0e13dd0b6a1f80c8",
+    "id": "588649cf-a58c-4cc2-a27a-b6974a0b4102",
     "username": "Franz Hermann",
     "rank": "Gudfar",
     "hits": 0,
@@ -1717,7 +2014,7 @@
     "aliases": []
   },
   {
-    "id": "e1ddc728a1c864d6ddc670e6d1e9e6d3",
+    "id": "98793030-b3dd-477c-86d9-17a04c5174fd",
     "username": "Edward Kenway",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -1734,7 +2031,7 @@
     "aliases": []
   },
   {
-    "id": "681e87c67b4b73e737fc84e717480eb4",
+    "id": "3657ec0b-73cc-4e71-808f-9f08f5fcfab6",
     "username": "Tekopp",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -1744,7 +2041,7 @@
     "aliases": []
   },
   {
-    "id": "bc9a3b4a271a2024fc489e1e5fa35fb7",
+    "id": "b8c5a456-6768-4f88-a10b-466dd12a33cd",
     "username": "Luxury",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1756,7 +2053,7 @@
     "aliases": []
   },
   {
-    "id": "79d59e15a7ea854f33a921159447668c",
+    "id": "bf7b966d-3f92-49e6-9700-a1a0a15a265c",
     "username": "Balin",
     "rank": "Capo de tutti Capi",
     "hits": 0,
@@ -1770,17 +2067,7 @@
     "aliases": []
   },
   {
-    "id": "0fd9accd1d8c95e86a96f681b6805948",
-    "username": "Katt",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "30056e1cab7a61d256fc8edd970d14f5",
+    "id": "0383a99a-6586-49ab-a137-54052e3b09e7",
     "username": "Five",
     "rank": "Gudfar",
     "hits": 0,
@@ -1790,7 +2077,7 @@
     "aliases": []
   },
   {
-    "id": "172522ec1028ab781d9dfd17eaca4427",
+    "id": "fdffb511-deeb-4740-873c-f89f58f041a7",
     "username": "David",
     "rank": "Capo de tutti Capi",
     "hits": 0,
@@ -1805,7 +2092,7 @@
     "aliases": []
   },
   {
-    "id": "8f7f72a50d54c3d6ec005ed8c53f3bbd",
+    "id": "1057bfd2-4577-4de9-9981-000b4a444005",
     "username": "Vogue",
     "rank": "Capo de tutti Capi",
     "hits": 8,
@@ -1820,7 +2107,7 @@
     "aliases": []
   },
   {
-    "id": "692084f4798e15ac71110550fe724e0a",
+    "id": "2b00a9a2-732c-43ae-8733-1027b782e50c",
     "username": "Fretex",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1834,9 +2121,9 @@
     "aliases": []
   },
   {
-    "id": "0e30af5c0319524d9a9295eaa02e7554",
-    "username": "Chaeyoung",
-    "rank": null,
+    "id": "0cb6bb5b-3bbf-488f-a9e2-5b1a2937458b",
+    "username": "Rizz",
+    "rank": "Capo Crimini",
     "hits": 2,
     "gottenHit": 0,
     "dead": false,
@@ -1844,21 +2131,7 @@
     "aliases": []
   },
   {
-    "id": "20ee80e63596799a1543bc9fd88d8878",
-    "username": "Bunny",
-    "rank": "Capo de tutti Capi",
-    "hits": 1,
-    "gottenHit": 3,
-    "dead": false,
-    "hitBy": [
-      "Olga Burger",
-      "Nightwalker",
-      "Hunk"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "e847897826ceb8346eb5141f8c23436a",
+    "id": "fe828148-62e3-4065-9605-f52ad5aca0e9",
     "username": "Ops",
     "rank": "Gudfar",
     "hits": 0,
@@ -1871,7 +2144,7 @@
     "aliases": []
   },
   {
-    "id": "b769e30df660ac8e18b4b71377f74389",
+    "id": "a22f49db-25b0-4217-b062-d829e2872ce4",
     "username": "Erebos",
     "rank": "Gudfar",
     "hits": 0,
@@ -1884,7 +2157,7 @@
     "aliases": []
   },
   {
-    "id": "272cf57abd9ff48dde4b5ae6e4a04b78",
+    "id": "82211bf3-dda5-4faa-8525-5b6f20e4b498",
     "username": "Epochal",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1894,7 +2167,7 @@
     "aliases": []
   },
   {
-    "id": "203a84a8060b050867ca9fd79a8fbd54",
+    "id": "6a9344ae-46fe-4cce-985f-ad180f0873e9",
     "username": "Enid Sinclair",
     "rank": "Gudfar",
     "hits": 0,
@@ -1907,17 +2180,7 @@
     "aliases": []
   },
   {
-    "id": "aeb0b865236c3d5bdabecd8b21002063",
-    "username": "Rizz",
-    "rank": "Capo Crimini",
-    "hits": 2,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "fb498551f374f9556d820791c09f34ca",
+    "id": "56c931bd-aa0a-40a8-a776-09c49fc70fc8",
     "username": "Pushwagner",
     "rank": "Capo de tutti Capi",
     "hits": 4,
@@ -1927,10 +2190,12 @@
       "[Anonym bruker]",
       "[Anonym bruker]"
     ],
-    "aliases": []
+    "aliases": [
+      "Qwerty"
+    ]
   },
   {
-    "id": "0929773d9ef2258947f230dc0cd9f08a",
+    "id": "ab10f959-0e4f-411d-8ecd-1d8d4535ff9b",
     "username": "Darkgnark",
     "rank": "Gudfar",
     "hits": 0,
@@ -1943,7 +2208,7 @@
     "aliases": []
   },
   {
-    "id": "7c2507686693e46450b68fbe1eb85301",
+    "id": "ae9f4e11-1816-4255-b7ba-c1a05a38d47c",
     "username": "Mussolini",
     "rank": "Capo Crimini",
     "hits": 9,
@@ -1956,7 +2221,7 @@
     "aliases": []
   },
   {
-    "id": "f94adcc3ddda04a8f34928d862f404b4",
+    "id": "dc8be1d8-a203-46e8-8de1-456f85ec17f6",
     "username": "Josh",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -1966,7 +2231,7 @@
     "aliases": []
   },
   {
-    "id": "cb46147cf829db81e9fa841c53faaa6c",
+    "id": "9a3be82d-f6c0-4d43-999b-a1806c9d4347",
     "username": "Lentas",
     "rank": "Capo Crimini",
     "hits": 6,
@@ -1983,7 +2248,7 @@
     "aliases": []
   },
   {
-    "id": "8f6b1ecc7d7c0377c707ec6913cbbc3d",
+    "id": "a741861b-ffdb-4620-9444-ac8f5df95f27",
     "username": "Shadows",
     "rank": "Gudfar",
     "hits": 0,
@@ -1995,7 +2260,7 @@
     "aliases": []
   },
   {
-    "id": "fbfa6902f089e5a0fa2424bd460ecfd0",
+    "id": "8bb90315-b614-4a8b-b668-ec0f50af0be4",
     "username": "Lisbon",
     "rank": "Gudfar",
     "hits": 0,
@@ -2009,19 +2274,24 @@
     "aliases": []
   },
   {
-    "id": "3fd848337f077daededd36df685b900d",
+    "id": "e3562928-05c2-4eb2-b846-8458bc5f1f20",
     "username": "Jarlphawolf",
     "rank": null,
-    "hits": 0,
-    "gottenHit": 1,
+    "hits": 2,
+    "gottenHit": 4,
     "dead": false,
     "hitBy": [
-      "[Anonym bruker]"
+      "[Anonym bruker]",
+      "Yasiin Bey",
+      "Oddvar Torsheim",
+      "Yasiin Bey"
     ],
-    "aliases": []
+    "aliases": [
+      "Krakk med hatt"
+    ]
   },
   {
-    "id": "b963deb57bb3b8eaa7845c0cfe69f525",
+    "id": "a7d31d30-d151-41e1-b9af-a297994afa27",
     "username": "Rats",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2042,7 +2312,7 @@
     "aliases": []
   },
   {
-    "id": "40ad44628b84a2b0c24dd54d453698f1",
+    "id": "2aafde23-a045-408d-9575-7d29b342c4ae",
     "username": "Malice",
     "rank": "Capo de tutti Capi",
     "hits": 3,
@@ -2060,7 +2330,7 @@
     "aliases": []
   },
   {
-    "id": "f20e6ef9cdba513e363c7d51d3cc75e6",
+    "id": "5ae323c5-85fa-4ae0-92b0-b8dfe8eaa099",
     "username": "Shaco",
     "rank": "Capo de tutti Capi",
     "hits": 4,
@@ -2078,7 +2348,7 @@
     "aliases": []
   },
   {
-    "id": "51288afeef7db2bdb9e63a83ca4d1b78",
+    "id": "8e96c3ed-c475-4aa9-af4d-247c30f9f000",
     "username": "Aang",
     "rank": "Capo de tutti Capi",
     "hits": 3,
@@ -2091,7 +2361,7 @@
     "aliases": []
   },
   {
-    "id": "fda3685dcf9448dfb3e7c3e80945d74b",
+    "id": "d432d4c2-d224-43ee-9f7a-304b1ee988a4",
     "username": "Wavey",
     "rank": "Gudfar",
     "hits": 0,
@@ -2104,7 +2374,7 @@
     "aliases": []
   },
   {
-    "id": "8c4cfa1c2ee5992a76f8c105f379368d",
+    "id": "f49f9e41-90bc-482a-85a9-44238bedf16c",
     "username": "Saddam",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -2116,7 +2386,7 @@
     "aliases": []
   },
   {
-    "id": "e9dc48555cfa441b841a5423d1419c09",
+    "id": "4c56adae-32b5-42d8-aa6d-92c4f031fb58",
     "username": "AnnaBanana",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2137,7 +2407,7 @@
     "aliases": []
   },
   {
-    "id": "23a817b7113a86cd2a8ab66fbd16ded9",
+    "id": "41cc1d25-5a73-4884-9183-f8e669f518a4",
     "username": "Bounce",
     "rank": "Capo de tutti Capi",
     "hits": 1,
@@ -2147,7 +2417,7 @@
     "aliases": []
   },
   {
-    "id": "0a601c2970a16e5f87ca367d3dadf549",
+    "id": "2ae5c6b1-5d1d-4b40-9443-c50244832c26",
     "username": "A La Carte",
     "rank": "Capo Crimini",
     "hits": 10,
@@ -2163,7 +2433,7 @@
     "aliases": []
   },
   {
-    "id": "1f3dd9b88c932e37813c9650d043730c",
+    "id": "262d7c3e-f900-4568-986e-10a22b18a051",
     "username": "Skinny Pete",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -2176,7 +2446,7 @@
     "aliases": []
   },
   {
-    "id": "cb15e32f389b7af9b285a63ca1044651",
+    "id": "503e849d-998a-419f-8971-b26b9a69d430",
     "username": "Waste",
     "rank": "Gudfar",
     "hits": 0,
@@ -2193,7 +2463,7 @@
     "aliases": []
   },
   {
-    "id": "ca0ac6f71f426aa63a4bbfabea06d1a2",
+    "id": "2cabe0c5-a4a2-448e-87d6-bfb9d1aa38ea",
     "username": "Madara",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2203,10 +2473,12 @@
       "Grief",
       "Mayhem"
     ],
-    "aliases": []
+    "aliases": [
+      "Ingen"
+    ]
   },
   {
-    "id": "d78c480a9f1f12704911bff43f6888ab",
+    "id": "d019cfaa-616b-4945-8a21-9f3c6f9e74a9",
     "username": "Oblivion",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -2224,17 +2496,7 @@
     "aliases": []
   },
   {
-    "id": "f89d4abcf1769141a9d5a3bba8c78c51",
-    "username": "Hal Finney",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "8cbad96aced40b3838dd9f07f6ef5772",
+    "id": "becec744-196b-4fe1-9c6d-da98450d841e",
     "username": "Four",
     "rank": "Gudfar",
     "hits": 0,
@@ -2244,7 +2506,7 @@
     "aliases": []
   },
   {
-    "id": "9c62b2548c39cce93ab34f799bfd87c1",
+    "id": "77e61813-81a1-421b-88cc-c4a816e9cffc",
     "username": "Flisa",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2254,7 +2516,7 @@
     "aliases": []
   },
   {
-    "id": "8cdcc1e05f692c239117c5861e2705c4",
+    "id": "ecf8d8d1-a6b0-438a-9249-eda0ef271321",
     "username": "Jaskier",
     "rank": "Capo de tutti Capi",
     "hits": 2,
@@ -2268,7 +2530,7 @@
     "aliases": []
   },
   {
-    "id": "718504796ca6603271c1db57e914713c",
+    "id": "144685ec-655b-4818-b818-0c24845ac8a7",
     "username": "Eltre 2",
     "rank": "Gudfar",
     "hits": 0,
@@ -2281,7 +2543,7 @@
     "aliases": []
   },
   {
-    "id": "b3d97746dbb45e92dc083db205e1fd14",
+    "id": "7a68cff0-7d63-4a61-9167-47c9b676f725",
     "username": "Phoenix",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -2291,7 +2553,7 @@
     "aliases": []
   },
   {
-    "id": "71144850f4fb4cc55fc0ee6935badddf",
+    "id": "853ab130-7e8a-41d6-ab69-3abe9c3ae7ed",
     "username": "Ghost",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2301,7 +2563,7 @@
     "aliases": []
   },
   {
-    "id": "5025c2f793d6d26f90ec9265da935600",
+    "id": "b2b5ab6a-c8df-4951-b022-1d32b1930e10",
     "username": "Superuflaks",
     "rank": "Gudfar",
     "hits": 0,
@@ -2313,7 +2575,7 @@
     "aliases": []
   },
   {
-    "id": "885341ca0f3424f81d9d95081a7cd886",
+    "id": "e8d2bcb7-dc11-42fe-8be3-8917f97f01b1",
     "username": "La Volpe Nera",
     "rank": "Gudfar",
     "hits": 0,
@@ -2326,7 +2588,7 @@
     "aliases": []
   },
   {
-    "id": "d1dfc2340e87dc16318a17d4073c5bbb",
+    "id": "5ce2fa26-26dd-41fc-81b6-3b51f7c6696b",
     "username": "Statsminister",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2340,7 +2602,7 @@
     "aliases": []
   },
   {
-    "id": "22f1dffdbf5d57f369c3fb8d3053128d",
+    "id": "aeb32635-a4a4-4e7d-9a83-73908d9351f9",
     "username": "Aliyah",
     "rank": "Capo Crimini",
     "hits": 16,
@@ -2354,7 +2616,7 @@
     "aliases": []
   },
   {
-    "id": "173f4311b87feebc270c1a94a3eb13a5",
+    "id": "025c9d00-9089-4c1a-b4a3-cfe05cf2a5bc",
     "username": "Gravedigger",
     "rank": "Capo de tutti Capi",
     "hits": 2,
@@ -2368,7 +2630,7 @@
     "aliases": []
   },
   {
-    "id": "987bcab01b929eb2c07877b224215c92",
+    "id": "8f772805-02ba-4c36-addd-a95559c83e74",
     "username": "Beta",
     "rank": "Capo de tutti Capi",
     "hits": 24,
@@ -2386,7 +2648,27 @@
     "aliases": []
   },
   {
-    "id": "0add33b28a928866edb4e1a5d5a4934b",
+    "id": "4c65864d-7dfe-454a-af77-2370bc14d893",
+    "username": "Mongo",
+    "rank": "Capo Crimini",
+    "hits": 3,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "58cf49cb-f50e-4ca4-b072-a06c14c40b43",
+    "username": "Honey",
+    "rank": "Capo de tutti Capi",
+    "hits": 3,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "4c0135f0-3b1c-4dea-9a56-a7e51eb86dbb",
     "username": "MrNo",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2401,7 +2683,7 @@
     "aliases": []
   },
   {
-    "id": "dfc47c8ef18b4689b982979d05cf4cc6",
+    "id": "854c495c-9319-4bc4-95b4-44168c04c43c",
     "username": "Fri",
     "rank": "Gudfar",
     "hits": 0,
@@ -2411,7 +2693,7 @@
     "aliases": []
   },
   {
-    "id": "9ce44f88a25272b6d9cbb430ebbcfcf1",
+    "id": "a3ffb079-3ae1-46a2-8863-b967a85b3a7a",
     "username": "Pikachu",
     "rank": "Gudfar",
     "hits": 0,
@@ -2425,7 +2707,7 @@
     "aliases": []
   },
   {
-    "id": "681bee5b39adfe05ee7d4f27ad29eb42",
+    "id": "2f1521a4-3e9e-4bb7-98b5-35382c3e2277",
     "username": "Tigersager",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2440,11 +2722,11 @@
     "aliases": []
   },
   {
-    "id": "3ec186ddad891be1154b36c4b2ca8bd3",
+    "id": "a4995179-c308-44c2-b1a9-88bc5053d8fb",
     "username": "Bergamo",
     "rank": "Capo de tutti Capi",
-    "hits": 29,
-    "gottenHit": 6,
+    "hits": 30,
+    "gottenHit": 8,
     "dead": true,
     "hitBy": [
       "[Anonym bruker]",
@@ -2452,12 +2734,16 @@
       "[Anonym bruker]",
       "Arvid",
       "Trekkoppbil",
-      "Virtuoso"
+      "Virtuoso",
+      "Hanslarsen",
+      "Torvesta"
     ],
-    "aliases": []
+    "aliases": [
+      "Figo"
+    ]
   },
   {
-    "id": "7e764aa6b7529530855f0373606d1886",
+    "id": "61d713d6-d5bc-40ea-9721-f774e363e0db",
     "username": "Tre",
     "rank": "Gudfar",
     "hits": 0,
@@ -2467,7 +2753,7 @@
     "aliases": []
   },
   {
-    "id": "82a8f10c5e9252347bb5bd3419448401",
+    "id": "89f4a893-5b6e-4a8d-9bbd-f010ba73bc01",
     "username": "Milano",
     "rank": "Capo de tutti Capi",
     "hits": 11,
@@ -2488,27 +2774,7 @@
     "aliases": []
   },
   {
-    "id": "1ed75a5d1e2c0bb05f410077765af687",
-    "username": "Mongo",
-    "rank": "Capo Crimini",
-    "hits": 3,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "b60eb83bf533eecf1bde65940925a981",
-    "username": "Honey",
-    "rank": "Capo de tutti Capi",
-    "hits": 3,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "13018992ed5d7bad57fa3c7ffe725b55",
+    "id": "15d25b09-3916-4448-8aa8-6db2a97d4774",
     "username": "Eltre",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2521,7 +2787,7 @@
     "aliases": []
   },
   {
-    "id": "0dbd8542147471b19961c2838da6497c",
+    "id": "dd443c81-0807-403c-8974-e2ddc0b97365",
     "username": "Mystique",
     "rank": "Gudfar",
     "hits": 0,
@@ -2531,7 +2797,7 @@
     "aliases": []
   },
   {
-    "id": "0ffec0222e1426f2ad38475826dc48fb",
+    "id": "51aed455-1e16-492e-88b5-a5fac61f13d3",
     "username": "Hanslarsen",
     "rank": "Capo Crimini",
     "hits": 13,
@@ -2543,7 +2809,7 @@
     "aliases": []
   },
   {
-    "id": "b64d3fd75329e9f49bb74f8adff4374a",
+    "id": "10645056-4b57-4c14-81cc-d79ecea1760c",
     "username": "Capo di Gelo",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2556,7 +2822,7 @@
     "aliases": []
   },
   {
-    "id": "e4086a56164f6e3d02354548a8f2b1ee",
+    "id": "ed585392-66cf-4852-bbf4-dc934ff37c4c",
     "username": "Joey Tribbiani",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -2573,7 +2839,7 @@
     "aliases": []
   },
   {
-    "id": "b5223b85114579c1e8d80b517e3b05e1",
+    "id": "7994ed26-b7d3-410b-b5e7-6d8085493fe5",
     "username": "Cyclo",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2586,7 +2852,7 @@
     "aliases": []
   },
   {
-    "id": "bf7e891d224d7e8f955cc78263664134",
+    "id": "551de8ee-7937-43d1-899d-2b31184d03e8",
     "username": "Monica Larsen",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2598,7 +2864,7 @@
     "aliases": []
   },
   {
-    "id": "3598e23d0da9ceaa7eb3e11fdda06811",
+    "id": "527dbd92-0428-46f2-addc-9b7cf345afae",
     "username": "Bindestrek",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2611,7 +2877,7 @@
     "aliases": []
   },
   {
-    "id": "9e31841413a812296abd8ed6a6d7db18",
+    "id": "0f7d6f72-3e77-4efe-b7e3-cc971e389198",
     "username": "Virtuoso",
     "rank": "Capo de tutti Capi",
     "hits": 11,
@@ -2623,7 +2889,17 @@
     "aliases": []
   },
   {
-    "id": "0b86f0f8d1478e2f4da5aee809824821",
+    "id": "c555621d-8dfa-44a0-a711-6d9d22f3efd6",
+    "username": "Ingen",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "0185f011-c590-413d-bf1f-698113c52e4f",
     "username": "Prestige",
     "rank": "Capo de tutti Capi",
     "hits": 3,
@@ -2640,17 +2916,7 @@
     "aliases": []
   },
   {
-    "id": "b695f98a0ad71d932bc63b75a6171f7e",
-    "username": "Lecter",
-    "rank": "Capo de tutti Capi",
-    "hits": 3,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "c59b43adb030b15cd5453f98987ccc14",
+    "id": "101f767a-5cd9-4c0c-a893-b3d571de27d6",
     "username": "Turbooooo",
     "rank": "Gudfar",
     "hits": 0,
@@ -2660,7 +2926,7 @@
     "aliases": []
   },
   {
-    "id": "ec3c7d645b3584f2f2a98f0981fa4012",
+    "id": "9d5d5256-2283-4318-afb9-3db48f07d68e",
     "username": "Kayle",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2673,7 +2939,7 @@
     "aliases": []
   },
   {
-    "id": "23388aefa5aaeb10629572e845d9b95d",
+    "id": "7f569fb1-0119-46fa-9cce-023876470d57",
     "username": "Lalo Salamanca",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2689,7 +2955,7 @@
     "aliases": []
   },
   {
-    "id": "cc88b6dd6a953ae99e39dd5b58ba5b3b",
+    "id": "247b7d72-c365-4a3e-9f19-e0993e6062af",
     "username": "Suicideboys",
     "rank": "Gudfar",
     "hits": 0,
@@ -2701,7 +2967,7 @@
     "aliases": []
   },
   {
-    "id": "7c32500097a1ff1c8aa5465d048a7127",
+    "id": "a3f6d7ab-62f5-4d0f-87d6-05e4df7db28e",
     "username": "MrVito",
     "rank": "Gudfar",
     "hits": 0,
@@ -2714,7 +2980,7 @@
     "aliases": []
   },
   {
-    "id": "2bd3be910cd6ac2715a608799e611ca9",
+    "id": "23ce6da7-637c-4d83-b570-9f4257c8148d",
     "username": "Deathwish",
     "rank": "Gudfar",
     "hits": 0,
@@ -2729,7 +2995,7 @@
     "aliases": []
   },
   {
-    "id": "d5aedf560b928e289dc4a76d8765bc4e",
+    "id": "d1ddf13e-7182-457e-8e00-8c9fa3205ff1",
     "username": "Newbie",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2748,7 +3014,7 @@
     "aliases": []
   },
   {
-    "id": "bbd739f0adf66de9d15a0204ca76e4bd",
+    "id": "c3e89523-40f7-4e47-84f8-976cf7d9a5ee",
     "username": "Leatherface",
     "rank": "Capo de tutti Capi",
     "hits": 0,
@@ -2762,7 +3028,7 @@
     "aliases": []
   },
   {
-    "id": "6aec7a457c7534b45fa43e3eeefaf7ca",
+    "id": "e26fe3de-8bc7-48c0-bfa3-1d075e5b509e",
     "username": "Hoen",
     "rank": "Gudfar",
     "hits": 0,
@@ -2772,7 +3038,7 @@
     "aliases": []
   },
   {
-    "id": "126ac4b07f93bc4f7bed426f5e978c16",
+    "id": "0d462bb4-1660-43b0-9ade-6c90d44a17e8",
     "username": "Crush",
     "rank": "Capo Crimini",
     "hits": 9,
@@ -2792,7 +3058,7 @@
     "aliases": []
   },
   {
-    "id": "3224b6ac2342899d64744877482c1b9e",
+    "id": "8e590952-e6b7-4c4b-b1c2-655837b43895",
     "username": "AnonyMist",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2805,17 +3071,21 @@
     "aliases": []
   },
   {
-    "id": "eb10aad73c550c9d8370d3afc54175d9",
-    "username": "Ingen",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
+    "id": "af46e408-dd3c-43a0-930a-451b1dcd38e0",
+    "username": "Krakk med hatt",
+    "rank": "Capo de tutti Capi",
+    "hits": 2,
+    "gottenHit": 3,
     "dead": false,
-    "hitBy": [],
+    "hitBy": [
+      "Yasiin Bey",
+      "Oddvar Torsheim",
+      "Yasiin Bey"
+    ],
     "aliases": []
   },
   {
-    "id": "007c2b6920cf9f9825d4e29d4a462327",
+    "id": "4b39df50-65ca-4106-92ac-9bf258de7d8d",
     "username": "Karlstrom06",
     "rank": "Gudfar",
     "hits": 0,
@@ -2825,7 +3095,7 @@
     "aliases": []
   },
   {
-    "id": "19ceb758323b1bd675546d00e2ba3aeb",
+    "id": "db6f3538-15ca-4197-9bf0-7e2516a4e51e",
     "username": "Tasso966",
     "rank": "Gudfar",
     "hits": 0,
@@ -2838,7 +3108,7 @@
     "aliases": []
   },
   {
-    "id": "30443b170db8e1dd2aa0226abbabdbf9",
+    "id": "707a4d48-b37d-44f3-8012-ba3f0a71afeb",
     "username": "Grevlingen",
     "rank": "Capo Crimini",
     "hits": 6,
@@ -2852,7 +3122,7 @@
     "aliases": []
   },
   {
-    "id": "6b08342c5c706c2b42d5635f4add1822",
+    "id": "2cf8d7df-5084-4f8c-9a02-a75a3586d376",
     "username": "Aune Sand",
     "rank": "Capo de tutti Capi",
     "hits": 3,
@@ -2865,7 +3135,7 @@
     "aliases": []
   },
   {
-    "id": "fdcd4873b6037bb0f9c191b28f78654e",
+    "id": "d9a093c7-a019-4dca-996a-d32b67e20b0c",
     "username": "Ruthless",
     "rank": "Capo Crimini",
     "hits": 3,
@@ -2881,7 +3151,7 @@
     "aliases": []
   },
   {
-    "id": "8df0a8c1f5ee6d1e5b8201f1c5ffbf8f",
+    "id": "b977d119-5a22-4b7e-a6ac-27e314300bdd",
     "username": "Weegee",
     "rank": "Capo de tutti Capi",
     "hits": 7,
@@ -2893,7 +3163,7 @@
     "aliases": []
   },
   {
-    "id": "72508d094d84436ab8c7c5c126d0cd9a",
+    "id": "216433d6-8dfe-403b-bd31-46c454af7260",
     "username": "Superflaks",
     "rank": "Gudfar",
     "hits": 0,
@@ -2905,7 +3175,7 @@
     "aliases": []
   },
   {
-    "id": "12ef70a7a04bb6d838f19f00a444dd2c",
+    "id": "e17ad824-c30f-4ddf-8ddd-ae4edb4dc466",
     "username": "TechDozer",
     "rank": "Gudfar",
     "hits": 0,
@@ -2918,7 +3188,7 @@
     "aliases": []
   },
   {
-    "id": "0da2e7fa0ba90f4ae031b0d232b8a57a",
+    "id": "24ecdd58-5cbe-498a-9e2f-e7f854fa72fc",
     "username": "Anubis",
     "rank": "Capo de tutti Capi",
     "hits": 2,
@@ -2931,7 +3201,7 @@
     "aliases": []
   },
   {
-    "id": "a94aa000f9a94cc51775bd5eac97c926",
+    "id": "767e2dfa-f547-4cee-8e2b-51e8f6b8c9a3",
     "username": "Goat",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -2949,7 +3219,7 @@
     "aliases": []
   },
   {
-    "id": "4d0b5cd5026cb91abd3a6237826b676d",
+    "id": "525151f2-eaff-45dd-ba7b-94a61f63f3f6",
     "username": "Carther",
     "rank": "Gudfar",
     "hits": 0,
@@ -2961,7 +3231,7 @@
     "aliases": []
   },
   {
-    "id": "7c57a366df1b1c1ffe825ef2653c4a2f",
+    "id": "e0e7a0ee-f214-4a2f-a640-aca3251ca10d",
     "username": "hundreogto",
     "rank": "Gudfar",
     "hits": 0,
@@ -2978,7 +3248,7 @@
     "aliases": []
   },
   {
-    "id": "dbd253c8c6da20c277bc0ad3654d839f",
+    "id": "289a5869-2532-450d-9a22-3042062f8733",
     "username": "Warlord",
     "rank": "Capo de tutti Capi",
     "hits": 2,
@@ -2995,7 +3265,7 @@
     "aliases": []
   },
   {
-    "id": "a488addb8d5d9d128ec619645a09d35a",
+    "id": "b7476983-5267-4050-8b02-33b86662a81c",
     "username": "Crowley",
     "rank": "Gudfar",
     "hits": 0,
@@ -3007,7 +3277,7 @@
     "aliases": []
   },
   {
-    "id": "68413a8db7cff51313ac017f53506c03",
+    "id": "9cd2c6b0-29f5-4b74-bcff-2d6725f8c3cd",
     "username": "Karlstrom1907",
     "rank": "Gudfar",
     "hits": 0,
@@ -3024,7 +3294,7 @@
     "aliases": []
   },
   {
-    "id": "a461b7a64df261e515221c1ed7519a1e",
+    "id": "5d313382-537c-4ac2-a7d1-27b3eaaadcf3",
     "username": "Sensation",
     "rank": "Gudfar",
     "hits": 0,
@@ -3037,7 +3307,7 @@
     "aliases": []
   },
   {
-    "id": "1f0666ab66895a9388c6e031a4b2ef00",
+    "id": "510666ab-c190-4888-8fda-13499781dd99",
     "username": "Laurits",
     "rank": "Gudfar",
     "hits": 0,
@@ -3047,7 +3317,7 @@
     "aliases": []
   },
   {
-    "id": "d64f05dd1e74e6f3fa5a351bed198260",
+    "id": "1e473d84-eafe-4565-9119-b618cddab9d8",
     "username": "Snoken",
     "rank": "Capo de tutti Capi",
     "hits": 5,
@@ -3069,7 +3339,7 @@
     "aliases": []
   },
   {
-    "id": "f1f58e8c06b2a61ce13e0c0aa9473a72",
+    "id": "16cf7248-b7f5-48de-ae4d-25038e4bd172",
     "username": "Hugo",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -3084,7 +3354,7 @@
     "aliases": []
   },
   {
-    "id": "b623e24add2f342de2acdf8b4edad496",
+    "id": "aeeedeea-1f8a-49c9-b9e6-78d4d3690375",
     "username": "Nacho",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -3104,7 +3374,7 @@
     "aliases": []
   },
   {
-    "id": "77d66f3619e32f6263058c31181804d7",
+    "id": "d7fa8bd5-b151-4ec0-86c6-9bc834f99e8b",
     "username": "El Padrino",
     "rank": "Gudfar",
     "hits": 0,
@@ -3117,10 +3387,10 @@
     "aliases": []
   },
   {
-    "id": "1560771d771d0b7c697c7548680718db",
+    "id": "3bd55200-95a5-4904-9596-e67703936bd6",
     "username": "Devilreaux",
     "rank": "Capo de tutti Capi",
-    "hits": 5,
+    "hits": 6,
     "gottenHit": 4,
     "dead": true,
     "hitBy": [
@@ -3129,10 +3399,12 @@
       "Snoken",
       "Clown"
     ],
-    "aliases": []
+    "aliases": [
+      "Naan bread"
+    ]
   },
   {
-    "id": "b8057f455e6f9be18ccbb2f06f3bcc65",
+    "id": "674f1afd-9df9-43ea-93b3-0f845b0b5bc3",
     "username": "Lil Debbie",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -3142,7 +3414,7 @@
     "aliases": []
   },
   {
-    "id": "b9056d71aca02a3a7fb860f66864fef0",
+    "id": "28f3e8de-c040-4edd-894c-2840ce604f3b",
     "username": "Buzz",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -3157,7 +3429,7 @@
     "aliases": []
   },
   {
-    "id": "fcdc7b4207660a1372d0cd5491ad856e",
+    "id": "d84f63c7-981e-47ad-9fca-c4707b2cff41",
     "username": "Rose",
     "rank": "Capo Crimini",
     "hits": 8,
@@ -3167,20 +3439,7 @@
     "aliases": []
   },
   {
-    "id": "63568d6ae438eeaeada98a2885bded14",
-    "username": "Haakon",
-    "rank": "Capo Crimini",
-    "hits": 1,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Rose",
-      "Rose"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "fb22887ad66084a848916e27680b967a",
+    "id": "e8fdfec8-6a5e-4523-b50f-b61201ec5f15",
     "username": "Ungoliant",
     "rank": "Gudfar",
     "hits": 0,
@@ -3200,7 +3459,7 @@
     "aliases": []
   },
   {
-    "id": "e1018efb1e4d24a87f9e3799b552bdc2",
+    "id": "c6af4b31-0c49-492a-9751-c9c1431119c5",
     "username": "FeitePetra",
     "rank": "Capo Crimini",
     "hits": 5,
@@ -3210,21 +3469,7 @@
     "aliases": []
   },
   {
-    "id": "10fc3f1d90b7e8ede53a6eda1991c672",
-    "username": "Krakk med hatt",
-    "rank": "Capo de tutti Capi",
-    "hits": 2,
-    "gottenHit": 3,
-    "dead": false,
-    "hitBy": [
-      "Yasiin Bey",
-      "Oddvar Torsheim",
-      "Yasiin Bey"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "f86d954902122d42f672ae173ed92703",
+    "id": "55d688f8-d193-443f-b255-61e3dcde99d7",
     "username": "Ajur",
     "rank": "Gudfar",
     "hits": 0,
@@ -3234,7 +3479,7 @@
     "aliases": []
   },
   {
-    "id": "0215d71b07a190003ffef4a76eba6080",
+    "id": "20a50014-a5ef-4fea-b9f9-455b31de549a",
     "username": "Arvid",
     "rank": "Capo Crimini",
     "hits": 3,
@@ -3253,7 +3498,7 @@
     "aliases": []
   },
   {
-    "id": "7239ea2b5dc943f61f3c0a0276c20974",
+    "id": "496c6eea-afb3-4405-970d-17a8ad143e62",
     "username": "Tea",
     "rank": "Gudfar",
     "hits": 0,
@@ -3266,7 +3511,7 @@
     "aliases": []
   },
   {
-    "id": "79dc8fc7594f7978e9fa8f13d0a2c0e0",
+    "id": "ba132740-44e4-413f-8995-fd9e727b6a0d",
     "username": "Benny Blanco",
     "rank": "Capo Crimini",
     "hits": 3,
@@ -3280,7 +3525,7 @@
     "aliases": []
   },
   {
-    "id": "cd8e7918010a87cc619849e00265c9a6",
+    "id": "c7c11234-2d82-4822-9ff4-db6bc5f3933a",
     "username": "Chase",
     "rank": "Capo de tutti Capi",
     "hits": 11,
@@ -3302,7 +3547,7 @@
     "aliases": []
   },
   {
-    "id": "8943acab958687f063ce336ca40bf64b",
+    "id": "cc7d3d3b-8743-4309-9ceb-cd968f328ba4",
     "username": "Sjeik Ben Redic",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -3319,7 +3564,7 @@
     "aliases": []
   },
   {
-    "id": "c87e5c69a42adada6846a7c299e4d822",
+    "id": "ab1acd6f-999f-4e3d-b92d-b0ba734d0336",
     "username": "CptChowder",
     "rank": "Gudfar",
     "hits": 0,
@@ -3332,7 +3577,7 @@
     "aliases": []
   },
   {
-    "id": "17d83b21795e0cf967a7e57c88c94d7a",
+    "id": "c179d5fe-a909-4264-b6fb-ae95b20e570c",
     "username": "Lus med paraply",
     "rank": "Capo de tutti Capi",
     "hits": 2,
@@ -3346,7 +3591,7 @@
     "aliases": []
   },
   {
-    "id": "2b82477bcccc369d9d8ed30bb1200803",
+    "id": "f9f0338e-c670-44a4-9d5c-5f757feecead",
     "username": "frost",
     "rank": "Capo de tutti Capi",
     "hits": 0,
@@ -3356,7 +3601,7 @@
     "aliases": []
   },
   {
-    "id": "d077f244def8a70e5ea758bd8352fcd8",
+    "id": "3d1d8a4d-ac58-4566-a958-ea7e77a5cbd8",
     "username": "cat",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -3368,7 +3613,7 @@
     "aliases": []
   },
   {
-    "id": "c550ba2b845a62f2c6fc12eaf513631d",
+    "id": "608084a9-e9fa-4b70-9a31-e4d5a3844494",
     "username": "Hotell",
     "rank": "Gudfar",
     "hits": 0,
@@ -3381,20 +3626,7 @@
     "aliases": []
   },
   {
-    "id": "bbb68ddf394cf77db012c5420a93b113",
-    "username": "Trucker Joe",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 2,
-    "dead": true,
-    "hitBy": [
-      "Kodak black",
-      "Kodak black"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "ab83efba4b12fee6c834704a02041348",
+    "id": "8268b2a6-1dc8-45b1-be13-50ae88fcf90e",
     "username": "Kodak black",
     "rank": "Capo Crimini",
     "hits": 14,
@@ -3409,17 +3641,20 @@
     "aliases": []
   },
   {
-    "id": "ec237b24446825d2ba904c224c21c067",
-    "username": "Trampolini",
+    "id": "e9e5318a-3741-4b20-9322-f1835bba1f2d",
+    "username": "Trucker Joe",
     "rank": "Gudfar",
     "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "Kodak black",
+      "Kodak black"
+    ],
     "aliases": []
   },
   {
-    "id": "70e3f54b4d870a58aed82bc04d58e897",
+    "id": "0795dd08-4ffd-4faa-8bb6-672b8669aabf",
     "username": "sola",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -3432,7 +3667,7 @@
     "aliases": []
   },
   {
-    "id": "c13fe0a2dd3d8e9da49b7f689b9dbb4c",
+    "id": "08dcb1c6-7c9e-48cf-b216-1eeab891d943",
     "username": "El Diablo",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -3445,7 +3680,7 @@
     "aliases": []
   },
   {
-    "id": "84354ccd504decb008fbba52655e74c2",
+    "id": "ff7a3fd5-b241-470b-affe-64bc8c8e6cc2",
     "username": "Tyrann",
     "rank": "Gudfar",
     "hits": 0,
@@ -3455,7 +3690,7 @@
     "aliases": []
   },
   {
-    "id": "44ad22ae360df78707d7aae2710bb24e",
+    "id": "2bf9ec60-a7a3-48e0-8ed8-694a6c19d471",
     "username": "Best Rente Her",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -3471,7 +3706,58 @@
     "aliases": []
   },
   {
-    "id": "e56908833c868e238ad148f837d87e90",
+    "id": "2f343263-6831-44f7-9a3f-8935a26775ef",
+    "username": "Milly Alcock",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "C11H15No2"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "0a46cc49-1ce8-494b-a760-785acd01ec37",
+    "username": "Eden Golan",
+    "rank": null,
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "C11H15No2"
+    ],
+    "aliases": [
+      "Milly Alcock"
+    ]
+  },
+  {
+    "id": "8615f53c-d587-4f1c-bf14-5be2eb3a48d8",
+    "username": "Sade",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "Muammar Gaddafi"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "6d21b20e-d16b-4bdb-9dda-b7a9e82bac44",
+    "username": "WhoRWe",
+    "rank": "Capo de tutti Capi",
+    "hits": 7,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Best Rente Her",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "bde5651d-ace3-45a8-8797-307c3e6e3322",
     "username": "singel igjen",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -3485,7 +3771,7 @@
     "aliases": []
   },
   {
-    "id": "93ee99886c07794b55e03ac350128486",
+    "id": "3711b061-2484-4fcd-8b00-f857c6d6bce8",
     "username": "Asus82",
     "rank": "Gudfar",
     "hits": 0,
@@ -3501,7 +3787,7 @@
     "aliases": []
   },
   {
-    "id": "ac28c2b41697aa58a24449437bade547",
+    "id": "8898fc0a-e3aa-4c67-a13b-f763243d9d62",
     "username": "Padrino",
     "rank": "Gudfar",
     "hits": 0,
@@ -3515,7 +3801,7 @@
     "aliases": []
   },
   {
-    "id": "23d45b337ff85d0a326a79082f7c6f50",
+    "id": "351e8496-19c4-4652-8b2b-4341b3529301",
     "username": "Bandit",
     "rank": "Gudfar",
     "hits": 0,
@@ -3525,7 +3811,7 @@
     "aliases": []
   },
   {
-    "id": "60190cb2b5a1d64c6c22fdda4d9e29e0",
+    "id": "8e78b5de-4739-45fc-911c-e84640bed263",
     "username": "Safari",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -3538,20 +3824,7 @@
     "aliases": []
   },
   {
-    "id": "7be98cfaa5418cdcfb85ea37deb9dd03",
-    "username": "WhoRWe",
-    "rank": "Capo de tutti Capi",
-    "hits": 7,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Best Rente Her",
-      "[Anonym bruker]"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "5a09551907ac24a64304cc4fb1690777",
+    "id": "aa4b6b67-0461-463f-b632-db6e367f6f29",
     "username": "Ungratefull",
     "rank": "Gudfar",
     "hits": 0,
@@ -3564,7 +3837,7 @@
     "aliases": []
   },
   {
-    "id": "1cfc258a0153934656adbe995090522f",
+    "id": "2fbae04f-b3ff-4f60-a1e2-d8002c8a0943",
     "username": "Livorno",
     "rank": "Capo Crimini",
     "hits": 3,
@@ -3577,7 +3850,7 @@
     "aliases": []
   },
   {
-    "id": "d4043d2f9265e18c794be4159faaef5c",
+    "id": "715c5d1b-56c2-4e76-a633-1f3647554b44",
     "username": "Tommi",
     "rank": "Gudfar",
     "hits": 0,
@@ -3590,7 +3863,7 @@
     "aliases": []
   },
   {
-    "id": "bde09248e33ebad266a85924d7c83797",
+    "id": "b432b0ee-c9bb-45d2-b8a3-eea922685d51",
     "username": "Pamparius",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -3605,7 +3878,7 @@
     "aliases": []
   },
   {
-    "id": "dd485e41f1758def296e1bc7377f8ea7",
+    "id": "6f68fa15-9414-42ca-a824-0467e70e6d52",
     "username": "Mundo",
     "rank": "Capo Crimini",
     "hits": 12,
@@ -3617,7 +3890,7 @@
     "aliases": []
   },
   {
-    "id": "4b7cc5694dd3a265bac326eaba31266e",
+    "id": "74e7cab0-4e46-42e8-a7a7-0dc828f75327",
     "username": "Cid",
     "rank": "Gudfar",
     "hits": 0,
@@ -3630,7 +3903,7 @@
     "aliases": []
   },
   {
-    "id": "0f05e3d167ae9f1966110bed552c23a1",
+    "id": "21a04661-167d-4035-b52e-b1301d2b8a9d",
     "username": "Stratos",
     "rank": "Gudfar",
     "hits": 0,
@@ -3640,7 +3913,7 @@
     "aliases": []
   },
   {
-    "id": "2d47956b7270c381ccea82ee77fb063a",
+    "id": "b14bd9fb-6a6c-45d5-b04d-b77d2a0a7c6e",
     "username": "Tasso96",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -3657,7 +3930,7 @@
     "aliases": []
   },
   {
-    "id": "84a26c4612a7f9958174ee6552625282",
+    "id": "7033d91b-bc04-436b-8543-f3cac6c1e88b",
     "username": "gus",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -3679,7 +3952,7 @@
     "aliases": []
   },
   {
-    "id": "e04f90343e3d3a9f8993e963bf063e2e",
+    "id": "f4fc467e-03dd-4bfd-819b-5649fc245787",
     "username": "Serendipity",
     "rank": "Gudfar",
     "hits": 0,
@@ -3692,7 +3965,7 @@
     "aliases": []
   },
   {
-    "id": "88f32ea61d1edd34928d18c384490907",
+    "id": "3c70e03d-042e-4f7d-b3ac-7be96e04ec75",
     "username": "Herobrine",
     "rank": "Capo Crimini",
     "hits": 5,
@@ -3705,7 +3978,7 @@
     "aliases": []
   },
   {
-    "id": "c5728a8eb0cf3bdac4a74f507ac251ea",
+    "id": "ff6366e5-78e3-40fc-9a5b-64da88752b53",
     "username": "balerinasasina",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -3725,7 +3998,7 @@
     "aliases": []
   },
   {
-    "id": "dab4de3deb4cac75cb1d5d032cdb5d31",
+    "id": "e6edc194-6a22-4ccf-aec8-4de115cd86c3",
     "username": "nopqrstuvwxyz",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -3738,7 +4011,7 @@
     "aliases": []
   },
   {
-    "id": "5fbfde4bf4a50ddc1b1eac369f1892c0",
+    "id": "2078d9f1-7d61-4a3a-87cf-c2dbd309a771",
     "username": "Chillin",
     "rank": "Gudfar",
     "hits": 0,
@@ -3748,7 +4021,7 @@
     "aliases": []
   },
   {
-    "id": "81bd8fe38f89db0696e623c09b6bb820",
+    "id": "084914d4-de90-4720-8f8f-d1beab11428c",
     "username": "Napoli",
     "rank": "Capo de tutti Capi",
     "hits": 7,
@@ -3764,7 +4037,7 @@
     "aliases": []
   },
   {
-    "id": "08c8b8046693e41d518ed3e83c6defa6",
+    "id": "d8847f9d-1a4f-431d-81ce-6f07112430d5",
     "username": "Krompen",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -3777,7 +4050,7 @@
     "aliases": []
   },
   {
-    "id": "59696a5ce2b6f6bc0520f21df6f9ca9e",
+    "id": "b5592575-197b-42b9-9873-a3a424229301",
     "username": "Pick Lussey",
     "rank": null,
     "hits": 0,
@@ -3787,10 +4060,12 @@
       "Obsession",
       "[Anonym bruker]"
     ],
-    "aliases": []
+    "aliases": [
+      "JegErSuveren"
+    ]
   },
   {
-    "id": "1130ef866cb849c9defacfc5b0d58ee3",
+    "id": "138ee8bd-3fa8-48e9-b0c7-eb6969e67b26",
     "username": "Slikkepott",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -3802,7 +4077,7 @@
     "aliases": []
   },
   {
-    "id": "14e0721b08514b377ef7165d136fb59c",
+    "id": "31de94a4-9a1e-45bd-bab7-5ceca692903f",
     "username": "Brann",
     "rank": "Gudfar",
     "hits": 0,
@@ -3815,7 +4090,7 @@
     "aliases": []
   },
   {
-    "id": "4768fd194d2261232046b62052f82763",
+    "id": "a0ea77b6-f729-4614-88bf-0fe78a2d3716",
     "username": "Ungrateful",
     "rank": "Gudfar",
     "hits": 1,
@@ -3828,7 +4103,7 @@
     "aliases": []
   },
   {
-    "id": "358779449e9cb58eaf6a028fa4640988",
+    "id": "4883640a-1af1-46be-a8d6-42f3f7f13a28",
     "username": "Kryptex",
     "rank": "Capo de tutti Capi",
     "hits": 4,
@@ -3840,10 +4115,12 @@
       "Seraphiel",
       "Pretender"
     ],
-    "aliases": []
+    "aliases": [
+      "Fennikel"
+    ]
   },
   {
-    "id": "149610fefc32b4c6e3e5f4760ba9abdc",
+    "id": "06a30d81-873f-4b7e-a0b0-6bfc11e169a8",
     "username": "Karlstrom1906",
     "rank": "Gudfar",
     "hits": 0,
@@ -3857,7 +4134,7 @@
     "aliases": []
   },
   {
-    "id": "ada5d732e7e4d5eaa633a5f6092175e1",
+    "id": "7e062cc2-589f-4fe7-a31e-f7726a637d9e",
     "username": "Asus28",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -3877,7 +4154,7 @@
     "aliases": []
   },
   {
-    "id": "8ace23e822a2d79650d9719dd2503fd2",
+    "id": "d988a16c-54bd-4e0e-9c97-1f71d5d94db3",
     "username": "Inferno",
     "rank": "Gudfar",
     "hits": 0,
@@ -3891,7 +4168,7 @@
     "aliases": []
   },
   {
-    "id": "7d767363128178be3a6d9fbf8d1e7f6c",
+    "id": "acbfa700-8a7c-4807-8a25-802aa7273e80",
     "username": "BonnieBlue",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -3904,7 +4181,7 @@
     "aliases": []
   },
   {
-    "id": "b09f020375db055ca3494b6a0c4260c8",
+    "id": "e55d8cf5-f11b-4313-91f4-45849d057e3a",
     "username": "Langemann",
     "rank": "Gudfar",
     "hits": 0,
@@ -3920,7 +4197,7 @@
     "aliases": []
   },
   {
-    "id": "e5cf4c03e4ab63682b25a1305b08c284",
+    "id": "15cdc070-a023-4a08-8b3e-a4fe990e9866",
     "username": "Olga Burger",
     "rank": "Capo de tutti Capi",
     "hits": 11,
@@ -3937,7 +4214,7 @@
     "aliases": []
   },
   {
-    "id": "43f1a7a634e4bd815c87e588849382a8",
+    "id": "e5fa0940-2c56-4124-9f78-611d643a9b0b",
     "username": "nolxve",
     "rank": "Capo de tutti Capi",
     "hits": 1,
@@ -3950,7 +4227,7 @@
     "aliases": []
   },
   {
-    "id": "e0ebc3c409070d07f1df0f2f4132509e",
+    "id": "62536eaf-5f1e-4d1d-925d-6fa32c7764ad",
     "username": "Escape",
     "rank": "Capo de tutti Capi",
     "hits": 3,
@@ -3965,7 +4242,7 @@
     "aliases": []
   },
   {
-    "id": "6d68c7cfe5d1825d6622f3c824f8db8b",
+    "id": "11861423-601e-40bd-8a52-2ded1382d89a",
     "username": "Cyprus",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -3981,7 +4258,7 @@
     "aliases": []
   },
   {
-    "id": "3f03d4f2db9a42529efb9cc89fe446b9",
+    "id": "19299a74-c468-4908-aeed-39c2313adacf",
     "username": "Trann",
     "rank": "Gudfar",
     "hits": 0,
@@ -3991,7 +4268,7 @@
     "aliases": []
   },
   {
-    "id": "13f4119f03ffb7ee9de1368fe82df732",
+    "id": "2d4110ef-5370-4ca2-852d-60426f573434",
     "username": "Oddvar torsheim",
     "rank": "Capo de tutti Capi",
     "hits": 7,
@@ -4004,7 +4281,7 @@
     "aliases": []
   },
   {
-    "id": "73b3452ae6c4aea73758856ea266bb6a",
+    "id": "350da3a4-e281-4aa7-8a9f-72c37af660b9",
     "username": "Lando",
     "rank": "Capo de tutti Capi",
     "hits": 1,
@@ -4020,7 +4297,7 @@
     "aliases": []
   },
   {
-    "id": "789de98e41a8d81df4fd96ff4b6a7a08",
+    "id": "818523b3-f82b-4695-a66a-674ae99462d0",
     "username": "Hans Gude",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -4033,7 +4310,7 @@
     "aliases": []
   },
   {
-    "id": "c4f9832f61f8a98ef4b742af0cc35437",
+    "id": "373f6bc0-0d57-452b-ba7f-5bd4e73ab836",
     "username": "Bogee",
     "rank": "Gudfar",
     "hits": 0,
@@ -4047,7 +4324,7 @@
     "aliases": []
   },
   {
-    "id": "2f523e0751dfc124d98b6aafbd3e3238",
+    "id": "f41a8cfd-9dd2-465b-8cef-dd29889a5c1a",
     "username": "perkelevittu",
     "rank": "Gudfar",
     "hits": 0,
@@ -4062,7 +4339,7 @@
     "aliases": []
   },
   {
-    "id": "bda3bfdfa868d04f4003838f5776f25e",
+    "id": "962c590e-f083-4de0-a1d4-ee26cab0ef62",
     "username": "AbraKadabra",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -4083,7 +4360,7 @@
     "aliases": []
   },
   {
-    "id": "3cff7ae2bd481ccf1909aa4836a696de",
+    "id": "62d5780b-4555-41a8-a71f-1b20a8a354d6",
     "username": "Slire",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -4096,7 +4373,7 @@
     "aliases": []
   },
   {
-    "id": "4a01ebc30f3e3cb0fb5b01cc6a42a35d",
+    "id": "331cf9b2-ac1c-414f-b0a4-ada79083e1fd",
     "username": "Sinnasnekkern",
     "rank": "Gudfar",
     "hits": 0,
@@ -4109,7 +4386,7 @@
     "aliases": []
   },
   {
-    "id": "f0d480057a937de73d46ec36520cf17a",
+    "id": "93f694a3-a1e9-4097-8ee0-c74db92d44cb",
     "username": "Gulrot",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -4123,7 +4400,7 @@
     "aliases": []
   },
   {
-    "id": "7c7baae2b1489e1084bee3fa344c61a4",
+    "id": "c8a46cba-f3ad-4b61-ae0c-48c84a0348ce",
     "username": "Eadni",
     "rank": "Gudfar",
     "hits": 0,
@@ -4139,17 +4416,19 @@
     "aliases": []
   },
   {
-    "id": "6a983a6992d11c33f84f91cb722b15c9",
+    "id": "0b9d1876-62ed-4ec4-92a9-f7e6f930073f",
     "username": "Noxious",
     "rank": "Capo Crimini",
-    "hits": 5,
+    "hits": 6,
     "gottenHit": 0,
     "dead": false,
     "hitBy": [],
-    "aliases": []
+    "aliases": [
+      "Bimo"
+    ]
   },
   {
-    "id": "a1e26f544045e0d0b20bfa00fa2c6c83",
+    "id": "9029c5e8-84e9-4463-83a5-061ed707154e",
     "username": "Elise Noire",
     "rank": "Capo de tutti Capi",
     "hits": 0,
@@ -4168,7 +4447,7 @@
     "aliases": []
   },
   {
-    "id": "28c69b4cba5681d565d3bd901684dd77",
+    "id": "ebd90e4f-b23c-454e-9793-4fcbed79e7e4",
     "username": "Shield",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -4180,7 +4459,7 @@
     "aliases": []
   },
   {
-    "id": "fad661fbf8b7c168bbd22483447392c1",
+    "id": "453e0610-48fa-48ba-b705-b875382c1d4b",
     "username": "Ahcci",
     "rank": "Capo Crimini",
     "hits": 5,
@@ -4193,7 +4472,7 @@
     "aliases": []
   },
   {
-    "id": "36e0cbd4b911811f3d1d1e4f007b5079",
+    "id": "526181f7-ffaf-4667-8a14-21f3ecb78d31",
     "username": "Lou Bega",
     "rank": "Gudfar",
     "hits": 1,
@@ -4207,7 +4486,7 @@
     "aliases": []
   },
   {
-    "id": "db068ce9f744fbb35eedc9a883f91085",
+    "id": "69cd0dbb-605e-4e79-ae2c-069523672bf9",
     "username": "Karan",
     "rank": "Gudfar",
     "hits": 0,
@@ -4217,7 +4496,7 @@
     "aliases": []
   },
   {
-    "id": "68d6dbae79caccf71a1e0f0ce0ad3884",
+    "id": "0e99fce6-e411-49c5-be1e-e2813410a71d",
     "username": "Bluehaze",
     "rank": "Gudfar",
     "hits": 0,
@@ -4230,7 +4509,7 @@
     "aliases": []
   },
   {
-    "id": "a54e73cb56192425dd3cf6edc1e86129",
+    "id": "2c84656f-39ac-46cf-aef1-063e33b13c55",
     "username": "Valkyrie",
     "rank": "Gudfar",
     "hits": 0,
@@ -4244,7 +4523,7 @@
     "aliases": []
   },
   {
-    "id": "7214dce354acbff06c81f66c4cd00081",
+    "id": "7df3d426-e23f-4885-818d-4306d0922ac4",
     "username": "Ole",
     "rank": "Gudfar",
     "hits": 0,
@@ -4254,22 +4533,68 @@
     "aliases": []
   },
   {
-    "id": "c578fc600f421f036ae978b2906b75de",
+    "id": "1ac3af72-106f-4b51-ab14-2707312d58b2",
     "username": "Hank Schrader",
     "rank": "Capo de tutti Capi",
-    "hits": 2,
-    "gottenHit": 4,
+    "hits": 4,
+    "gottenHit": 16,
     "dead": true,
     "hitBy": [
       "[Anonym bruker]",
       "Exys",
       "Shaco",
-      "Yoshi"
+      "Yoshi",
+      "Ascension",
+      "Milano",
+      "Napoli",
+      "Firenze",
+      "Exys",
+      "Kodak black",
+      "Edward Kenway",
+      "Grevlingen",
+      "Bilal Bilbane",
+      "Jarle",
+      "Olga Burger",
+      "Grevlingen"
+    ],
+    "aliases": [
+      "Kjell"
+    ]
+  },
+  {
+    "id": "b8ba32a3-fe24-4c9d-a523-dfeb0a225241",
+    "username": "Venezia",
+    "rank": "Capo de tutti Capi",
+    "hits": 2,
+    "gottenHit": 4,
+    "dead": false,
+    "hitBy": [
+      "Pushwagner",
+      "Pushwagner",
+      "Seraphiel",
+      "Seraphiel"
     ],
     "aliases": []
   },
   {
-    "id": "48ca461afccb0c9f533ba45aaa6f5a90",
+    "id": "3e5fc348-b045-47a4-9dbb-913806e20547",
+    "username": "Ratchet",
+    "rank": null,
+    "hits": 2,
+    "gottenHit": 4,
+    "dead": false,
+    "hitBy": [
+      "Pushwagner",
+      "Pushwagner",
+      "Seraphiel",
+      "Seraphiel"
+    ],
+    "aliases": [
+      "Venezia"
+    ]
+  },
+  {
+    "id": "f6770753-6ee0-40fa-b707-a2886bff72c0",
     "username": "kapiiisjh",
     "rank": "Gudfar",
     "hits": 0,
@@ -4283,7 +4608,7 @@
     "aliases": []
   },
   {
-    "id": "380951527dbe2203cb9432855bfe6329",
+    "id": "5335e35c-a967-48f8-bb55-f914b7f94428",
     "username": "Marie Schrader",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -4298,7 +4623,7 @@
     "aliases": []
   },
   {
-    "id": "dc46631f05cea819417f36c203f23f30",
+    "id": "33c9afdc-f1de-455d-ae1e-900e5f455648",
     "username": "MidnattSol",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -4312,7 +4637,7 @@
     "aliases": []
   },
   {
-    "id": "94a0858357629dc8abadb685ef712c33",
+    "id": "8c056ea2-af1a-49fe-89e9-f1b4483031de",
     "username": "Kasino4life",
     "rank": "Gudfar",
     "hits": 2,
@@ -4328,7 +4653,7 @@
     "aliases": []
   },
   {
-    "id": "0f689ae1dc5f90ca8316a543479827f1",
+    "id": "60a82b27-282c-47a2-9cc6-a4becaeceaf1",
     "username": "Arezzo",
     "rank": "Capo de tutti Capi",
     "hits": 6,
@@ -4338,7 +4663,7 @@
     "aliases": []
   },
   {
-    "id": "1c42f9c1ca2f65441465b43cd9339d6c",
+    "id": "a0ba2bb3-3469-4aaa-ab82-1f8f67b11ac3",
     "username": "Andrea",
     "rank": "Gudfar",
     "hits": 1,
@@ -4350,7 +4675,7 @@
     "aliases": []
   },
   {
-    "id": "2a0f8674d866e435467a582934852bc0",
+    "id": "e9a73222-a9f0-4715-9e95-568d6105de72",
     "username": "Zano",
     "rank": "Gudfar",
     "hits": 0,
@@ -4363,7 +4688,7 @@
     "aliases": []
   },
   {
-    "id": "e040e9f105f5e88490355479dabef0a5",
+    "id": "cfcbceee-3210-4380-94a4-4619fe7800c0",
     "username": "Sersjant",
     "rank": "Gudfar",
     "hits": 0,
@@ -4376,7 +4701,17 @@
     "aliases": []
   },
   {
-    "id": "4b85a21200e8eb254e79417678a63664",
+    "id": "657e9dc0-f789-45de-ae30-4088439f2c0c",
+    "username": "send sokker",
+    "rank": "Capo Crimini",
+    "hits": 1,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "0cbe0337-e813-4a4b-a8c4-407f456af32f",
     "username": "Tasso",
     "rank": "Gudfar",
     "hits": 0,
@@ -4393,7 +4728,7 @@
     "aliases": []
   },
   {
-    "id": "77e000aad1affde9b582a1969650ce5f",
+    "id": "e424daa3-d2ff-482e-8fb8-c4d7a2cb2001",
     "username": "Mikkel munthe",
     "rank": "Gudfar",
     "hits": 0,
@@ -4406,7 +4741,7 @@
     "aliases": []
   },
   {
-    "id": "61118d50684a445e9e12350c062d653b",
+    "id": "385c255e-5945-407e-bd3b-261352b915a0",
     "username": "R octavoc r",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -4423,22 +4758,7 @@
     "aliases": []
   },
   {
-    "id": "b0c399e7c5ef981bbca9a0b1f72b4139",
-    "username": "Venezia",
-    "rank": "Capo de tutti Capi",
-    "hits": 2,
-    "gottenHit": 4,
-    "dead": false,
-    "hitBy": [
-      "Pushwagner",
-      "Pushwagner",
-      "Seraphiel",
-      "Seraphiel"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "789968f58f4ce858eaeda029210d5cb7",
+    "id": "6b47bedd-e5dc-4567-8dde-9ec952f3a567",
     "username": "Tulletassen",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -4452,7 +4772,7 @@
     "aliases": []
   },
   {
-    "id": "04f5a8878b83015521ad2a2e39805230",
+    "id": "c0fb6b71-b542-49e7-b892-9b0032740936",
     "username": "Cirella",
     "rank": "Capo Crimini",
     "hits": 13,
@@ -4466,7 +4786,7 @@
     "aliases": []
   },
   {
-    "id": "b2641dc9f4f250db7264e75220e104cf",
+    "id": "62699908-d0b7-478b-90f5-fc3eed1f01a5",
     "username": "Edvard Munch",
     "rank": "Gudfar",
     "hits": 0,
@@ -4476,7 +4796,7 @@
     "aliases": []
   },
   {
-    "id": "cdbe3eec37058888e9d3d832b02d7324",
+    "id": "c9ee01dc-3a3a-42b0-b49e-34297197d3ab",
     "username": "FotballMarte06",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -4489,17 +4809,7 @@
     "aliases": []
   },
   {
-    "id": "4ddb154f4c3e98427038e7fb5505083f",
-    "username": "send sokker",
-    "rank": "Capo Crimini",
-    "hits": 1,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "e276f4e5b3a7cb720b821455e3b7fef0",
+    "id": "0f8b2822-9f25-41bb-b81a-6dfc8e2d70b7",
     "username": "Elon Musk",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -4509,7 +4819,7 @@
     "aliases": []
   },
   {
-    "id": "fddd76411252e465ab9edde8ebed3d0a",
+    "id": "5bc8dd81-2d65-496d-965a-3ae7716092ab",
     "username": "Brent",
     "rank": "Gudfar",
     "hits": 0,
@@ -4519,7 +4829,7 @@
     "aliases": []
   },
   {
-    "id": "d30813ae3727de9086249cbe3d0aaff3",
+    "id": "d6a26185-3108-44e9-86f4-2a234b6c0ff5",
     "username": "Frostveil",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -4533,7 +4843,7 @@
     "aliases": []
   },
   {
-    "id": "d98e8498a2500f65d8158dfa667aeec9",
+    "id": "558eddb4-cb0b-4aaa-b778-9b99814c3c69",
     "username": "Freia",
     "rank": "Gudfar",
     "hits": 0,
@@ -4546,7 +4856,7 @@
     "aliases": []
   },
   {
-    "id": "c84baebe0faa2fcdc2f1a4a9f6e2fbfc",
+    "id": "4d40d8d5-3ac9-4b80-8e28-78bf03f60356",
     "username": "Insomnia",
     "rank": "Capo de tutti Capi",
     "hits": 1,
@@ -4556,7 +4866,7 @@
     "aliases": []
   },
   {
-    "id": "dbd469ea17edcc6010767fe39675d345",
+    "id": "e80b76bb-c01e-4ab9-a4ff-7823b4072674",
     "username": "Aktiv Dodshjelp",
     "rank": "Gudfar",
     "hits": 0,
@@ -4570,7 +4880,7 @@
     "aliases": []
   },
   {
-    "id": "51fc8e7163379cf91262687ebf080c5b",
+    "id": "e3fd7501-7116-4839-a793-673eb24a069b",
     "username": "Oda Krog",
     "rank": "Gudfar",
     "hits": 0,
@@ -4583,7 +4893,7 @@
     "aliases": []
   },
   {
-    "id": "c869f5a15639deb3309f565cd03314e5",
+    "id": "25915fb9-92be-4c03-b3e3-05058dfcfb88",
     "username": "Saul Goodman",
     "rank": "Capo de tutti Capi",
     "hits": 1,
@@ -4603,7 +4913,7 @@
     "aliases": []
   },
   {
-    "id": "dd6652895030f6b3b1b711d8334192f2",
+    "id": "39679111-b43f-4595-890d-6b3aa014ea50",
     "username": "shaq",
     "rank": "Gudfar",
     "hits": 0,
@@ -4616,20 +4926,24 @@
     "aliases": []
   },
   {
-    "id": "cab8111fd0b710a336c898e539090e34",
+    "id": "7b7c7c15-1421-4936-96b8-df22af6ec968",
     "username": "Void",
     "rank": null,
-    "hits": 0,
-    "gottenHit": 2,
+    "hits": 1,
+    "gottenHit": 4,
     "dead": true,
     "hitBy": [
       "[Anonym bruker]",
-      "[Anonym bruker]"
+      "[Anonym bruker]",
+      "Beta",
+      "Beta"
     ],
-    "aliases": []
+    "aliases": [
+      "Conquest"
+    ]
   },
   {
-    "id": "1843e51e39e7195d4ef79a58fdeea872",
+    "id": "6bf00413-8e57-4bf3-b659-49b80ca39cd5",
     "username": "Trent",
     "rank": "Gudfar",
     "hits": 0,
@@ -4639,7 +4953,7 @@
     "aliases": []
   },
   {
-    "id": "9071dbd769d8581ed5a689fdaf8f5037",
+    "id": "0430610e-032f-48ab-bed4-f49101353870",
     "username": "Stavmikser",
     "rank": "Capo Crimini",
     "hits": 4,
@@ -4652,7 +4966,7 @@
     "aliases": []
   },
   {
-    "id": "9d015f09ed79576cdb9b0d31cc738fa4",
+    "id": "6824de21-5195-4970-8beb-c9fcbdcb9f56",
     "username": "winnie the pooh",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -4665,7 +4979,17 @@
     "aliases": []
   },
   {
-    "id": "8df0a6f0cc792b57c977bbe69ab137ae",
+    "id": "115bf383-7324-4e13-bc74-ab78fe05e164",
+    "username": "Bimo",
+    "rank": "Gudfar",
+    "hits": 1,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "330de422-8b2d-4372-a7ad-b26534cc146a",
     "username": "Bellona",
     "rank": "Capo de tutti Capi",
     "hits": 7,
@@ -4677,7 +5001,7 @@
     "aliases": []
   },
   {
-    "id": "7ba228c2df7efc4c4b660b895e7a2683",
+    "id": "7053cd7a-eb72-40cf-a988-f9a8a8c5a498",
     "username": "Walt Whitman",
     "rank": "Capo de tutti Capi",
     "hits": 12,
@@ -4712,7 +5036,7 @@
     "aliases": []
   },
   {
-    "id": "caa86b3db8a2ef15b945634e8400c27e",
+    "id": "556fddea-7f0f-4056-a709-d5b08e0e1a5f",
     "username": "Whitehaze",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -4728,20 +5052,37 @@
     "aliases": []
   },
   {
-    "id": "962b2d2b8e72dc6771bca613d49b46fb",
+    "id": "c86da711-ffbc-4a3f-bc74-b7bcebe3b1c7",
     "username": "Teddy",
     "rank": null,
-    "hits": 0,
-    "gottenHit": 2,
+    "hits": 3,
+    "gottenHit": 17,
     "dead": true,
     "hitBy": [
       "Olga Burger",
-      "[Anonym bruker]"
+      "[Anonym bruker]",
+      "Cyprus",
+      "Cirella",
+      "Herobrine",
+      "Kryptex",
+      "Interstellar",
+      "Jeffery",
+      "C11H15No2",
+      "Vow",
+      "Trekkoppbil",
+      "Virtuoso",
+      "Interstellar",
+      "Virtuoso",
+      "winnie the pooh",
+      "Seraphiel",
+      "Saber"
     ],
-    "aliases": []
+    "aliases": [
+      "Riku Tanaka"
+    ]
   },
   {
-    "id": "a886f2ee22888badbce90eac740c49be",
+    "id": "fd6af951-0824-4281-89e6-6c568435fa55",
     "username": "Carter",
     "rank": "Gudfar",
     "hits": 0,
@@ -4754,7 +5095,7 @@
     "aliases": []
   },
   {
-    "id": "e8f47db39e7d724df83e2330105427fe",
+    "id": "3c12a599-57ee-46b7-b810-070e1ef9ff2e",
     "username": "Jarle",
     "rank": "Capo Crimini",
     "hits": 3,
@@ -4768,7 +5109,7 @@
     "aliases": []
   },
   {
-    "id": "8edf0eab1d0f30ab0079075965572a16",
+    "id": "c2fb1345-f9dc-4d28-aeca-5e90e02600f4",
     "username": "syrepinnen",
     "rank": "Gudfar",
     "hits": 0,
@@ -4781,7 +5122,7 @@
     "aliases": []
   },
   {
-    "id": "fae005cf393a8ec646f3fe040339fd9d",
+    "id": "35d5f299-a419-422e-9a8d-2859ca5c2fd5",
     "username": "Gear",
     "rank": "Gudfar",
     "hits": 0,
@@ -4791,7 +5132,7 @@
     "aliases": []
   },
   {
-    "id": "6295dcf6cedcef0b2e26f2bf97b93887",
+    "id": "299a5f4c-2099-48db-9918-06e64883eed2",
     "username": "send truse",
     "rank": "Capo Crimini",
     "hits": 5,
@@ -4804,7 +5145,7 @@
     "aliases": []
   },
   {
-    "id": "0ff14a13b985917b6dfc452f8d8fbde0",
+    "id": "7349dd6a-17d6-44bc-b4a8-0c258115d497",
     "username": "Soldat",
     "rank": "Gudfar",
     "hits": 0,
@@ -4818,7 +5159,7 @@
     "aliases": []
   },
   {
-    "id": "8669fecf5d6ea90e15baa10a74b8d852",
+    "id": "63336475-8010-4ed9-9966-055254df578c",
     "username": "Palermo",
     "rank": "Capo de tutti Capi",
     "hits": 17,
@@ -4839,7 +5180,7 @@
     "aliases": []
   },
   {
-    "id": "170e46bf5e0cafab00cac3a650910837",
+    "id": "e551cf26-8114-4013-9d0c-601ae5457603",
     "username": "Warden",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -4855,34 +5196,7 @@
     "aliases": []
   },
   {
-    "id": "c82f3ed501cae690af7bc8f78eb2f4d0",
-    "username": "Nidar",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 3,
-    "dead": true,
-    "hitBy": [
-      "Cirella",
-      "[Anonym bruker]",
-      "Herobrine"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "a4e399477d7924994be052d1d6d47715",
-    "username": "julekrans",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 2,
-    "dead": true,
-    "hitBy": [
-      "Crush",
-      "Crush"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "b092a62c96785fab02d01a852bf63351",
+    "id": "0260f9d5-448c-4057-991a-34fd7fa8d7db",
     "username": "Riku Tanaka",
     "rank": "Capo de tutti Capi",
     "hits": 3,
@@ -4908,7 +5222,34 @@
     "aliases": []
   },
   {
-    "id": "3a23bb515e06d0e944ff916e79a7775c",
+    "id": "da158859-a642-475a-b436-aadcf2533e39",
+    "username": "Nidar",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 3,
+    "dead": true,
+    "hitBy": [
+      "Cirella",
+      "[Anonym bruker]",
+      "Herobrine"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "194dbf2c-a8d0-48b7-838c-e56fb4ec8d43",
+    "username": "julekrans",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "Crush",
+      "Crush"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "726c1ca4-ef14-4081-aaa3-55de759ad112",
     "username": "Diana",
     "rank": "Gudfar",
     "hits": 0,
@@ -4918,7 +5259,7 @@
     "aliases": []
   },
   {
-    "id": "2286579934e93afe92c3506509ef49db",
+    "id": "abd71ed4-7ed0-4739-bf00-5c5c9da51d6d",
     "username": "Halil Ibrahim",
     "rank": "Gudfar",
     "hits": 0,
@@ -4933,7 +5274,7 @@
     "aliases": []
   },
   {
-    "id": "56a81aad0011bdc68fd3cc7a6bc79676",
+    "id": "33e218ac-bf23-4cff-b4f4-d5c86a8e9d31",
     "username": "Patrick Berg",
     "rank": "Gudfar",
     "hits": 0,
@@ -4946,7 +5287,7 @@
     "aliases": []
   },
   {
-    "id": "322440f7b794b187e8ab15a3c0332398",
+    "id": "9bd784e9-ce3b-4315-b50f-1e442c588915",
     "username": "Melketenner",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -4956,7 +5297,7 @@
     "aliases": []
   },
   {
-    "id": "a50cab0ae2516b1d140ccfc78aee41a5",
+    "id": "9251db54-3525-47a3-a3bb-381c98168ec5",
     "username": "gjedda",
     "rank": "Gudfar",
     "hits": 0,
@@ -4971,7 +5312,7 @@
     "aliases": []
   },
   {
-    "id": "35d71c508624e77a92066bc1d2a26c4d",
+    "id": "925e1b10-4535-4933-a714-9c308087de0d",
     "username": "Klesklamp",
     "rank": "Gudfar",
     "hits": 0,
@@ -4981,33 +5322,21 @@
     "aliases": []
   },
   {
-    "id": "d7d7ea84ddb323e80d1bc2f2bb14cca2",
+    "id": "7ff76ef5-7498-4c25-9c94-d209c6857bc5",
     "username": "Nightwalker",
     "rank": "Capo de tutti Capi",
-    "hits": 4,
+    "hits": 9,
     "gottenHit": 1,
     "dead": false,
     "hitBy": [
       "Stavmikser"
     ],
-    "aliases": []
+    "aliases": [
+      "Trekkoppbil"
+    ]
   },
   {
-    "id": "da346996eb968f8b5112daa738e0c004",
-    "username": "Anonyma",
-    "rank": "Capo Crimini",
-    "hits": 1,
-    "gottenHit": 3,
-    "dead": false,
-    "hitBy": [
-      "Ascension",
-      "Magnus Karlsen",
-      "Sala Consilina"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "13365d367683301ee26d9d76d25c518b",
+    "id": "de0f8172-f481-45df-b44f-ae93c6281fa9",
     "username": "Sleepy",
     "rank": "Capo Crimini",
     "hits": 3,
@@ -5017,7 +5346,7 @@
     "aliases": []
   },
   {
-    "id": "ea38a1946a299b4ccf05fc43e586482b",
+    "id": "733dd10d-5cbc-4393-a3dd-584f2b52b7dc",
     "username": "Elevates",
     "rank": "Gudfar",
     "hits": 0,
@@ -5030,7 +5359,7 @@
     "aliases": []
   },
   {
-    "id": "5da2acc2e323615fe7345ec0d24ae587",
+    "id": "1dd6ee1c-6651-4fc5-a75c-71423fa05aa0",
     "username": "NAVle",
     "rank": "Capo Crimini",
     "hits": 4,
@@ -5040,7 +5369,7 @@
     "aliases": []
   },
   {
-    "id": "5d01ec641694901bfb4aff853ccde4c1",
+    "id": "da5ef6ad-088c-409b-8e88-0722e12fa83d",
     "username": "Frank Costello",
     "rank": "Gudfar",
     "hits": 2,
@@ -5055,7 +5384,7 @@
     "aliases": []
   },
   {
-    "id": "f2bf79fab3d1d0abc75418800e804136",
+    "id": "da33d46c-f546-4e32-b45a-e44301acf6b1",
     "username": "Laten",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5070,7 +5399,7 @@
     "aliases": []
   },
   {
-    "id": "65f185ec6bd47af8f082f8196d0b4d24",
+    "id": "3ea0be85-5127-49a5-9e34-31616fd227b5",
     "username": "Tommy",
     "rank": "Gudfar",
     "hits": 0,
@@ -5083,7 +5412,7 @@
     "aliases": []
   },
   {
-    "id": "ac15dd302601bdac753596694ac78093",
+    "id": "3835ab9c-b512-4156-89e0-f0d9f3f46745",
     "username": "Experimental",
     "rank": "Gudfar",
     "hits": 0,
@@ -5098,7 +5427,17 @@
     "aliases": []
   },
   {
-    "id": "bfd8e8a92ff2e016af7eb9d22acf3c8b",
+    "id": "c1ff9aeb-e49e-4e06-b8a2-d1102b7fec28",
+    "username": "JegErSuveren",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "baff8fc5-f983-4e22-88f3-c2e5ef11cc87",
     "username": "Bulldoser",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -5113,7 +5452,7 @@
     "aliases": []
   },
   {
-    "id": "32adf050226995bf2311421ebe0698e0",
+    "id": "4ff44e2b-e796-4891-bd2d-afd0924f6a01",
     "username": "Pia",
     "rank": "Gudfar",
     "hits": 0,
@@ -5123,7 +5462,7 @@
     "aliases": []
   },
   {
-    "id": "79837509a0490f9c54c6cde4440abd95",
+    "id": "ec9bf00b-2825-4ac6-a8dd-ed6962feabe5",
     "username": "Little John",
     "rank": "Gudfar",
     "hits": 0,
@@ -5135,17 +5474,7 @@
     "aliases": []
   },
   {
-    "id": "d4ddaca55481786b25a2f2c60934c2ff",
-    "username": "Jegersuveren",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "149afd631693c895f81e508eb5aaef37",
+    "id": "9f410fa3-9dec-4f90-9049-69ad3642a12b",
     "username": "Sakura",
     "rank": "Gudfar",
     "hits": 0,
@@ -5158,7 +5487,7 @@
     "aliases": []
   },
   {
-    "id": "998c72646420af9359a81119951ae285",
+    "id": "3c8d81aa-cf3a-4d80-83b9-05ae1c47083b",
     "username": "WillyMyWonka",
     "rank": "Capo Crimini",
     "hits": 4,
@@ -5170,7 +5499,7 @@
     "aliases": []
   },
   {
-    "id": "746b2c636b96c7ff12ceb8dda5c90a4e",
+    "id": "1c976c50-4c00-43fd-bfdc-0815af7bf396",
     "username": "Sydney boy",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5185,7 +5514,7 @@
     "aliases": []
   },
   {
-    "id": "a3ae36ccfca53ed61ef83e645700d9ce",
+    "id": "d8cd30f0-d26d-48b2-8ad4-224ecc720f27",
     "username": "Muammar Gaddafi",
     "rank": "Gudfar",
     "hits": 1,
@@ -5200,7 +5529,7 @@
     "aliases": []
   },
   {
-    "id": "43207842ec9a513516851d23f729a25e",
+    "id": "6b6e1106-515f-4e4b-b7cb-af5efbd2bb26",
     "username": "StibbV10",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5222,7 +5551,20 @@
     "aliases": []
   },
   {
-    "id": "9bb71f8228340f00355120d30127933e",
+    "id": "9eaf87ed-52c5-42c8-9671-53a3f2764be0",
+    "username": "Conquest",
+    "rank": "Capo Crimini",
+    "hits": 1,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Beta",
+      "Beta"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "b9accd01-7c74-4335-a3ad-01d8f13d13c4",
     "username": "AnonyMiss",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5234,7 +5576,7 @@
     "aliases": []
   },
   {
-    "id": "c2c66e3a934afe7a66734ac607fd3bc5",
+    "id": "4af4e53f-8b7d-4afa-87bc-f5d74c6ba5e2",
     "username": "Caravaggio",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -5246,7 +5588,7 @@
     "aliases": []
   },
   {
-    "id": "9f6052814a6214e9abacb4ab8481932f",
+    "id": "245cdb4a-ab93-434c-a412-595f367a95d7",
     "username": "Dekktrykk",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5258,7 +5600,7 @@
     "aliases": []
   },
   {
-    "id": "6e5e16b261e93d07c53869216aa7cf61",
+    "id": "55856dda-d006-4a9e-890c-433bb5ced6e1",
     "username": "C11H15No2",
     "rank": "Capo de tutti Capi",
     "hits": 7,
@@ -5268,7 +5610,7 @@
     "aliases": []
   },
   {
-    "id": "69e652751549d7a37791c227aa914c2d",
+    "id": "28d611d6-b172-486f-b115-4c6a892b057b",
     "username": "Kortopi",
     "rank": "Capo Crimini",
     "hits": 13,
@@ -5282,7 +5624,7 @@
     "aliases": []
   },
   {
-    "id": "f62e05eafec3231205788cba3ef91d54",
+    "id": "887df719-e606-43d8-8065-8b21cab9c426",
     "username": "Interstellar",
     "rank": "Capo de tutti Capi",
     "hits": 15,
@@ -5296,7 +5638,7 @@
     "aliases": []
   },
   {
-    "id": "7b644443e39cccacaff97f471e5fc2f5",
+    "id": "a8b858b4-2b01-472d-904b-a19caaa9e9c9",
     "username": "Lifesence",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -5319,7 +5661,7 @@
     "aliases": []
   },
   {
-    "id": "774c39d966a322f93f662188fb6f665d",
+    "id": "72ba7870-317c-4e1e-9a97-4805e9275daf",
     "username": "Negan",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -5333,7 +5675,7 @@
     "aliases": []
   },
   {
-    "id": "8200fdece927b56ffcfeae7518d5df61",
+    "id": "982337cf-c9ba-4c51-b8e1-5ddc29800f08",
     "username": "Squidward",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5343,7 +5685,7 @@
     "aliases": []
   },
   {
-    "id": "ac754a330530832ba1bf7687f577da91",
+    "id": "b2820f6f-1db8-4ffd-a90c-5dd125483db5",
     "username": "Nightmare",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -5358,7 +5700,7 @@
     "aliases": []
   },
   {
-    "id": "e5d9820465dbf1653463dd79403579f2",
+    "id": "38c6f413-0b98-49b7-9c7c-f173a2572f5e",
     "username": "Fatherless",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -5374,7 +5716,7 @@
     "aliases": []
   },
   {
-    "id": "4d14cc253c29926302b8c36434bf140c",
+    "id": "6f81ca72-3950-4ea9-91ba-5fbe85c5acb3",
     "username": "Typhoon",
     "rank": "Gudfar",
     "hits": 0,
@@ -5384,7 +5726,7 @@
     "aliases": []
   },
   {
-    "id": "f9272a81229666376268261069523232",
+    "id": "fc43e8ee-848e-4ea2-b7ac-5f54ba04e128",
     "username": "Marianne Aulie",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5397,7 +5739,7 @@
     "aliases": []
   },
   {
-    "id": "f5bd93a2b7c9a70fa7d673021a765289",
+    "id": "6cf1c5de-53d2-42ef-a0f3-2039854c1643",
     "username": "Kasinokongen",
     "rank": "Gudfar",
     "hits": 1,
@@ -5413,7 +5755,7 @@
     "aliases": []
   },
   {
-    "id": "f56681194ebea036dd1297f1184bf7bd",
+    "id": "8ea94616-5a6f-46a1-a277-7d8338f9cbca",
     "username": "Unc",
     "rank": "Capo de tutti Capi",
     "hits": 7,
@@ -5423,7 +5765,49 @@
     "aliases": []
   },
   {
-    "id": "012bc9d05ea2af8eea4d3e4b0b905661",
+    "id": "74ab9c73-3fc7-4de9-920b-11ff45cf0970",
+    "username": "Skankhunt",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 3,
+    "dead": false,
+    "hitBy": [
+      "Freddy Geas",
+      "[Anonym bruker]",
+      "Palermo"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "2757b79e-6748-4906-8ae4-8e1803a97856",
+    "username": "Sal DAmato",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Aliyah",
+      "Lando"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "becf0fb5-40e9-42e8-b4c5-eda8cb9a4d1e",
+    "username": "Fettsniken",
+    "rank": null,
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Aliyah",
+      "Lando"
+    ],
+    "aliases": [
+      "Sal DAmato"
+    ]
+  },
+  {
+    "id": "065e4da7-16bf-4c4d-81b7-7b6a0562d6d9",
     "username": "Sala Consilina",
     "rank": "Capo Crimini",
     "hits": 3,
@@ -5437,7 +5821,7 @@
     "aliases": []
   },
   {
-    "id": "02c7375c93896d37004ae45bf9bc6ac5",
+    "id": "7ac592d8-e0b6-41c1-8937-23e3798371e4",
     "username": "Millehaugen",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5451,7 +5835,7 @@
     "aliases": []
   },
   {
-    "id": "b246ff693d453c3b1a3049752da2bc75",
+    "id": "2a30e29c-e0cc-428e-a8c3-d0de0a68ab53",
     "username": "Dino",
     "rank": "Gudfar",
     "hits": 0,
@@ -5463,7 +5847,7 @@
     "aliases": []
   },
   {
-    "id": "2767cc3ede7592a47bd6657e3799565c",
+    "id": "1859bb20-b1ed-4282-90e5-3a8af0c57086",
     "username": "Gallery",
     "rank": "Capo Crimini",
     "hits": 3,
@@ -5481,20 +5865,7 @@
     "aliases": []
   },
   {
-    "id": "14a0815047897e351d500afda614b143",
-    "username": "Sal DAmato",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Aliyah",
-      "Lando"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "73711778f1d0f4fe5ca412388b05310d",
+    "id": "27e522a5-8905-433b-b571-ca191989fcef",
     "username": "Freddy Geas",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -5506,33 +5877,7 @@
     "aliases": []
   },
   {
-    "id": "62103b39a359d46c886c2450b86435ce",
-    "username": "Skankhunt",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 3,
-    "dead": false,
-    "hitBy": [
-      "Freddy Geas",
-      "[Anonym bruker]",
-      "Palermo"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "6915731e0cf5ec998491625d27ed9b1d",
-    "username": "Milly Alcock",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "C11H15No2"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "addac03e2ac2f62d1a7e766874af16b3",
+    "id": "e0086930-8676-4ddb-add3-60fb4ead4523",
     "username": "Ascension",
     "rank": "Capo Crimini",
     "hits": 18,
@@ -5546,7 +5891,7 @@
     "aliases": []
   },
   {
-    "id": "82c19f634500519bee03132176b0f743",
+    "id": "731eb842-95d3-42bf-a195-136d538ce60e",
     "username": "Ponzi",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -5566,7 +5911,7 @@
     "aliases": []
   },
   {
-    "id": "7dabe93c7dea0aab55d8e4ed47fde9c0",
+    "id": "cd4e58f1-7eeb-417e-8c9e-ae8a8b7dac12",
     "username": "Laris",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5582,7 +5927,7 @@
     "aliases": []
   },
   {
-    "id": "a862f474a6c1dfa9ba02033c061e48b9",
+    "id": "264c6d4d-a938-4466-9ed1-0f209f76029a",
     "username": "Mandalorian",
     "rank": "Capo Crimini",
     "hits": 4,
@@ -5596,7 +5941,7 @@
     "aliases": []
   },
   {
-    "id": "5cc61a5abfbc35f2015441000b6315f9",
+    "id": "b43d4d61-5274-4a00-aaf6-f3c24b8ef207",
     "username": "Yasiin Bey",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -5606,7 +5951,7 @@
     "aliases": []
   },
   {
-    "id": "a4c23078bcf091bde6398be8628c66d2",
+    "id": "df1ccf73-e8b1-49a5-99dc-61976b07cfe8",
     "username": "L Aquila",
     "rank": "Capo de tutti Capi",
     "hits": 3,
@@ -5623,7 +5968,7 @@
     "aliases": []
   },
   {
-    "id": "0143c1e8e97da861c623ff508a441c54",
+    "id": "e03e852d-56d3-4974-bb4d-a8d5a4c4c151",
     "username": "Salsa",
     "rank": "Gudfar",
     "hits": 1,
@@ -5633,57 +5978,7 @@
     "aliases": []
   },
   {
-    "id": "45857ce289abe1e4eb9dfab5c2753cac",
-    "username": "Onkel Skrue",
-    "rank": "Gudfar",
-    "hits": 5,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "Palermo"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "1b2d0477734fe6cdd96ad6003c5b9409",
-    "username": "Sabeltann",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 2,
-    "dead": true,
-    "hitBy": [
-      "[Anonym bruker]",
-      "[Anonym bruker]"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "7aba2bf77f359c303912418ec2d488f9",
-    "username": "Chucky",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 4,
-    "dead": true,
-    "hitBy": [
-      "Clown",
-      "Walt Whitman",
-      "Olga Burger",
-      "Palermo"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "f9d5c16a7f42203f8c195432354a3271",
-    "username": "SSL",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "bd6f6ba4d0a6b87fa156dd5cf21b2708",
+    "id": "9e58191d-16cd-4bc9-ab78-0f98738d6e54",
     "username": "Kjell",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -5706,7 +6001,57 @@
     "aliases": []
   },
   {
-    "id": "0ffe34b4e04c2b282c5a388b1ad8aa7a",
+    "id": "de9dc4cf-0fed-4d64-ad5e-81959b71fede",
+    "username": "Onkel Skrue",
+    "rank": "Gudfar",
+    "hits": 5,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "Palermo"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "5c7c4a94-9510-48a4-bcdd-46654da86fe2",
+    "username": "Sabeltann",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "868960df-6513-4e42-8e3c-1484c1bd20c0",
+    "username": "Chucky",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 4,
+    "dead": true,
+    "hitBy": [
+      "Clown",
+      "Walt Whitman",
+      "Olga Burger",
+      "Palermo"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "2e0daf84-8432-41b0-a03c-7163dad36c22",
+    "username": "SSL",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "0c31eb5c-1fb4-462f-957d-20d096cb2bdd",
     "username": "Lazy",
     "rank": "Gudfar",
     "hits": 0,
@@ -5719,7 +6064,7 @@
     "aliases": []
   },
   {
-    "id": "838360888259ea5ffe3a73f81a2a6f19",
+    "id": "1a667de7-b808-4b0e-951e-a1318a0623b3",
     "username": "Joan Miro",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -5729,7 +6074,7 @@
     "aliases": []
   },
   {
-    "id": "e94567e6ce62de204d10d745a5354a5d",
+    "id": "40aaf84a-6340-4dac-b268-1df8d73bfddb",
     "username": "Tugg Speedman",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -5741,7 +6086,7 @@
     "aliases": []
   },
   {
-    "id": "7dae0475671c4ee2c3f96ad9b0101c3f",
+    "id": "227dad73-fe93-4a4b-ab7e-003dab4b71cd",
     "username": "Xander Harris",
     "rank": "Gudfar",
     "hits": 0,
@@ -5757,7 +6102,7 @@
     "aliases": []
   },
   {
-    "id": "c970b55ca814de56d24aeeee1a3d0565",
+    "id": "e5d3ee20-3a30-4da4-8c9a-e4d2ca15b1f3",
     "username": "Jack Torrance",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5770,7 +6115,7 @@
     "aliases": []
   },
   {
-    "id": "753d4c2fa2e96e3a834b765c9ddd8c76",
+    "id": "31267262-21ef-4d6e-82f8-08140ffa27b0",
     "username": "Da Vinci",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5782,7 +6127,7 @@
     "aliases": []
   },
   {
-    "id": "6925a35fda814b1471aba1753cbb0469",
+    "id": "4ada5a32-c56c-4d58-898b-dea04ee61c4a",
     "username": "Epic Fail Guy",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -5797,7 +6142,7 @@
     "aliases": []
   },
   {
-    "id": "913013028698f70c12b568ec173f5f86",
+    "id": "58bf8076-ead1-47de-955c-e685760102c5",
     "username": "Jeffery",
     "rank": "Capo Crimini",
     "hits": 7,
@@ -5818,7 +6163,7 @@
     "aliases": []
   },
   {
-    "id": "9b3883d41aaff14cce38c2cbb355e720",
+    "id": "2eefb5e8-cefd-46a0-8a84-64cab6caaa99",
     "username": "MaxMekker",
     "rank": "Gudfar",
     "hits": 0,
@@ -5833,7 +6178,7 @@
     "aliases": []
   },
   {
-    "id": "f91094cdf7d57b05533474efa4a37cff",
+    "id": "e988f0b0-9a57-4a54-85b9-ac205d7b1efa",
     "username": "Zanuxus",
     "rank": "Capo Crimini",
     "hits": 5,
@@ -5849,7 +6194,7 @@
     "aliases": []
   },
   {
-    "id": "baf3ab5b8cab6297f99d30157ef9cae7",
+    "id": "e3a6fbb6-1b79-4c69-9abe-dcc9ccb9600b",
     "username": "Buzzy",
     "rank": "Gudfar",
     "hits": 0,
@@ -5862,20 +6207,7 @@
     "aliases": []
   },
   {
-    "id": "979e57d16f8271c1924039307f981e66",
-    "username": "Conquest",
-    "rank": "Capo Crimini",
-    "hits": 1,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Beta",
-      "Beta"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "22f55bbf6ddc81e7c41829b528a36f6b",
+    "id": "056f427f-0415-447a-a67c-40a7e5a0c707",
     "username": "Kairo",
     "rank": "Gudfar",
     "hits": 0,
@@ -5888,7 +6220,7 @@
     "aliases": []
   },
   {
-    "id": "87048453419883b3f814f81863df6e8c",
+    "id": "ec6ea299-ede2-4e1d-9407-3e30dcfe84fd",
     "username": "Eibi",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5901,7 +6233,7 @@
     "aliases": []
   },
   {
-    "id": "4c96f8324e3ba54a99e78249b95daa30",
+    "id": "6f1b7d13-0351-4de3-a2b3-05c596c497f4",
     "username": "Gustavo",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5914,7 +6246,7 @@
     "aliases": []
   },
   {
-    "id": "c96be7a45761c151628a8c3b3075fc51",
+    "id": "d4ef8881-3eea-4d49-8096-8e6852445793",
     "username": "Deadpool",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -5931,7 +6263,7 @@
     "aliases": []
   },
   {
-    "id": "b203283b6e76a612e97cc9408058ed08",
+    "id": "b52684e6-fc7d-43f5-8260-51769370b787",
     "username": "Pax Romana",
     "rank": "Gudfar",
     "hits": 0,
@@ -5947,7 +6279,17 @@
     "aliases": []
   },
   {
-    "id": "1e628956ae1080b8caf3d79545a2d0a7",
+    "id": "acdbb804-812a-4434-8d7d-3300afe215f4",
+    "username": "Trekkoppbil",
+    "rank": "Capo Crimini",
+    "hits": 5,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "f9a69aec-62bb-4bb4-86ed-412299731bdb",
     "username": "Ica",
     "rank": "Gudfar",
     "hits": 0,
@@ -5959,7 +6301,7 @@
     "aliases": []
   },
   {
-    "id": "8045b194e542f37053fb4ec17edb2855",
+    "id": "3cc6aea1-2e8b-4c29-b9fa-ec9220143c09",
     "username": "The Architect",
     "rank": "Capo Crimini",
     "hits": 3,
@@ -5972,7 +6314,7 @@
     "aliases": []
   },
   {
-    "id": "ccb4a9130f39cc557558b9248360f43f",
+    "id": "74b393a0-648a-4e55-a6cd-a35505053e7b",
     "username": "Tyler",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -5982,7 +6324,7 @@
     "aliases": []
   },
   {
-    "id": "cf1d8c2c1090da863cf51868840c1f83",
+    "id": "1c2266fb-efbe-49c2-b3bf-7a33ba10db79",
     "username": "Swifly",
     "rank": "Gudfar",
     "hits": 0,
@@ -5996,19 +6338,7 @@
     "aliases": []
   },
   {
-    "id": "fdb04f640d8e936f948fbb1e8ac00696",
-    "username": "Sade",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "Muammar Gaddafi"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "f505a4f2dfe4f6071f265d170c34d2f7",
+    "id": "e3107b7b-e031-47aa-80b1-86e0f34bef24",
     "username": "Avellino",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -6023,7 +6353,7 @@
     "aliases": []
   },
   {
-    "id": "9a701a32dbe1df32d2236c625b3e4b59",
+    "id": "e5f4376e-5002-4609-980a-8c39f2e140b7",
     "username": "Barletta",
     "rank": "Capo Crimini",
     "hits": 5,
@@ -6038,7 +6368,7 @@
     "aliases": []
   },
   {
-    "id": "a2a7e24fc5e3c53544310ba5c9ab3fb1",
+    "id": "6ba2ffd4-8d64-4c8f-b508-f7ddc5729f12",
     "username": "Bimz",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6051,7 +6381,7 @@
     "aliases": []
   },
   {
-    "id": "1dfd17797393d69564ea6ccb391b3f00",
+    "id": "c9ca07e4-83c3-4f57-9a61-4fcb2d4bf564",
     "username": "Boge",
     "rank": "Gudfar",
     "hits": 0,
@@ -6064,7 +6394,20 @@
     "aliases": []
   },
   {
-    "id": "5d13f53262af378baa779a9bb8e42284",
+    "id": "6378b92e-58b7-4622-8eb2-34a864571e2c",
+    "username": "Nelson",
+    "rank": "Capo Crimini",
+    "hits": 1,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Gallery",
+      "Saul Goodman"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "03063feb-885d-4f02-abae-0cfe0b1246d0",
     "username": "Mlosuez",
     "rank": null,
     "hits": 0,
@@ -6077,10 +6420,12 @@
       "Ferrara",
       "Firenze"
     ],
-    "aliases": []
+    "aliases": [
+      "Duel At Dawn"
+    ]
   },
   {
-    "id": "3a5861b8276b585efb390a9cb3a82871",
+    "id": "a0ca2397-40a6-46d3-939b-52219b0c0aa8",
     "username": "Philip Guston",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6098,20 +6443,7 @@
     "aliases": []
   },
   {
-    "id": "a4e360681676c770121e891f8c407572",
-    "username": "Nelson",
-    "rank": "Capo Crimini",
-    "hits": 1,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Gallery",
-      "Saul Goodman"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "d1f9cc6dcce0518273c68f03cbbb51f8",
+    "id": "6e2afb9d-f073-45c5-9946-bf64842b4916",
     "username": "Michelangelo",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -6124,7 +6456,7 @@
     "aliases": []
   },
   {
-    "id": "43124ce2528703bb9cef871ac70b42ae",
+    "id": "b8c2e4b9-a209-43cc-8559-c5e26f4e60c1",
     "username": "Nomen Nescio",
     "rank": "Capo Crimini",
     "hits": 2,
@@ -6139,17 +6471,7 @@
     "aliases": []
   },
   {
-    "id": "8cd61a30a6393131867b48214750fb05",
-    "username": "Trekkoppbil",
-    "rank": "Capo Crimini",
-    "hits": 5,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "de98182c8e9f945d6a895c4e84590eca",
+    "id": "c5f897db-97bc-45e8-b09f-da57c9f56c40",
     "username": "ight",
     "rank": "Gudfar",
     "hits": 0,
@@ -6162,7 +6484,7 @@
     "aliases": []
   },
   {
-    "id": "64b69ce05f9e128794e433fea61a7e24",
+    "id": "dff08c46-623d-427c-bb3f-9f0c75e5bb1f",
     "username": "roki",
     "rank": "Gudfar",
     "hits": 0,
@@ -6175,7 +6497,7 @@
     "aliases": []
   },
   {
-    "id": "348a448a51d1e0f0f5eee42337d12adc",
+    "id": "71c29d2f-f205-4d74-adfd-1201c0470646",
     "username": "Sexy",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -6188,7 +6510,7 @@
     "aliases": []
   },
   {
-    "id": "06f05dc26fd281aa7a3bec3e47b3d738",
+    "id": "2a20155c-3177-41f3-926d-08c503052b86",
     "username": "Lars07",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6204,7 +6526,7 @@
     "aliases": []
   },
   {
-    "id": "4eb2389a86ca6fd5af6fc776f32df2e2",
+    "id": "99966ddb-b715-4764-aed6-986c8ac0b00c",
     "username": "Rakshasa",
     "rank": "Capo Crimini",
     "hits": 4,
@@ -6216,7 +6538,7 @@
     "aliases": []
   },
   {
-    "id": "2f7625f24c4c3b8da8e76a9dec696d2d",
+    "id": "b68de60d-ca91-4276-97a0-fbd78d639658",
     "username": "lez",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6229,7 +6551,7 @@
     "aliases": []
   },
   {
-    "id": "2ca63cddd54f9490efad22421891a9d1",
+    "id": "7e201ffc-9e97-4547-8501-6446e37bd1e8",
     "username": "House",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6243,7 +6565,7 @@
     "aliases": []
   },
   {
-    "id": "f88f98b8fc132e8afd011f63abe492b8",
+    "id": "2cbc9bd2-d34a-4d14-a9a9-494decc422bb",
     "username": "Bilal Bilbane",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -6253,7 +6575,7 @@
     "aliases": []
   },
   {
-    "id": "69cae2e5b7136802e35d70afedd7ef29",
+    "id": "7aba2089-1904-484a-a882-8b4dda4b8089",
     "username": "Bjarne Melgaard",
     "rank": "Gudfar",
     "hits": 0,
@@ -6263,7 +6585,7 @@
     "aliases": []
   },
   {
-    "id": "a6f02e7b6fe3a8e0f2d03b60aada8920",
+    "id": "70d471ad-731b-4b9b-a8e0-0dcf9257c8b9",
     "username": "Tungpung",
     "rank": "Gudfar",
     "hits": 0,
@@ -6276,7 +6598,7 @@
     "aliases": []
   },
   {
-    "id": "de68284758a3d7b4f51266c0fbbc3335",
+    "id": "d17898ca-2a54-41e2-8be4-c372b7fe7c68",
     "username": "Gabbiani",
     "rank": "Gudfar",
     "hits": 0,
@@ -6289,7 +6611,7 @@
     "aliases": []
   },
   {
-    "id": "2bde79bff687ae45f1354cde4324ccdd",
+    "id": "436a5736-9c4b-47b3-8050-a72ad3d4ba70",
     "username": "Saber",
     "rank": null,
     "hits": 8,
@@ -6299,10 +6621,22 @@
       "Interstellar",
       "Kryptex"
     ],
+    "aliases": [
+      "Rarh cocaina"
+    ]
+  },
+  {
+    "id": "73b04e74-1638-4038-b759-9175643cd668",
+    "username": "Naan bread",
+    "rank": "Capo Crimini",
+    "hits": 1,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
     "aliases": []
   },
   {
-    "id": "fcf434f2763c0fbd19a6e83059268b50",
+    "id": "ebe40446-628f-4079-9aba-6a67095c78ab",
     "username": "Verona",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6318,7 +6652,7 @@
     "aliases": []
   },
   {
-    "id": "d2720e9f90799c8075642ad43f263211",
+    "id": "23d624b9-fe14-4630-b751-4357f0314aae",
     "username": "RPGlaunch",
     "rank": "Gudfar",
     "hits": 0,
@@ -6334,17 +6668,7 @@
     "aliases": []
   },
   {
-    "id": "c72444a1b9678e55273d5d5f315a6c0e",
-    "username": "Bimo",
-    "rank": "Gudfar",
-    "hits": 1,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "30d20b6bdbad8484e2c7507b8bec65d9",
+    "id": "82d73985-e967-420a-b55c-ed047e1686b2",
     "username": "Chewbacca",
     "rank": "Gudfar",
     "hits": 0,
@@ -6358,7 +6682,29 @@
     "aliases": []
   },
   {
-    "id": "a55408424a89b867f3068ace6ed821dc",
+    "id": "bf8c43b6-47c2-4a41-a8ce-00fcbe8d55dc",
+    "username": "Piccolo",
+    "rank": "Gudfar",
+    "hits": 1,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "Interstellar"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "35831784-11a1-4692-99cf-ff4e02fcf32c",
+    "username": "Duel At Dawn",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "62d5aedd-6b3a-45db-9cf9-62801b840b9c",
     "username": "Urge92",
     "rank": "Gudfar",
     "hits": 0,
@@ -6371,7 +6717,7 @@
     "aliases": []
   },
   {
-    "id": "345a731593be850d20ab355f196d549f",
+    "id": "8d013d93-97cf-4d3e-a115-3084da1f3e20",
     "username": "Bibbeman",
     "rank": "Gudfar",
     "hits": 0,
@@ -6386,17 +6732,7 @@
     "aliases": []
   },
   {
-    "id": "ffccaa5a29b30ab401fc4ec23609d515",
-    "username": "Duel At Dawn",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "43f8351edd38358e4bdb2b4616158bf8",
+    "id": "35ff3934-8d65-4bb2-84a8-8c54da87bb5a",
     "username": "Figo",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -6409,7 +6745,7 @@
     "aliases": []
   },
   {
-    "id": "245c0f05ae025001f12aa83c95a1461c",
+    "id": "8143e681-555f-4db9-ae80-840a2f4059b4",
     "username": "Post It",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6422,29 +6758,7 @@
     "aliases": []
   },
   {
-    "id": "90319ea56263c86d6dbade1b0f34fab6",
-    "username": "Piccolo",
-    "rank": "Gudfar",
-    "hits": 1,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "Interstellar"
-    ],
-    "aliases": []
-  },
-  {
-    "id": "50a8862ce46a71666bd47f9d8d60aad2",
-    "username": "lillevenn",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "2af12286ebc6e268ceec0984082d9007",
+    "id": "6e307fe1-6509-45b7-b1dc-7c88e2a8c648",
     "username": "Amaluna",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6458,7 +6772,7 @@
     "aliases": []
   },
   {
-    "id": "7f1da65aa78fe5670d69391a36eed6f0",
+    "id": "b47726f4-832d-4b42-86c5-a531d8ff88a2",
     "username": "Braven",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6472,7 +6786,7 @@
     "aliases": []
   },
   {
-    "id": "a7740469eeeff523a5e670941d31a092",
+    "id": "a8b2b6fe-951a-4329-ba91-1a90401d5013",
     "username": "Pretender",
     "rank": "Gudfar",
     "hits": 1,
@@ -6482,7 +6796,7 @@
     "aliases": []
   },
   {
-    "id": "0edd46c411e2b82e4b5a35889d8cafd8",
+    "id": "b9045408-116f-4d08-a510-67b99ef93300",
     "username": "Lazyboy",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6495,7 +6809,7 @@
     "aliases": []
   },
   {
-    "id": "fdf99ba7dcc64fd2cdfdebd5995d9045",
+    "id": "ac040c13-32fb-4420-ae05-44fb3be437f7",
     "username": "Banksy",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6505,7 +6819,7 @@
     "aliases": []
   },
   {
-    "id": "f94baabc69dcb7730ff4d860fc49ed99",
+    "id": "32cc190c-749b-4379-9466-3bab97e342fb",
     "username": "Freeza",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6518,7 +6832,7 @@
     "aliases": []
   },
   {
-    "id": "91f182dde4faec474daa58306dff2556",
+    "id": "d58dcb64-6fae-41ad-b0ff-4221bfce5246",
     "username": "Khnum",
     "rank": "Gudfar",
     "hits": 0,
@@ -6531,17 +6845,7 @@
     "aliases": []
   },
   {
-    "id": "9cac9fca995736e818005324bce03183",
-    "username": "Naan bread",
-    "rank": "Capo Crimini",
-    "hits": 1,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "bcbf4669369710f675bdb8d0f5517ee6",
+    "id": "6dceee45-0d10-489a-a76d-7c985f0ed182",
     "username": "Torvesta",
     "rank": "Capo Crimini",
     "hits": 1,
@@ -6554,7 +6858,7 @@
     "aliases": []
   },
   {
-    "id": "7e59cb5b2f52c763bc846471fe5942e4",
+    "id": "496908b0-116f-4e24-a276-2ebc043511bb",
     "username": "Badger",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6564,7 +6868,7 @@
     "aliases": []
   },
   {
-    "id": "3bf1114a986ba87ed28fc1b5884fc2f8",
+    "id": "f5c39768-8f1a-4dd1-97de-fb9d473577ab",
     "username": "Shadow",
     "rank": "Gudfar",
     "hits": 1,
@@ -6577,7 +6881,7 @@
     "aliases": []
   },
   {
-    "id": "856a0e01f91390365a2d8dc887354d44",
+    "id": "2b14709b-8a9c-4424-a483-de0f567bc52a",
     "username": "JensBond",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6590,7 +6894,7 @@
     "aliases": []
   },
   {
-    "id": "c52d0c2595a46d59ee0d3bb2b98184bf",
+    "id": "d84ff04b-e13b-4f67-88c1-798627c0a097",
     "username": "GamerGirl",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6603,7 +6907,7 @@
     "aliases": []
   },
   {
-    "id": "417482069977543b42ad011319c1409b",
+    "id": "ef35ce27-2442-44ab-af48-e8cabc95958c",
     "username": "Oda Krogh",
     "rank": "Gudfar",
     "hits": 0,
@@ -6616,7 +6920,7 @@
     "aliases": []
   },
   {
-    "id": "bda9643ac6601722a28f238714274da4",
+    "id": "ef5f8acd-d446-4f36-9376-63f8515c46f5",
     "username": "Red",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6629,7 +6933,7 @@
     "aliases": []
   },
   {
-    "id": "2170bcd55c0e3844ecb4ef13fef29b01",
+    "id": "f2d2c625-7eb2-452d-81dd-d6da6f49e77b",
     "username": "Rumors",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6642,7 +6946,7 @@
     "aliases": []
   },
   {
-    "id": "edc8ef11409ebb9d98835d82140a6972",
+    "id": "e49468ab-c14d-49cd-9547-114b16df9053",
     "username": "Bajas",
     "rank": "Gudfar",
     "hits": 0,
@@ -6652,7 +6956,7 @@
     "aliases": []
   },
   {
-    "id": "b026e947fb190f3d89815b064c221afe",
+    "id": "898761cc-5170-4e52-b6c9-49ad2664eaed",
     "username": "Fisketur",
     "rank": "Gudfar",
     "hits": 0,
@@ -6662,67 +6966,7 @@
     "aliases": []
   },
   {
-    "id": "4e0c87b0f72870402a0fe4c9a32186bd",
-    "username": "Aspire",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "d0cf41590d8f49d4e742d059607dd718",
-    "username": "Majestic",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "3ea2a590db139200100b70b8ac721946",
-    "username": "Lord Shiva",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "3fcbec0a16da5dd4e59aba38fbaab1a0",
-    "username": "Rembrandt",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "634c21f7dc1612ed1d84be6a95f70b8c",
-    "username": "Shady",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "d8578edf8458ce06fbc5bb76a58c5ca4",
-    "username": "Qwerty",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": [],
-    "aliases": []
-  },
-  {
-    "id": "d50eb7873ac5c4d957e8c59d6511e4d8",
+    "id": "3bfd1a14-1add-4167-91b7-9e81708e9379",
     "username": "Rarh cocaina",
     "rank": "Capo Crimini",
     "hits": 0,
@@ -6732,9 +6976,69 @@
     "aliases": []
   },
   {
-    "id": "ffb6fc05e9528a5797ccbeac838cbf08",
+    "id": "d2434f7b-60ff-4435-831c-057ab11e115e",
+    "username": "Aspire",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "955822fe-ffe1-4800-a62c-eadcff25e464",
+    "username": "Majestic",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "9939ab46-9f18-43cd-b20e-32ae41b630e3",
+    "username": "Lord Shiva",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "c32f8acd-fe46-47cb-8cc8-a5b0ee92e686",
+    "username": "Qwerty",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "be3d7a02-6838-4b5a-8f79-f341ec90d979",
+    "username": "Rembrandt",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "9cccb44e-0e5d-41b7-998e-236e0217f960",
     "username": "Fennikel",
     "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "c51d20d8-31bc-446d-ab9c-e833129244b7",
+    "username": "Shady",
+    "rank": "Gudfar",
     "hits": 0,
     "gottenHit": 0,
     "dead": false,

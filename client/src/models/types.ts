@@ -24,4 +24,5 @@ export type Player = {
   gottenHit: number;
   dead: boolean;
   hitBy: string[];
+  aliases: string[];
 };

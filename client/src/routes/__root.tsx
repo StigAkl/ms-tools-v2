@@ -8,6 +8,7 @@ const Bootstrap = ({ children }: { children: React.ReactNode }) => {
 
   const loadOnce = useEventsStore(state => state.loadOnce);
   const loaded = useEventsStore(state => state.loaded);
+
   useEffect(() => {
     if (!loaded) {
       loadOnce();

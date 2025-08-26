@@ -1,10 +1,13 @@
 import { Player, Rank } from "./models";
-import crypto from "crypto";
+import crypto, { randomUUID } from "crypto";
 import { regex } from "./regexps";
 
 const normalizeName = (s: string) => s.trim().toLowerCase();
 
-const aliasIndex = new Map<string, string>();
+type from = string;
+type to = string;
+
+export const aliases: Map<to, from> = new Map();
 
 export const analyzeEvent = (line: string, players: Map<string, Player>) => {
   const text = line.trim();
@@ -83,7 +86,13 @@ const handleNameChange = (
   from: string,
   to: string,
   players: Map<string, Player>
-) => {};
+) => {
+  const fromPlayer = getOrCreatePlayer(from, players);
+  const toPlayer = getOrCreatePlayer(to, players);
+
+  toPlayer.aliases.push(fromPlayer.username);
+  aliases.set(to, from);
+};
 
 const handleMultipleBotsKilled = (
   name: string,
@@ -110,7 +119,7 @@ const getOrCreatePlayer = (name: string, players: Map<string, Player>) => {
   }
 
   const newPlayer: Player = {
-    id: idFromName(name),
+    id: randomUUID(),
     username: name.trim(),
     rank: null,
     hits: 0,
@@ -124,9 +133,30 @@ const getOrCreatePlayer = (name: string, players: Map<string, Player>) => {
   return newPlayer;
 };
 
-const idFromName = (name: string) => {
-  return crypto
-    .createHash("md5")
-    .update(name.trim().toLowerCase())
-    .digest("hex");
+export const backtrackAliases = (players: Map<string, Player>) => {
+  for (const key of players.keys()) {
+    const player = players.get(key);
+    if (player?.aliases?.length && player.aliases.length > 0) {
+      let alias = player.aliases[0];
+      let currentAlias = aliases.get(alias);
+      let hasMoreAliases = currentAlias !== undefined;
+      mergePlayerStats(player, getOrCreatePlayer(alias, players));
+      while (hasMoreAliases) {
+        if (currentAlias) {
+          player.aliases.push(currentAlias);
+          const aliasPlayer = getOrCreatePlayer(currentAlias, players);
+          mergePlayerStats(player, aliasPlayer);
+          currentAlias = aliases.get(currentAlias);
+        } else {
+          hasMoreAliases = false;
+        }
+      }
+    }
+  }
+};
+
+const mergePlayerStats = (p1: Player, p2: Player) => {
+  p1.hitBy.push(...p2.hitBy);
+  p1.hits += p2.hits;
+  p1.gottenHit += p2.gottenHit;
 };
