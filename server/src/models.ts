@@ -6,6 +6,7 @@ export interface Player {
   gottenHit: number;
   dead: boolean;
   hitBy: string[];
+  aliases: string[];
 }
 
 export type Rank = "Gudfar" | "Capo Crimini" | "Capo de tutti Capi";

@@ -7,4 +7,5 @@ export const regex = {
     /^Undersåtten (.+?), som er eid av (.+?), blir skutt og drept av (.+)\.$/,
   killPlayer: /^(.+?) blir skutt og drept i (.+?)\.$/,
   diedToLowHealth: /^(.+?) dør pga for lav helse\.$/,
+  changedName: /^(.+?) endrer navn til (.+?)\.$/,
 };

@@ -4,6 +4,8 @@ import { regex } from "./regexps";
 
 const normalizeName = (s: string) => s.trim().toLowerCase();
 
+const aliasIndex = new Map<string, string>();
+
 export const analyzeEvent = (line: string, players: Map<string, Player>) => {
   const text = line.trim();
   if (!text) return;
@@ -45,6 +47,13 @@ export const analyzeEvent = (line: string, players: Map<string, Player>) => {
     handlePlayerDied(name, players);
     return;
   }
+
+  const nameChangeMatch = text.match(regex.changedName);
+
+  if (nameChangeMatch) {
+    const [_, from, to] = nameChangeMatch || [];
+    handleNameChange(from, to, players);
+  }
 };
 
 const handleRankUpEvent = (
@@ -69,6 +78,12 @@ const handleSingleBotKilled = (
   victimPlayer.gottenHit += 1;
   victimPlayer.hitBy.push(killerName);
 };
+
+const handleNameChange = (
+  from: string,
+  to: string,
+  players: Map<string, Player>
+) => {};
 
 const handleMultipleBotsKilled = (
   name: string,
@@ -102,6 +117,7 @@ const getOrCreatePlayer = (name: string, players: Map<string, Player>) => {
     gottenHit: 0,
     dead: false,
     hitBy: [],
+    aliases: [],
   };
 
   players.set(normalizeName(name), newPlayer);

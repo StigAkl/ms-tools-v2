@@ -1,12 +1,39 @@
 [
   {
-    "id": "3f8da8d150df71f64db5f8e96438c567",
-    "username": "Scorpion",
+    "id": "14256d9aaf1ff8f134bee260475d4f69",
+    "username": "Stokkand",
     "rank": "Gudfar",
     "hits": 0,
+    "gottenHit": 5,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "rawr xD",
+      "Ted",
+      "rawr xD",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "d3023f82c47e2f4d9bd27a5cff090183",
+    "username": "[Anonym bruker]",
+    "rank": null,
+    "hits": 340,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "99b35756060621c990506a8fa665a6b2",
+    "username": "rawr xD",
+    "rank": "Capo Crimini",
+    "hits": 4,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "fe86c55c95c516799d2b81502225ddf5",
@@ -15,16 +42,1523 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": true,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
-    "id": "d3023f82c47e2f4d9bd27a5cff090183",
-    "username": "[Anonym bruker]",
-    "rank": null,
-    "hits": 293,
+    "id": "751fd05412a67d142fd338f0204b1069",
+    "username": "Jfax",
+    "rank": "Capo Crimini",
+    "hits": 2,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "1506aeeb8c3a699b1e3c87db03156428",
+    "username": "Midnight",
+    "rank": null,
+    "hits": 5,
+    "gottenHit": 6,
+    "dead": false,
+    "hitBy": [
+      "Jfax",
+      "Arvid 2",
+      "Unseelie",
+      "[Anonym bruker]",
+      "A La Carte",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "870fa8ee962d90af50c7eaed792b075a",
+    "username": "Ted",
+    "rank": "Capo de tutti Capi",
+    "hits": 7,
+    "gottenHit": 4,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Clown",
+      "Kodak black",
+      "Kodak black"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "0bf44a9634896de88678e56222c1b012",
+    "username": "Mikey",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "76010858c8362d7302ef5f9436aa6639",
+    "username": "Fresh",
+    "rank": null,
+    "hits": 1,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "6b1b36cbb04b41490bfc0ab2bfa26f86",
+    "username": "Hunter",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 3,
+    "dead": true,
+    "hitBy": [
+      "Fresh",
+      "Abcdefgh",
+      "Magnus Karlsen"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "219bee0d53c018e4dc03c110b6383a2e",
+    "username": "Darkpassenger",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 4,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "[Anonym bruker]",
+      "Yoshi",
+      "Jfax"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "504f526af8e50b39a11aa28ddebe2abe",
+    "username": "Seraphiel",
+    "rank": "Capo de tutti Capi",
+    "hits": 9,
+    "gottenHit": 12,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Joe Camel",
+      "[Anonym bruker]",
+      "Aliyah",
+      "Zen",
+      "[Anonym bruker]",
+      "Milano",
+      "Milano",
+      "Palermo",
+      "Weegee",
+      "Bellona",
+      "Milano"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "f4a3411c893cadaf849b50e576e8c78f",
+    "username": "Joe Camel",
+    "rank": "Capo Crimini",
+    "hits": 2,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "7e998ca05ea385209aff64dd26b18337",
+    "username": "Obsession",
+    "rank": "Capo de tutti Capi",
+    "hits": 10,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Herobrine"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "72fa0f93182839e32ccf8732ed61a570",
+    "username": "Lecce",
+    "rank": "Capo de tutti Capi",
+    "hits": 5,
+    "gottenHit": 6,
+    "dead": false,
+    "hitBy": [
+      "Obsession",
+      "[Anonym bruker]",
+      "nopqrstuvwxyz",
+      "Herobrine",
+      "Jarle",
+      "Kortopi"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "ed8b38fd3ef9b08697d7a2728cf831b4",
+    "username": "Torino",
+    "rank": "Capo de tutti Capi",
+    "hits": 12,
+    "gottenHit": 3,
+    "dead": false,
+    "hitBy": [
+      "Hanslarsen",
+      "test160",
+      "Olga Burger"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "b7f8523fd3d50cf56095fdf81274b82b",
+    "username": "Jenna Ortega",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "Torino"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "66986890fbd97cca35d95261730e78dc",
+    "username": "Skolest",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "27b205035c328b16d8c8329c4b41e87e",
+    "username": "DIO",
+    "rank": null,
+    "hits": 1,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "78020ef7803a97afc5429b2310fcf160",
+    "username": "Arvid 2",
+    "rank": "Capo Crimini",
+    "hits": 2,
+    "gottenHit": 15,
+    "dead": false,
+    "hitBy": [
+      "DIO",
+      "Xyse",
+      "Notorious",
+      "The Duke",
+      "Notorious",
+      "Abcdefgh",
+      "Caligula",
+      "Th Kittelsen",
+      "Mussolini",
+      "Mussolini",
+      "Mussolini",
+      "Zen",
+      "[Anonym bruker]",
+      "Vow",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "468f7b0aaba9a806a0ce5bc4d4482164",
+    "username": "Lamar",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "ddee51ba0bd451072e7f7efcd59d2e09",
+    "username": "Kasino",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "2c1743a391305fbf367df8e4f069f9f9",
+    "username": "Alpha",
+    "rank": "Capo Crimini",
+    "hits": 1,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "228c70bfc5589c58c044e03fff0e17eb",
+    "username": "Legacy",
+    "rank": null,
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Knust"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "b60eb63f56492b10e091f78de503bcf4",
+    "username": "Uheldige Berga",
+    "rank": "Gudfar",
+    "hits": 2,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "58b3994b2fc2536ee6d208039d3f8849",
+    "username": "Casper",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Uheldige Berga",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "3167898881e33f46c0b3bae578b7c263",
+    "username": "luksus",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "3d8829fefb8fe6f0df44a76f14c449d2",
+    "username": "Yoshi",
+    "rank": "Capo de tutti Capi",
+    "hits": 6,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "R octavoc r"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "d93e08b79bc96b75044f4ef6d582c972",
+    "username": "Apeloff",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "904cafa8ffce37bde36f2642dbc38e6e",
+    "username": "Bastardo",
+    "rank": "Capo de tutti Capi",
+    "hits": 16,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "cbd44f8b5b48a51f7dab98abcdf45d4e",
+    "username": "Brian",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "2d626704807d4c5be1b46e85c4070fec",
+    "username": "Mayhem",
+    "rank": "Capo Crimini",
+    "hits": 4,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "d7260cc2ec426d6fdd4120c73c37291c",
+    "username": "balltre",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "8b2a9c176d358811a479f771a5874c1b",
+    "username": "6037",
+    "rank": "Capo Crimini",
+    "hits": 7,
+    "gottenHit": 6,
+    "dead": true,
+    "hitBy": [
+      "rawr xD",
+      "rawr xD",
+      "Hunk",
+      "Hunk",
+      "[Anonym bruker]",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "6384e2b2184bcbf58eccf10ca7a6563c",
+    "username": "Alice",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 3,
+    "dead": false,
+    "hitBy": [
+      "Obsession",
+      "Caligula",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "b1bf8e6f2cb414dc95f5953f464c6694",
+    "username": "Mi2",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 7,
+    "dead": false,
+    "hitBy": [
+      "Alpha",
+      "Uheldige Berga",
+      "WinterSeason",
+      "Clown",
+      "Hunk",
+      "[Anonym bruker]",
+      "Obsession"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "3b74a50a44a41ccb8a45b998b80d762f",
+    "username": "Sjef1",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "710b823d400376541e126d627083a84b",
+    "username": "Tuco Salamanca",
+    "rank": "Capo de tutti Capi",
+    "hits": 0,
+    "gottenHit": 5,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "[Anonym bruker]",
+      "[Anonym bruker]",
+      "A La Carte",
+      "Bergamo"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "2e92d188dbdbd88e7c15831f4abfe1fc",
+    "username": "Roma",
+    "rank": "Capo de tutti Capi",
+    "hits": 2,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "20edaa5ee4bde68e1ea0a9b4e8f5235f",
+    "username": "Latis",
+    "rank": "Capo Crimini",
+    "hits": 9,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Sicilia",
+      "Anubis"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "34e299984ef9a6a236767d1c4a0bdeff",
+    "username": "Cunha",
+    "rank": "Capo de tutti Capi",
+    "hits": 3,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Latis",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "0c1676dc14225ed22c7f183bd7ca17bc",
+    "username": "Radagast",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "23f9d50ecd20ccc464f4ad45a3328948",
+    "username": "Precious",
+    "rank": null,
+    "hits": 4,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "8a5ae21a7df6b5b4559296095cce36d2",
+    "username": "Knust",
+    "rank": "Capo Crimini",
+    "hits": 3,
+    "gottenHit": 4,
+    "dead": false,
+    "hitBy": [
+      "Precious",
+      "[Anonym bruker]",
+      "Jesse pinkman",
+      "Denial"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "9ba6ffa93e74bb826528cd9d749e1f3e",
+    "username": "Xyse",
+    "rank": "Gudfar",
+    "hits": 1,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "8abf9ea4e2d083fe1076ee2f8de5f301",
+    "username": "storevenn",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "ab17850978e36aaf6a2b8808f1ded971",
+    "username": "Gandalf",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "04a59999881e587cda0d94739f18283c",
+    "username": "Notorious",
+    "rank": null,
+    "hits": 4,
+    "gottenHit": 5,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Caligula",
+      "Arvid 2",
+      "Unseelie",
+      "Hunk"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "d78ea4b22d238d0f65d02074210c2651",
+    "username": "WinterSeason",
+    "rank": "Gudfar",
+    "hits": 3,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "Ted"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "18126e7bd3f84b3f3e4df094def5b7de",
+    "username": "Mike",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Uheldige Olga"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "eb479605271a1f0ffff9d87f2cab0b75",
+    "username": "Freeze",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "Ubuden Gjest",
+      "Ubuden Gjest"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "9617763692041122bb517f131f6520e7",
+    "username": "Ubuden Gjest",
+    "rank": "Capo Crimini",
+    "hits": 11,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "WillyMyWonka"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "8648890d976cf9f271bea16c51fb91d7",
+    "username": "Vikingen",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "182a1e726ac1c8ae851194cea6df0393",
+    "username": "Schizophrenia",
+    "rank": "Capo de tutti Capi",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "7e9aedd97b5ec4590edb8281ff12b168",
+    "username": "Zen",
+    "rank": "Capo de tutti Capi",
+    "hits": 8,
+    "gottenHit": 6,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "[Anonym bruker]",
+      "Tekopp",
+      "Bell",
+      "WhoRWe",
+      "WhoRWe"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "c22dbeb461dc31b294d39ee5aa949a74",
+    "username": "The Skankhunt",
+    "rank": null,
+    "hits": 3,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Hunk"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "04390ea7bfc1081a553c36dc11b3c95a",
+    "username": "Hunk",
+    "rank": "Capo de tutti Capi",
+    "hits": 34,
+    "gottenHit": 5,
+    "dead": false,
+    "hitBy": [
+      "Th Kittelsen",
+      "Malice",
+      "Stavmikser",
+      "Aliyah",
+      "Bulldoser"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "458a2eb0daa8654a68c39ef768141728",
+    "username": "PS5",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "Grief",
+      "Precious"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "226e70a7049829ab8f533587d91c7d6d",
+    "username": "Grief",
+    "rank": "Capo Crimini",
+    "hits": 9,
+    "gottenHit": 3,
+    "dead": false,
+    "hitBy": [
+      "Lifesence",
+      "[Anonym bruker]",
+      "Lecce"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "0c90d610047f17b6c9af17d7c9faa333",
+    "username": "Joani",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "848ffd503f98d2368d47abceb4821465",
+    "username": "Castro",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Knust",
+      "Sicilia"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "26af55a4745abd7b474d72f6146b8b3f",
+    "username": "sykes",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 4,
+    "dead": true,
+    "hitBy": [
+      "Vow",
+      "Vow",
+      "Rose",
+      "balerinasasina"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "1b36a396c06bbcecdd2740c9716bb331",
+    "username": "Vow",
+    "rank": "Capo Crimini",
+    "hits": 13,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "WillyMyWonka"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "910212d01c6ca98d108561a645b21e84",
+    "username": "Jimbo",
+    "rank": "Capo de tutti Capi",
+    "hits": 0,
+    "gottenHit": 4,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "[Anonym bruker]",
+      "Vow",
+      "Torino"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "99b6d569ecb9344764d08b4f076901f0",
+    "username": "Firenze",
+    "rank": "Capo de tutti Capi",
+    "hits": 12,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Ascension"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "e08622684102438eb6f4285e36c995e2",
+    "username": "vowen",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 3,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Notorious",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "b20b9937d149bffc673ee6a8fd67d09a",
+    "username": "Mr Livermore",
+    "rank": "Capo Crimini",
+    "hits": 2,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "e8dc4081b13434b45189a720b77b6818",
+    "username": "Abcdefgh",
+    "rank": "Capo Crimini",
+    "hits": 8,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Mr Livermore",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "38aaab77830814713ca701272923933c",
+    "username": "The Duke",
+    "rank": "Capo Crimini",
+    "hits": 4,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Ferie er over",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "c47726cbfa46f5303ad15747a0fb4131",
+    "username": "The Accountant",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 3,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "[Anonym bruker]",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "8b61c11eb8baedd53d2e99d1a01fa7bb",
+    "username": "Clown",
+    "rank": "Capo de tutti Capi",
+    "hits": 21,
+    "gottenHit": 6,
+    "dead": false,
+    "hitBy": [
+      "Bastardo",
+      "[Anonym bruker]",
+      "Benny Blanco",
+      "Bergamo",
+      "Lecce",
+      "Firenze"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "46a9c7a3ede3c60eb54721d9e6431309",
+    "username": "Guy Fawkes",
+    "rank": "Capo de tutti Capi",
+    "hits": 3,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "WinterSeason",
+      "WinterSeason"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "68c00dce0c295ef29a71840f75bb0352",
+    "username": "Sir Racha",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "59c04b84b374e9368fb21b1cd0e9846a",
+    "username": "Vengeance",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "4229d691b07b13341da53f17ab9f2416",
+    "username": "Hell",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": true,
+    "hitBy": [
+      "Sol"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "12313a3d28f802e3a22b07d2e01c6dcf",
+    "username": "Sol",
+    "rank": "Capo Crimini",
+    "hits": 1,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "b0d0eed5f1ffba58f9cd1ab57834712c",
+    "username": "Sicilia",
+    "rank": "Capo de tutti Capi",
+    "hits": 11,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "fd04791012b234e48d348cebb5e18790",
+    "username": "Fanta",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "9aea99aed2f8fd9e0648ec445062673b",
+    "username": "Glitch",
+    "rank": "Capo de tutti Capi",
+    "hits": 2,
+    "gottenHit": 5,
+    "dead": false,
+    "hitBy": [
+      "Torino",
+      "test160",
+      "Kasino4life",
+      "WhoRWe",
+      "Crush"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "250ad995a9e9a734e027b093907cea70",
+    "username": "SynVoid",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "Midnight",
+      "Midnight"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "56446e0107ff8c121750ff4f3fe8d779",
+    "username": "Herregud",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": true,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "58285403df031b71f35528872f161695",
+    "username": "Haze",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "85e7a4fd7d0f511ae5eb03baa3db4074",
+    "username": "SelbuVott",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "Abcdefgh"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "8e30cec278e93cd697957be1508b8f5d",
+    "username": "Jesse pinkman",
+    "rank": "Capo Crimini",
+    "hits": 2,
+    "gottenHit": 6,
+    "dead": true,
+    "hitBy": [
+      "Hunk",
+      "[Anonym bruker]",
+      "The Duke",
+      "Bell",
+      "Notorious",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "68f46db15e0435f3818becf523f52b2b",
+    "username": "travelt",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "6d684af133efbbeb1445fe87d3a16765",
+    "username": "Denial",
+    "rank": "Gudfar",
+    "hits": 1,
+    "gottenHit": 3,
+    "dead": true,
+    "hitBy": [
+      "Abcdefgh",
+      "[Anonym bruker]",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "bb31b86124cc4f7df651e7bfdc801f68",
+    "username": "Gustavo Fring",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 3,
+    "dead": false,
+    "hitBy": [
+      "Precious",
+      "[Anonym bruker]",
+      "Lentas"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "dee77b12002b838de315147b1dac24cc",
+    "username": "Ferrara",
+    "rank": "Capo de tutti Capi",
+    "hits": 3,
+    "gottenHit": 4,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Jesse pinkman",
+      "Walt Whitman",
+      "Walt Whitman"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "8d45c85b51b27a04ad7fdfc3f126f9f8",
+    "username": "Bell",
+    "rank": "Capo de tutti Capi",
+    "hits": 4,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Far reidar",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "c48ba993d35c3abe0380f91738fe2a34",
+    "username": "Candy",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "Hunk",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "a12e5552edff245429ab97122673b0bc",
+    "username": "Far reidar",
+    "rank": "Gudfar",
+    "hits": 1,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "e4d0c5fcda1abceddd53379390de54d9",
+    "username": "Chilllz",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "214d8fdda55470e7ec52b278539ad7bc",
+    "username": "Pepsimax",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "3e671ea34dcac32e7e9e7c67ee8cfc0b",
+    "username": "SMK",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "3a2297387d80efa2de1653073c4cce63",
+    "username": "Snodig",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "c2770489e2a865dc6d0cd05fcc30e511",
+    "username": "kunstner navn",
+    "rank": "Capo Crimini",
+    "hits": 2,
+    "gottenHit": 6,
+    "dead": true,
+    "hitBy": [
+      "Santos",
+      "[Anonym bruker]",
+      "[Anonym bruker]",
+      "Ted",
+      "Ted",
+      "Firenze"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "114fdfefd3d69799f0b6f73ef764d405",
+    "username": "Santos",
+    "rank": "Capo Crimini",
+    "hits": 5,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "74ea571b38a834469ce412431eef7270",
+    "username": "Caligula",
+    "rank": "Capo Crimini",
+    "hits": 5,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "292d11345435f42644a823fdac19a55c",
+    "username": "Tussemor",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "e06d4d1d940389d84eb221b96eddf294",
+    "username": "Sir Endipity",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 6,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "[Anonym bruker]",
+      "Hunk",
+      "Bastardo",
+      "[Anonym bruker]",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "3f8da8d150df71f64db5f8e96438c567",
+    "username": "Scorpion",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "7a7ea6908e33896ddcc8b82f264f4f7a",
+    "username": "Maestro",
+    "rank": "Capo de tutti Capi",
+    "hits": 5,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "47bc17dc1a2f164967f55325d866c75c",
+    "username": "Olivia",
+    "rank": "Capo Crimini",
+    "hits": 4,
+    "gottenHit": 5,
+    "dead": true,
+    "hitBy": [
+      "Maestro",
+      "Mussolini",
+      "Rakshasa",
+      "Clown",
+      "Clown"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "0d9467dca9236af75102a3a95c410bc5",
+    "username": "Vock",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "a4f3da8738ae76e3e61fed54f89da40c",
+    "username": "Vixen",
+    "rank": "Capo de tutti Capi",
+    "hits": 3,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "83b3335d71138a7d33a1d9ea63e19fba",
+    "username": "Bezos",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "Ubuden Gjest",
+      "Ubuden Gjest"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "bf8525b4cd3cf2d4d92df4fa7d11e404",
+    "username": "torsken",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 3,
+    "dead": false,
+    "hitBy": [
+      "Precious",
+      "Mongo",
+      "Snoken"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "1c21d9b19298645fa2534d9828ee0778",
+    "username": "Micro",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Ubuden Gjest",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "1523a3e2351d153732ff47b316c85389",
+    "username": "Koma",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "Hunk",
+      "6037"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "7853a76cdbdba2939d0dd50bfa1a0db3",
+    "username": "Smaay",
+    "rank": "Capo Crimini",
+    "hits": 2,
+    "gottenHit": 4,
+    "dead": true,
+    "hitBy": [
+      "Zen",
+      "Zen",
+      "Sicilia",
+      "Bunny"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "4330f101855d8ef6a9bfc5f097fd28fa",
+    "username": "Ferie er over",
+    "rank": "Gudfar",
+    "hits": 2,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "756eda031c28322e37f1db0f742cc56c",
+    "username": "fena",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "Uheldige Olga",
+      "Uheldige Olga"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "a8373c1b02760740032a9c893afeefff",
+    "username": "Uheldige Olga",
+    "rank": "Capo de tutti Capi",
+    "hits": 9,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
+  },
+  {
+    "id": "104004214ebf2a9e7840ed8d280a887d",
+    "username": "Marshmallow",
+    "rank": "Gudfar",
+    "hits": 4,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "Mr Livermore",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "00423e8e82a9b6acab0a6585045fb0e6",
+    "username": "Exys",
+    "rank": "Capo Crimini",
+    "hits": 5,
+    "gottenHit": 3,
+    "dead": true,
+    "hitBy": [
+      "Joe Camel",
+      "[Anonym bruker]",
+      "Mundo"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "d5b2f19fa37455dab704aae278c6c2ae",
+    "username": "Th Kittelsen",
+    "rank": "Capo Crimini",
+    "hits": 3,
+    "gottenHit": 7,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "[Anonym bruker]",
+      "Chaeyoung",
+      "A La Carte",
+      "[Anonym bruker]",
+      "Chase",
+      "nolxve"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "c31f6e2b563a971389c69eb392b54e29",
+    "username": "Gambino",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": true,
+    "hitBy": [
+      "Bell",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "288311fdda8a29ae019afdb0ad82739c",
+    "username": "Crocs",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": false,
+    "hitBy": [
+      "Knust"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "d54df3dc87a66a88993aff87dcb34335",
+    "username": "Santino",
+    "rank": "Capo Crimini",
+    "hits": 0,
+    "gottenHit": 2,
+    "dead": false,
+    "hitBy": [
+      "[Anonym bruker]",
+      "Hanslarsen"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "b87ea7c0807a8f9a950265258037b509",
+    "username": "Magnus Karlsen",
+    "rank": "Capo Crimini",
+    "hits": 5,
+    "gottenHit": 3,
+    "dead": false,
+    "hitBy": [
+      "Ferie er over",
+      "Mandalorian",
+      "[Anonym bruker]"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "6e2213858374dda06c6c17da156466ee",
+    "username": "Sleiken",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 1,
+    "dead": true,
+    "hitBy": [
+      "6037"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "d3aa9bc61e5ef67b3f3d4f616ce75123",
+    "username": "MrVitaley",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 3,
+    "dead": true,
+    "hitBy": [
+      "[Anonym bruker]",
+      "[Anonym bruker]",
+      "6037"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "bb8a448c1e7b1ef9400da3382fce603a",
+    "username": "Typhon",
+    "rank": "Gudfar",
+    "hits": 0,
+    "gottenHit": 0,
+    "dead": false,
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "ae502d8202f5f0864e98e552ba43b4cb",
@@ -37,89 +1571,8 @@
       "[Anonym bruker]",
       "The Duke",
       "Kortopi"
-    ]
-  },
-  {
-    "id": "a8373c1b02760740032a9c893afeefff",
-    "username": "Uheldige Olga",
-    "rank": null,
-    "hits": 8,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "756eda031c28322e37f1db0f742cc56c",
-    "username": "fena",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "Uheldige Olga"
-    ]
-  },
-  {
-    "id": "6384e2b2184bcbf58eccf10ca7a6563c",
-    "username": "Alice",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "38aaab77830814713ca701272923933c",
-    "username": "The Duke",
-    "rank": "Capo Crimini",
-    "hits": 2,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "3a2297387d80efa2de1653073c4cce63",
-    "username": "snodig",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "6d684af133efbbeb1445fe87d3a16765",
-    "username": "Denial",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "8abf9ea4e2d083fe1076ee2f8de5f301",
-    "username": "storevenn",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "34e299984ef9a6a236767d1c4a0bdeff",
-    "username": "Cunha",
-    "rank": "Capo de tutti Capi",
-    "hits": 3,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "d501189aae0353415a0de78b74b81f2c",
@@ -128,7 +1581,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "a3f09382d0d3e07f89a5b8bf29a5a8d2",
@@ -141,109 +1595,8 @@
       "Yoshi",
       "Yoshi",
       "Magnus Karlsen"
-    ]
-  },
-  {
-    "id": "3d8829fefb8fe6f0df44a76f14c449d2",
-    "username": "Yoshi",
-    "rank": "Capo Crimini",
-    "hits": 5,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "R octavoc r"
-    ]
-  },
-  {
-    "id": "904cafa8ffce37bde36f2642dbc38e6e",
-    "username": "Bastardo",
-    "rank": null,
-    "hits": 16,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "8b61c11eb8baedd53d2e99d1a01fa7bb",
-    "username": "Clown",
-    "rank": "Capo Crimini",
-    "hits": 20,
-    "gottenHit": 6,
-    "dead": false,
-    "hitBy": [
-      "Bastardo",
-      "[Anonym bruker]",
-      "Benny Blanco",
-      "Bergamo",
-      "Lecce",
-      "Firenze"
-    ]
-  },
-  {
-    "id": "8b2a9c176d358811a479f771a5874c1b",
-    "username": "6037",
-    "rank": "Capo Crimini",
-    "hits": 5,
-    "gottenHit": 4,
-    "dead": false,
-    "hitBy": [
-      "Hunk",
-      "Hunk",
-      "[Anonym bruker]",
-      "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "d3aa9bc61e5ef67b3f3d4f616ce75123",
-    "username": "MrVitaley",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "6037"
-    ]
-  },
-  {
-    "id": "99b35756060621c990506a8fa665a6b2",
-    "username": "rawr xD",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "c2770489e2a865dc6d0cd05fcc30e511",
-    "username": "kunstner navn",
-    "rank": "Capo Crimini",
-    "hits": 2,
-    "gottenHit": 4,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]",
-      "Ted",
-      "Ted",
-      "Firenze"
-    ]
-  },
-  {
-    "id": "1c21d9b19298645fa2534d9828ee0778",
-    "username": "Micro",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "c47726cbfa46f5303ad15747a0fb4131",
-    "username": "The Accountant",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "e9c5d2742ba9769d527f3ed8c3794db0",
@@ -256,16 +1609,8 @@
       "Uheldige Olga",
       "Uheldige Olga",
       "The Skankhunt"
-    ]
-  },
-  {
-    "id": "f4a3411c893cadaf849b50e576e8c78f",
-    "username": "Joe Camel",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "6e5b068265b5880e34cfe6c247922d00",
@@ -279,78 +1624,8 @@
       "[Anonym bruker]",
       "Hank Schrader",
       "Mundo"
-    ]
-  },
-  {
-    "id": "74ea571b38a834469ce412431eef7270",
-    "username": "Caligula",
-    "rank": "Capo Crimini",
-    "hits": 3,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "78020ef7803a97afc5429b2310fcf160",
-    "username": "Arvid 2",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 9,
-    "dead": false,
-    "hitBy": [
-      "Caligula",
-      "Th Kittelsen",
-      "Mussolini",
-      "Mussolini",
-      "Mussolini",
-      "Zen",
-      "[Anonym bruker]",
-      "Vow",
-      "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "870fa8ee962d90af50c7eaed792b075a",
-    "username": "Ted",
-    "rank": "Capo de tutti Capi",
-    "hits": 5,
-    "gottenHit": 4,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]",
-      "Clown",
-      "Kodak black",
-      "Kodak black"
-    ]
-  },
-  {
-    "id": "58285403df031b71f35528872f161695",
-    "username": "Haze",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "c31f6e2b563a971389c69eb392b54e29",
-    "username": "Gambino",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "d54df3dc87a66a88993aff87dcb34335",
-    "username": "Santino",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "Hanslarsen"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "d2aefeac9dc661bc98eebd6cc12f0b82",
@@ -362,19 +1637,8 @@
     "hitBy": [
       "Obsession",
       "Obsession"
-    ]
-  },
-  {
-    "id": "7e998ca05ea385209aff64dd26b18337",
-    "username": "Obsession",
-    "rank": "Capo de tutti Capi",
-    "hits": 8,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]",
-      "Herobrine"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "858706c41c03db18d565da440fc97bc9",
@@ -385,16 +1649,8 @@
     "dead": true,
     "hitBy": [
       "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "219bee0d53c018e4dc03c110b6383a2e",
-    "username": "Darkpassenger",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "8bf4e6addd72a9c4c4714708d2941528",
@@ -406,25 +1662,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "fd04791012b234e48d348cebb5e18790",
-    "username": "Fanta",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "e4d0c5fcda1abceddd53379390de54d9",
-    "username": "Chilllz",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "eac6bc8a9917277f50a76b99c5dc749a",
@@ -436,30 +1675,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "7853a76cdbdba2939d0dd50bfa1a0db3",
-    "username": "Smaay",
-    "rank": "Capo Crimini",
-    "hits": 2,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Sicilia",
-      "Bunny"
-    ]
-  },
-  {
-    "id": "b0d0eed5f1ffba58f9cd1ab57834712c",
-    "username": "Sicilia",
-    "rank": "Capo de tutti Capi",
-    "hits": 10,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "6591c9d16465e73c45b594e283c408ab",
@@ -468,19 +1685,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "8e30cec278e93cd697957be1508b8f5d",
-    "username": "Jesse pinkman",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Notorious",
-      "[Anonym bruker]"
-    ]
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "c93a180d46db50c944dab0aefa87b0d3",
@@ -493,33 +1699,8 @@
       "Lecter",
       "Bergamo",
       "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "04a59999881e587cda0d94739f18283c",
-    "username": "Notorious",
-    "rank": null,
-    "hits": 1,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Unseelie",
-      "Hunk"
-    ]
-  },
-  {
-    "id": "1506aeeb8c3a699b1e3c87db03156428",
-    "username": "Midnight",
-    "rank": null,
-    "hits": 3,
-    "gottenHit": 4,
-    "dead": false,
-    "hitBy": [
-      "Unseelie",
-      "[Anonym bruker]",
-      "A La Carte",
-      "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "53dfe343354d174e0e13dd0b6a1f80c8",
@@ -532,31 +1713,8 @@
       "Latis",
       "Latis",
       "Hanslarsen"
-    ]
-  },
-  {
-    "id": "20edaa5ee4bde68e1ea0a9b4e8f5235f",
-    "username": "Latis",
-    "rank": "Capo Crimini",
-    "hits": 8,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Sicilia",
-      "Anubis"
-    ]
-  },
-  {
-    "id": "b87ea7c0807a8f9a950265258037b509",
-    "username": "Magnus Karlsen",
-    "rank": "Capo Crimini",
-    "hits": 4,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Mandalorian",
-      "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "e1ddc728a1c864d6ddc670e6d1e9e6d3",
@@ -572,7 +1730,8 @@
       "[Anonym bruker]",
       "Firenze",
       "send truse"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "681e87c67b4b73e737fc84e717480eb4",
@@ -581,30 +1740,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "7e9aedd97b5ec4590edb8281ff12b168",
-    "username": "Zen",
-    "rank": "Capo Crimini",
-    "hits": 6,
-    "gottenHit": 4,
-    "dead": false,
-    "hitBy": [
-      "Tekopp",
-      "Bell",
-      "WhoRWe",
-      "WhoRWe"
-    ]
-  },
-  {
-    "id": "b7f8523fd3d50cf56095fdf81274b82b",
-    "username": "Jenna ortega",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "bc9a3b4a271a2024fc489e1e5fa35fb7",
@@ -615,27 +1752,8 @@
     "dead": false,
     "hitBy": [
       "Clown"
-    ]
-  },
-  {
-    "id": "504f526af8e50b39a11aa28ddebe2abe",
-    "username": "Seraphiel",
-    "rank": "Capo de tutti Capi",
-    "hits": 9,
-    "gottenHit": 10,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]",
-      "Aliyah",
-      "Zen",
-      "[Anonym bruker]",
-      "Milano",
-      "Milano",
-      "Palermo",
-      "Weegee",
-      "Bellona",
-      "Milano"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "79d59e15a7ea854f33a921159447668c",
@@ -648,7 +1766,8 @@
       "[Anonym bruker]",
       "Bastardo",
       "Zen"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "0fd9accd1d8c95e86a96f681b6805948",
@@ -657,7 +1776,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "30056e1cab7a61d256fc8edd970d14f5",
@@ -666,33 +1786,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "e8dc4081b13434b45189a720b77b6818",
-    "username": "Abcdefgh",
-    "rank": "Capo Crimini",
-    "hits": 4,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "04390ea7bfc1081a553c36dc11b3c95a",
-    "username": "Hunk",
-    "rank": "Capo Crimini",
-    "hits": 30,
-    "gottenHit": 5,
-    "dead": false,
-    "hitBy": [
-      "Th Kittelsen",
-      "Malice",
-      "Stavmikser",
-      "Aliyah",
-      "Bulldoser"
-    ]
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "172522ec1028ab781d9dfd17eaca4427",
@@ -706,7 +1801,8 @@
       "Vogue",
       "Chase",
       "Chase"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "8f7f72a50d54c3d6ec005ed8c53f3bbd",
@@ -720,7 +1816,8 @@
       "[Anonym bruker]",
       "Palermo",
       "Beta"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "692084f4798e15ac71110550fe724e0a",
@@ -733,7 +1830,8 @@
       "Smaay",
       "Smaay",
       "Hunk"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "0e30af5c0319524d9a9295eaa02e7554",
@@ -742,22 +1840,8 @@
     "hits": 2,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "d5b2f19fa37455dab704aae278c6c2ae",
-    "username": "Th Kittelsen",
-    "rank": "Capo Crimini",
-    "hits": 3,
-    "gottenHit": 5,
-    "dead": false,
-    "hitBy": [
-      "Chaeyoung",
-      "A La Carte",
-      "[Anonym bruker]",
-      "Chase",
-      "nolxve"
-    ]
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "20ee80e63596799a1543bc9fd88d8878",
@@ -770,7 +1854,8 @@
       "Olga Burger",
       "Nightwalker",
       "Hunk"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "e847897826ceb8346eb5141f8c23436a",
@@ -782,16 +1867,8 @@
     "hitBy": [
       "Maestro",
       "Abcdefgh"
-    ]
-  },
-  {
-    "id": "7a7ea6908e33896ddcc8b82f264f4f7a",
-    "username": "Maestro",
-    "rank": "Capo de tutti Capi",
-    "hits": 4,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "b769e30df660ac8e18b4b71377f74389",
@@ -803,7 +1880,8 @@
     "hitBy": [
       "Latis",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "272cf57abd9ff48dde4b5ae6e4a04b78",
@@ -812,16 +1890,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "8a5ae21a7df6b5b4559296095cce36d2",
-    "username": "Knust",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "203a84a8060b050867ca9fd79a8fbd54",
@@ -833,7 +1903,8 @@
     "hitBy": [
       "Rizz",
       "Rizz"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "aeb0b865236c3d5bdabecd8b21002063",
@@ -842,7 +1913,8 @@
     "hits": 2,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "fb498551f374f9556d820791c09f34ca",
@@ -854,7 +1926,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "0929773d9ef2258947f230dc0cd9f08a",
@@ -866,7 +1939,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7c2507686693e46450b68fbe1eb85301",
@@ -878,16 +1952,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "288311fdda8a29ae019afdb0ad82739c",
-    "username": "Crocs",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "f94adcc3ddda04a8f34928d862f404b4",
@@ -896,20 +1962,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "710b823d400376541e126d627083a84b",
-    "username": "Tuco Salamanca",
-    "rank": "Capo de tutti Capi",
-    "hits": 0,
-    "gottenHit": 3,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]",
-      "A La Carte",
-      "Bergamo"
-    ]
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "cb46147cf829db81e9fa841c53faaa6c",
@@ -925,7 +1979,8 @@
       "[Anonym bruker]",
       "Lus med paraply",
       "Clown"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "8f6b1ecc7d7c0377c707ec6913cbbc3d",
@@ -936,21 +1991,8 @@
     "dead": true,
     "hitBy": [
       "Sicilia"
-    ]
-  },
-  {
-    "id": "47bc17dc1a2f164967f55325d866c75c",
-    "username": "Olivia",
-    "rank": "Capo Crimini",
-    "hits": 4,
-    "gottenHit": 4,
-    "dead": false,
-    "hitBy": [
-      "Mussolini",
-      "Rakshasa",
-      "Clown",
-      "Clown"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "fbfa6902f089e5a0fa2424bd460ecfd0",
@@ -963,7 +2005,8 @@
       "kunstner navn",
       "Sicilia",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "3fd848337f077daededd36df685b900d",
@@ -974,7 +2017,8 @@
     "dead": false,
     "hitBy": [
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "b963deb57bb3b8eaa7845c0cfe69f525",
@@ -994,47 +2038,8 @@
       "Beta",
       "Nightwalker",
       "Weegee"
-    ]
-  },
-  {
-    "id": "d78ea4b22d238d0f65d02074210c2651",
-    "username": "WinterSeason",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "8d45c85b51b27a04ad7fdfc3f126f9f8",
-    "username": "Bell",
-    "rank": "Capo Crimini",
-    "hits": 2,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "14256d9aaf1ff8f134bee260475d4f69",
-    "username": "Stokkand",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "a4f3da8738ae76e3e61fed54f89da40c",
-    "username": "Vixen",
-    "rank": "Capo Crimini",
-    "hits": 3,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "40ad44628b84a2b0c24dd54d453698f1",
@@ -1051,7 +2056,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "Krakk med hatt"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "f20e6ef9cdba513e363c7d51d3cc75e6",
@@ -1068,7 +2074,8 @@
       "Lentas",
       "Salsa",
       "Epic Fail Guy"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "51288afeef7db2bdb9e63a83ca4d1b78",
@@ -1080,7 +2087,8 @@
     "hitBy": [
       "Bastardo",
       "Bergamo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "fda3685dcf9448dfb3e7c3e80945d74b",
@@ -1092,7 +2100,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "8c4cfa1c2ee5992a76f8c105f379368d",
@@ -1103,7 +2112,8 @@
     "dead": false,
     "hitBy": [
       "Sicilia"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "e9dc48555cfa441b841a5423d1419c09",
@@ -1123,7 +2133,8 @@
       "Grief",
       "Warlord",
       "WillyMyWonka"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "23a817b7113a86cd2a8ab66fbd16ded9",
@@ -1132,16 +2143,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "104004214ebf2a9e7840ed8d280a887d",
-    "username": "Marshmallow",
-    "rank": "Gudfar",
-    "hits": 4,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "0a601c2970a16e5f87ca367d3dadf549",
@@ -1156,18 +2159,8 @@
       "Aliyah",
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "9617763692041122bb517f131f6520e7",
-    "username": "Ubuden Gjest",
-    "rank": "Capo Crimini",
-    "hits": 6,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "WillyMyWonka"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "1f3dd9b88c932e37813c9650d043730c",
@@ -1179,7 +2172,8 @@
     "hitBy": [
       "Ubuden Gjest",
       "A La Carte"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "cb15e32f389b7af9b285a63ca1044651",
@@ -1195,7 +2189,8 @@
       "Chaeyoung",
       "Ted",
       "Bastardo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "ca0ac6f71f426aa63a4bbfabea06d1a2",
@@ -1207,32 +2202,8 @@
     "hitBy": [
       "Grief",
       "Mayhem"
-    ]
-  },
-  {
-    "id": "226e70a7049829ab8f533587d91c7d6d",
-    "username": "Grief",
-    "rank": "Capo Crimini",
-    "hits": 8,
-    "gottenHit": 3,
-    "dead": false,
-    "hitBy": [
-      "Lifesence",
-      "[Anonym bruker]",
-      "Lecce"
-    ]
-  },
-  {
-    "id": "bb31b86124cc4f7df651e7bfdc801f68",
-    "username": "Gustavo Fring",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]",
-      "Lentas"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "d78c480a9f1f12704911bff43f6888ab",
@@ -1249,29 +2220,8 @@
       "[Anonym bruker]",
       "Sicilia",
       "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "1b36a396c06bbcecdd2740c9716bb331",
-    "username": "Vow",
-    "rank": "Capo Crimini",
-    "hits": 11,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "WillyMyWonka"
-    ]
-  },
-  {
-    "id": "2d626704807d4c5be1b46e85c4070fec",
-    "username": "Mayhem",
-    "rank": "Capo Crimini",
-    "hits": 4,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "f89d4abcf1769141a9d5a3bba8c78c51",
@@ -1280,7 +2230,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "8cbad96aced40b3838dd9f07f6ef5772",
@@ -1289,16 +2240,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "b20b9937d149bffc673ee6a8fd67d09a",
-    "username": "Mr Livermore",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "9c62b2548c39cce93ab34f799bfd87c1",
@@ -1307,16 +2250,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": true,
-    "hitBy": []
-  },
-  {
-    "id": "6b1b36cbb04b41490bfc0ab2bfa26f86",
-    "username": "Hunter",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "8cdcc1e05f692c239117c5861e2705c4",
@@ -1329,7 +2264,8 @@
       "FeitePetra",
       "Gulrot",
       "WhoRWe"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "718504796ca6603271c1db57e914713c",
@@ -1341,7 +2277,8 @@
     "hitBy": [
       "Uheldige Olga",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "b3d97746dbb45e92dc083db205e1fd14",
@@ -1350,7 +2287,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "71144850f4fb4cc55fc0ee6935badddf",
@@ -1359,7 +2297,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "5025c2f793d6d26f90ec9265da935600",
@@ -1370,7 +2309,8 @@
     "dead": true,
     "hitBy": [
       "Bastardo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "885341ca0f3424f81d9d95081a7cd886",
@@ -1382,7 +2322,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "d1dfc2340e87dc16318a17d4073c5bbb",
@@ -1395,34 +2336,8 @@
       "[Anonym bruker]",
       "Vogue",
       "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "b1bf8e6f2cb414dc95f5953f464c6694",
-    "username": "Mi2",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 3,
-    "dead": false,
-    "hitBy": [
-      "Hunk",
-      "[Anonym bruker]",
-      "Obsession"
-    ]
-  },
-  {
-    "id": "e06d4d1d940389d84eb221b96eddf294",
-    "username": "Sir Endipity",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 4,
-    "dead": false,
-    "hitBy": [
-      "Hunk",
-      "Bastardo",
-      "[Anonym bruker]",
-      "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "22f1dffdbf5d57f369c3fb8d3053128d",
@@ -1435,7 +2350,8 @@
       "Latis",
       "[Anonym bruker]",
       "Ted"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "173f4311b87feebc270c1a94a3eb13a5",
@@ -1448,18 +2364,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "Ascension"
-    ]
-  },
-  {
-    "id": "18126e7bd3f84b3f3e4df094def5b7de",
-    "username": "Mike",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "Uheldige Olga"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "987bcab01b929eb2c07877b224215c92",
@@ -1476,7 +2382,8 @@
       "Caravaggio",
       "Cirella",
       "Elon Musk"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "0add33b28a928866edb4e1a5d5a4934b",
@@ -1490,7 +2397,8 @@
       "Abcdefgh",
       "Abcdefgh",
       "Malice"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "dfc47c8ef18b4689b982979d05cf4cc6",
@@ -1499,7 +2407,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "9ce44f88a25272b6d9cbb430ebbcfcf1",
@@ -1512,27 +2421,8 @@
       "Exys",
       "Hanslarsen",
       "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "00423e8e82a9b6acab0a6585045fb0e6",
-    "username": "Exys",
-    "rank": "Capo Crimini",
-    "hits": 5,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "Mundo"
-    ]
-  },
-  {
-    "id": "1523a3e2351d153732ff47b316c85389",
-    "username": "Koma",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "681bee5b39adfe05ee7d4f27ad29eb42",
@@ -1546,7 +2436,8 @@
       "Aang",
       "Kortopi",
       "Kortopi"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "3ec186ddad891be1154b36c4b2ca8bd3",
@@ -1562,7 +2453,8 @@
       "Arvid",
       "Trekkoppbil",
       "Virtuoso"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7e764aa6b7529530855f0373606d1886",
@@ -1571,7 +2463,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "82a8f10c5e9252347bb5bd3419448401",
@@ -1591,7 +2484,8 @@
       "Interstellar",
       "FeitePetra",
       "FeitePetra"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "1ed75a5d1e2c0bb05f410077765af687",
@@ -1600,7 +2494,8 @@
     "hits": 3,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "b60eb83bf533eecf1bde65940925a981",
@@ -1609,7 +2504,8 @@
     "hits": 3,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "13018992ed5d7bad57fa3c7ffe725b55",
@@ -1621,16 +2517,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "c48ba993d35c3abe0380f91738fe2a34",
-    "username": "Candy",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "0dbd8542147471b19961c2838da6497c",
@@ -1639,18 +2527,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "e08622684102438eb6f4285e36c995e2",
-    "username": "vowen",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]"
-    ]
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "0ffec0222e1426f2ad38475826dc48fb",
@@ -1661,7 +2539,8 @@
     "dead": false,
     "hitBy": [
       "Bergamo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "b64d3fd75329e9f49bb74f8adff4374a",
@@ -1673,7 +2552,8 @@
     "hitBy": [
       "Aliyah",
       "Exys"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "e4086a56164f6e3d02354548a8f2b1ee",
@@ -1689,7 +2569,8 @@
       "[Anonym bruker]",
       "A La Carte",
       "Crush"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "b5223b85114579c1e8d80b517e3b05e1",
@@ -1701,20 +2582,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "Mussolini"
-    ]
-  },
-  {
-    "id": "ed8b38fd3ef9b08697d7a2728cf831b4",
-    "username": "Torino",
-    "rank": "Capo de tutti Capi",
-    "hits": 10,
-    "gottenHit": 3,
-    "dead": false,
-    "hitBy": [
-      "Hanslarsen",
-      "test160",
-      "Olga Burger"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "bf7e891d224d7e8f955cc78263664134",
@@ -1725,7 +2594,8 @@
     "dead": false,
     "hitBy": [
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "3598e23d0da9ceaa7eb3e11fdda06811",
@@ -1737,7 +2607,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "Slire"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "9e31841413a812296abd8ed6a6d7db18",
@@ -1748,7 +2619,8 @@
     "dead": false,
     "hitBy": [
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "0b86f0f8d1478e2f4da5aee809824821",
@@ -1764,7 +2636,8 @@
       "Slire",
       "[Anonym bruker]",
       "Guy Fawkes"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "b695f98a0ad71d932bc63b75a6171f7e",
@@ -1773,7 +2646,8 @@
     "hits": 3,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "c59b43adb030b15cd5453f98987ccc14",
@@ -1782,7 +2656,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "ec3c7d645b3584f2f2a98f0981fa4012",
@@ -1794,7 +2669,8 @@
     "hitBy": [
       "Magnus Karlsen",
       "Bastardo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "23388aefa5aaeb10629572e845d9b95d",
@@ -1809,7 +2685,8 @@
       "Lentas",
       "[Anonym bruker]",
       "Glitch"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "cc88b6dd6a953ae99e39dd5b58ba5b3b",
@@ -1820,7 +2697,8 @@
     "dead": true,
     "hitBy": [
       "Monster"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7c32500097a1ff1c8aa5465d048a7127",
@@ -1832,7 +2710,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "2bd3be910cd6ac2715a608799e611ca9",
@@ -1846,7 +2725,8 @@
       "[Anonym bruker]",
       "Mongo",
       "Hanslarsen"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "d5aedf560b928e289dc4a76d8765bc4e",
@@ -1864,7 +2744,8 @@
       "Kortopi",
       "Kortopi",
       "Bimo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "bbd739f0adf66de9d15a0204ca76e4bd",
@@ -1877,7 +2758,8 @@
       "send sokker",
       "WhoRWe",
       "Mandalorian"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "6aec7a457c7534b45fa43e3eeefaf7ca",
@@ -1886,7 +2768,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "126ac4b07f93bc4f7bed426f5e978c16",
@@ -1905,7 +2788,8 @@
       "Mundo",
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "3224b6ac2342899d64744877482c1b9e",
@@ -1917,7 +2801,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "eb10aad73c550c9d8370d3afc54175d9",
@@ -1926,7 +2811,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "007c2b6920cf9f9825d4e29d4a462327",
@@ -1935,7 +2821,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "19ceb758323b1bd675546d00e2ba3aeb",
@@ -1947,7 +2834,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "Lentas"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "30443b170db8e1dd2aa0226abbabdbf9",
@@ -1960,7 +2848,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "Exys"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "6b08342c5c706c2b42d5635f4add1822",
@@ -1972,7 +2861,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "Weegee"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "fdcd4873b6037bb0f9c191b28f78654e",
@@ -1987,7 +2877,8 @@
       "A La Carte",
       "A La Carte",
       "Maestro"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "8df0a8c1f5ee6d1e5b8201f1c5ffbf8f",
@@ -1998,7 +2889,8 @@
     "dead": false,
     "hitBy": [
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "72508d094d84436ab8c7c5c126d0cd9a",
@@ -2009,7 +2901,8 @@
     "dead": false,
     "hitBy": [
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "12ef70a7a04bb6d838f19f00a444dd2c",
@@ -2021,7 +2914,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "0da2e7fa0ba90f4ae031b0d232b8a57a",
@@ -2033,7 +2927,8 @@
     "hitBy": [
       "Bergamo",
       "Bergamo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "a94aa000f9a94cc51775bd5eac97c926",
@@ -2050,7 +2945,8 @@
       "Grevlingen",
       "Ubuden Gjest",
       "Jeffery"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "4d0b5cd5026cb91abd3a6237826b676d",
@@ -2061,19 +2957,8 @@
     "dead": true,
     "hitBy": [
       "Bastardo"
-    ]
-  },
-  {
-    "id": "bf8525b4cd3cf2d4d92df4fa7d11e404",
-    "username": "torsken",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Mongo",
-      "Snoken"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7c57a366df1b1c1ffe825ef2653c4a2f",
@@ -2089,7 +2974,8 @@
       "Chase",
       "Chase",
       "Chase"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "dbd253c8c6da20c277bc0ad3654d839f",
@@ -2105,7 +2991,8 @@
       "Kortopi",
       "Ascension",
       "Ponzi"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "a488addb8d5d9d128ec619645a09d35a",
@@ -2116,7 +3003,8 @@
     "dead": true,
     "hitBy": [
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "68413a8db7cff51313ac017f53506c03",
@@ -2132,7 +3020,8 @@
       "Crush",
       "Midnight",
       "Sicilia"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "a461b7a64df261e515221c1ed7519a1e",
@@ -2144,7 +3033,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "1f0666ab66895a9388c6e031a4b2ef00",
@@ -2153,7 +3043,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "d64f05dd1e74e6f3fa5a351bed198260",
@@ -2174,7 +3065,8 @@
       "Firenze",
       "Interstellar",
       "Virtuoso"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "f1f58e8c06b2a61ce13e0c0aa9473a72",
@@ -2188,7 +3080,8 @@
       "[Anonym bruker]",
       "Palermo",
       "Beta"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "b623e24add2f342de2acdf8b4edad496",
@@ -2207,7 +3100,8 @@
       "Beta",
       "Lou Bega",
       "Bellona"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "77d66f3619e32f6263058c31181804d7",
@@ -2219,7 +3113,8 @@
     "hitBy": [
       "Mussolini",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "1560771d771d0b7c697c7548680718db",
@@ -2233,16 +3128,8 @@
       "Riku Tanaka",
       "Snoken",
       "Clown"
-    ]
-  },
-  {
-    "id": "85e7a4fd7d0f511ae5eb03baa3db4074",
-    "username": "SelbuVott",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "b8057f455e6f9be18ccbb2f06f3bcc65",
@@ -2251,7 +3138,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "b9056d71aca02a3a7fb860f66864fef0",
@@ -2265,7 +3153,8 @@
       "[Anonym bruker]",
       "Sicilia",
       "test160"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "fcdc7b4207660a1372d0cd5491ad856e",
@@ -2274,7 +3163,8 @@
     "hits": 8,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "63568d6ae438eeaeada98a2885bded14",
@@ -2286,7 +3176,8 @@
     "hitBy": [
       "Rose",
       "Rose"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "fb22887ad66084a848916e27680b967a",
@@ -2305,7 +3196,8 @@
       "Clown",
       "Monster",
       "Monster"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "e1018efb1e4d24a87f9e3799b552bdc2",
@@ -2314,7 +3206,8 @@
     "hits": 5,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "10fc3f1d90b7e8ede53a6eda1991c672",
@@ -2327,7 +3220,8 @@
       "Yasiin Bey",
       "Oddvar Torsheim",
       "Yasiin Bey"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "f86d954902122d42f672ae173ed92703",
@@ -2336,7 +3230,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "0215d71b07a190003ffef4a76eba6080",
@@ -2354,7 +3249,8 @@
       "The Skankhunt",
       "Ungrateful",
       "Hanslarsen"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7239ea2b5dc943f61f3c0a0276c20974",
@@ -2366,7 +3262,8 @@
     "hitBy": [
       "Obsession",
       "Obsession"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "79dc8fc7594f7978e9fa8f13d0a2c0e0",
@@ -2379,7 +3276,8 @@
       "[Anonym bruker]",
       "Lentas",
       "Arezzo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "cd8e7918010a87cc619849e00265c9a6",
@@ -2400,7 +3298,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "Lecce"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "8943acab958687f063ce336ca40bf64b",
@@ -2416,7 +3315,8 @@
       "Hunk",
       "Stavmikser",
       "Nelson"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "c87e5c69a42adada6846a7c299e4d822",
@@ -2428,7 +3328,8 @@
     "hitBy": [
       "6037",
       "6037"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "17d83b21795e0cf967a7e57c88c94d7a",
@@ -2441,7 +3342,8 @@
       "[Anonym bruker]",
       "Cunha",
       "Arezzo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "2b82477bcccc369d9d8ed30bb1200803",
@@ -2450,7 +3352,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "d077f244def8a70e5ea758bd8352fcd8",
@@ -2461,7 +3364,8 @@
     "dead": false,
     "hitBy": [
       "Aliyah"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "c550ba2b845a62f2c6fc12eaf513631d",
@@ -2473,7 +3377,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "Oblivion"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "bbb68ddf394cf77db012c5420a93b113",
@@ -2485,7 +3390,8 @@
     "hitBy": [
       "Kodak black",
       "Kodak black"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "ab83efba4b12fee6c834704a02041348",
@@ -2499,7 +3405,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "Grief"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "ec237b24446825d2ba904c224c21c067",
@@ -2508,7 +3415,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "70e3f54b4d870a58aed82bc04d58e897",
@@ -2520,7 +3428,8 @@
     "hitBy": [
       "Torino",
       "Rose"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "c13fe0a2dd3d8e9da49b7f689b9dbb4c",
@@ -2532,7 +3441,8 @@
     "hitBy": [
       "Hunk",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "84354ccd504decb008fbba52655e74c2",
@@ -2541,7 +3451,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "44ad22ae360df78707d7aae2710bb24e",
@@ -2556,16 +3467,8 @@
       "Haakon",
       "Sicilia",
       "Beta"
-    ]
-  },
-  {
-    "id": "46a9c7a3ede3c60eb54721d9e6431309",
-    "username": "Guy Fawkes",
-    "rank": "Capo de tutti Capi",
-    "hits": 3,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "e56908833c868e238ad148f837d87e90",
@@ -2578,7 +3481,8 @@
       "Torino",
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "93ee99886c07794b55e03ac350128486",
@@ -2593,7 +3497,8 @@
       "Bergamo",
       "[Anonym bruker]",
       "Lentas"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "ac28c2b41697aa58a24449437bade547",
@@ -2606,7 +3511,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "23d45b337ff85d0a326a79082f7c6f50",
@@ -2615,7 +3521,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "60190cb2b5a1d64c6c22fdda4d9e29e0",
@@ -2627,7 +3534,8 @@
     "hitBy": [
       "Bastardo",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7be98cfaa5418cdcfb85ea37deb9dd03",
@@ -2639,7 +3547,8 @@
     "hitBy": [
       "Best Rente Her",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "5a09551907ac24a64304cc4fb1690777",
@@ -2651,7 +3560,8 @@
     "hitBy": [
       "Livorno",
       "Livorno"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "1cfc258a0153934656adbe995090522f",
@@ -2663,7 +3573,8 @@
     "hitBy": [
       "Virtuoso",
       "Rakshasa"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "d4043d2f9265e18c794be4159faaef5c",
@@ -2675,16 +3586,8 @@
     "hitBy": [
       "Bergamo",
       "Bergamo"
-    ]
-  },
-  {
-    "id": "a12e5552edff245429ab97122673b0bc",
-    "username": "Far reidar",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "bde09248e33ebad266a85924d7c83797",
@@ -2698,21 +3601,8 @@
       "Kasino4life",
       "Olivia",
       "Olivia"
-    ]
-  },
-  {
-    "id": "9aea99aed2f8fd9e0648ec445062673b",
-    "username": "Glitch",
-    "rank": "Capo de tutti Capi",
-    "hits": 2,
-    "gottenHit": 4,
-    "dead": false,
-    "hitBy": [
-      "test160",
-      "Kasino4life",
-      "WhoRWe",
-      "Crush"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "dd485e41f1758def296e1bc7377f8ea7",
@@ -2723,7 +3613,8 @@
     "dead": false,
     "hitBy": [
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "4b7cc5694dd3a265bac326eaba31266e",
@@ -2735,7 +3626,8 @@
     "hitBy": [
       "Clown",
       "Clown"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "0f05e3d167ae9f1966110bed552c23a1",
@@ -2744,7 +3636,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "2d47956b7270c381ccea82ee77fb063a",
@@ -2760,7 +3653,8 @@
       "The Skankhunt",
       "Jaskier",
       "Malice"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "84a26c4612a7f9958174ee6552625282",
@@ -2781,7 +3675,8 @@
       "Interstellar",
       "Bergamo",
       "Ascension"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "e04f90343e3d3a9f8993e963bf063e2e",
@@ -2793,7 +3688,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "88f32ea61d1edd34928d18c384490907",
@@ -2805,7 +3701,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "c5728a8eb0cf3bdac4a74f507ac251ea",
@@ -2824,7 +3721,8 @@
       "Ferrara",
       "Bergamo",
       "Bergamo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "dab4de3deb4cac75cb1d5d032cdb5d31",
@@ -2836,7 +3734,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "5fbfde4bf4a50ddc1b1eac369f1892c0",
@@ -2845,7 +3744,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "81bd8fe38f89db0696e623c09b6bb820",
@@ -2860,7 +3760,8 @@
       "[Anonym bruker]",
       "Herobrine",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "08c8b8046693e41d518ed3e83c6defa6",
@@ -2872,16 +3773,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "Ahcci"
-    ]
-  },
-  {
-    "id": "c22dbeb461dc31b294d39ee5aa949a74",
-    "username": "The Skankhunt",
-    "rank": null,
-    "hits": 3,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "59696a5ce2b6f6bc0520f21df6f9ca9e",
@@ -2893,7 +3786,8 @@
     "hitBy": [
       "Obsession",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "1130ef866cb849c9defacfc5b0d58ee3",
@@ -2904,7 +3798,8 @@
     "dead": false,
     "hitBy": [
       "Shaco"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "14e0721b08514b377ef7165d136fb59c",
@@ -2916,7 +3811,8 @@
     "hitBy": [
       "Ruthless",
       "Ruthless"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "4768fd194d2261232046b62052f82763",
@@ -2928,7 +3824,8 @@
     "hitBy": [
       "Crush",
       "Mundo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "358779449e9cb58eaf6a028fa4640988",
@@ -2942,7 +3839,8 @@
       "Lus med paraply",
       "Seraphiel",
       "Pretender"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "149610fefc32b4c6e3e5f4760ba9abdc",
@@ -2955,7 +3853,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "Hunk"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "ada5d732e7e4d5eaa633a5f6092175e1",
@@ -2974,7 +3873,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "8ace23e822a2d79650d9719dd2503fd2",
@@ -2987,7 +3887,8 @@
       "Kodak black",
       "Kodak black",
       "Zen"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7d767363128178be3a6d9fbf8d1e7f6c",
@@ -2999,7 +3900,8 @@
     "hitBy": [
       "Prestige",
       "Kjell"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "b09f020375db055ca3494b6a0c4260c8",
@@ -3014,7 +3916,8 @@
       "Aliyah",
       "[Anonym bruker]",
       "Benny Blanco"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "e5cf4c03e4ab63682b25a1305b08c284",
@@ -3030,7 +3933,8 @@
       "Sicilia",
       "Palermo",
       "Ferrara"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "43f1a7a634e4bd815c87e588849382a8",
@@ -3042,7 +3946,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "e0ebc3c409070d07f1df0f2f4132509e",
@@ -3056,7 +3961,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "6d68c7cfe5d1825d6622f3c824f8db8b",
@@ -3071,7 +3977,8 @@
       "[Anonym bruker]",
       "NAVle",
       "Lifesence"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "3f03d4f2db9a42529efb9cc89fe446b9",
@@ -3080,7 +3987,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "13f4119f03ffb7ee9de1368fe82df732",
@@ -3092,7 +4000,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "Olga Burger"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "73b3452ae6c4aea73758856ea266bb6a",
@@ -3107,7 +4016,8 @@
       "Hunk",
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "789de98e41a8d81df4fd96ff4b6a7a08",
@@ -3119,7 +4029,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "c4f9832f61f8a98ef4b742af0cc35437",
@@ -3132,25 +4043,8 @@
       "Hunk",
       "[Anonym bruker]",
       "Kodak black"
-    ]
-  },
-  {
-    "id": "12313a3d28f802e3a22b07d2e01c6dcf",
-    "username": "Sol",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "83b3335d71138a7d33a1d9ea63e19fba",
-    "username": "Bezos",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "2f523e0751dfc124d98b6aafbd3e3238",
@@ -3164,7 +4058,8 @@
       "Aliyah",
       "Ahcci",
       "Ahcci"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "bda3bfdfa868d04f4003838f5776f25e",
@@ -3184,7 +4079,8 @@
       "Ascension",
       "Beta",
       "Palermo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "3cff7ae2bd481ccf1909aa4836a696de",
@@ -3196,7 +4092,8 @@
     "hitBy": [
       "Kortopi",
       "Sjeik Ben Redic"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "4a01ebc30f3e3cb0fb5b01cc6a42a35d",
@@ -3208,7 +4105,8 @@
     "hitBy": [
       "Arvid",
       "Arvid"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "f0d480057a937de73d46ec36520cf17a",
@@ -3221,7 +4119,8 @@
       "Clown",
       "Clown",
       "Prestige"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7c7baae2b1489e1084bee3fa344c61a4",
@@ -3236,7 +4135,8 @@
       "Noxious",
       "Noxious",
       "Noxious"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "6a983a6992d11c33f84f91cb722b15c9",
@@ -3245,19 +4145,8 @@
     "hits": 5,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "910212d01c6ca98d108561a645b21e84",
-    "username": "Jimbo",
-    "rank": "Capo de tutti Capi",
-    "hits": 0,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Vow",
-      "Torino"
-    ]
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "a1e26f544045e0d0b20bfa00fa2c6c83",
@@ -3275,7 +4164,8 @@
       "Jeffery",
       "C11H15No2",
       "Vixen"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "28c69b4cba5681d565d3bd901684dd77",
@@ -3286,7 +4176,8 @@
     "dead": false,
     "hitBy": [
       "Rose"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "fad661fbf8b7c168bbd22483447392c1",
@@ -3298,7 +4189,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "Beta"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "36e0cbd4b911811f3d1d1e4f007b5079",
@@ -3311,7 +4203,8 @@
       "Snoken",
       "Mayhem",
       "Vow"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "db068ce9f744fbb35eedc9a883f91085",
@@ -3320,7 +4213,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "68d6dbae79caccf71a1e0f0ce0ad3884",
@@ -3332,7 +4226,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "a54e73cb56192425dd3cf6edc1e86129",
@@ -3345,19 +4240,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "Melketenner"
-    ]
-  },
-  {
-    "id": "26af55a4745abd7b474d72f6146b8b3f",
-    "username": "sykes",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Rose",
-      "balerinasasina"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7214dce354acbff06c81f66c4cd00081",
@@ -3366,7 +4250,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "c578fc600f421f036ae978b2906b75de",
@@ -3380,7 +4265,8 @@
       "Exys",
       "Shaco",
       "Yoshi"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "48ca461afccb0c9f533ba45aaa6f5a90",
@@ -3393,7 +4279,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "Andrea"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "380951527dbe2203cb9432855bfe6329",
@@ -3407,7 +4294,8 @@
       "Beta",
       "Mundo",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "dc46631f05cea819417f36c203f23f30",
@@ -3420,7 +4308,8 @@
       "Yoshi",
       "Yoshi",
       "Olga Burger"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "94a0858357629dc8abadb685ef712c33",
@@ -3435,7 +4324,8 @@
       "Glitch",
       "[Anonym bruker]",
       "Hanslarsen"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "0f689ae1dc5f90ca8316a543479827f1",
@@ -3444,7 +4334,8 @@
     "hits": 6,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "1c42f9c1ca2f65441465b43cd9339d6c",
@@ -3455,22 +4346,8 @@
     "dead": true,
     "hitBy": [
       "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "72fa0f93182839e32ccf8732ed61a570",
-    "username": "Lecce",
-    "rank": "Capo de tutti Capi",
-    "hits": 5,
-    "gottenHit": 5,
-    "dead": false,
-    "hitBy": [
-      "[Anonym bruker]",
-      "nopqrstuvwxyz",
-      "Herobrine",
-      "Jarle",
-      "Kortopi"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "2a0f8674d866e435467a582934852bc0",
@@ -3482,7 +4359,8 @@
     "hitBy": [
       "Clown",
       "Clown"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "e040e9f105f5e88490355479dabef0a5",
@@ -3494,7 +4372,8 @@
     "hitBy": [
       "Clown",
       "Kodak black"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "4b85a21200e8eb254e79417678a63664",
@@ -3510,7 +4389,8 @@
       "Arezzo",
       "[Anonym bruker]",
       "Anonyma"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "77e000aad1affde9b582a1969650ce5f",
@@ -3522,7 +4402,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "Escape"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "61118d50684a445e9e12350c062d653b",
@@ -3538,7 +4419,8 @@
       "Ascension",
       "Vow",
       "Vow"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "b0c399e7c5ef981bbca9a0b1f72b4139",
@@ -3552,7 +4434,8 @@
       "Pushwagner",
       "Seraphiel",
       "Seraphiel"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "789968f58f4ce858eaeda029210d5cb7",
@@ -3565,7 +4448,8 @@
       "Beta",
       "Beta",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "04f5a8878b83015521ad2a2e39805230",
@@ -3578,7 +4462,8 @@
       "[Anonym bruker]",
       "Hunk",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "b2641dc9f4f250db7264e75220e104cf",
@@ -3587,7 +4472,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "cdbe3eec37058888e9d3d832b02d7324",
@@ -3599,7 +4485,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "4ddb154f4c3e98427038e7fb5505083f",
@@ -3608,7 +4495,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "e276f4e5b3a7cb720b821455e3b7fef0",
@@ -3617,7 +4505,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "fddd76411252e465ab9edde8ebed3d0a",
@@ -3626,7 +4515,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "d30813ae3727de9086249cbe3d0aaff3",
@@ -3639,7 +4529,8 @@
       "[Anonym bruker]",
       "Maestro",
       "Rose"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "d98e8498a2500f65d8158dfa667aeec9",
@@ -3651,7 +4542,8 @@
     "hitBy": [
       "Mayhem",
       "Mayhem"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "c84baebe0faa2fcdc2f1a4a9f6e2fbfc",
@@ -3660,7 +4552,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "dbd469ea17edcc6010767fe39675d345",
@@ -3673,7 +4566,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "51fc8e7163379cf91262687ebf080c5b",
@@ -3685,7 +4579,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "c869f5a15639deb3309f565cd03314e5",
@@ -3704,7 +4599,8 @@
       "Figo",
       "Grevlingen",
       "Rakshasa"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "dd6652895030f6b3b1b711d8334192f2",
@@ -3716,7 +4612,8 @@
     "hitBy": [
       "Anubis",
       "Prestige"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "cab8111fd0b710a336c898e539090e34",
@@ -3728,7 +4625,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "1843e51e39e7195d4ef79a58fdeea872",
@@ -3737,7 +4635,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "9071dbd769d8581ed5a689fdaf8f5037",
@@ -3749,7 +4648,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "Bastardo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "9d015f09ed79576cdb9b0d31cc738fa4",
@@ -3761,7 +4661,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "8df0a6f0cc792b57c977bbe69ab137ae",
@@ -3772,7 +4673,8 @@
     "dead": false,
     "hitBy": [
       "Rakshasa"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7ba228c2df7efc4c4b660b895e7a2683",
@@ -3806,7 +4708,8 @@
       "Milano",
       "Aune Sand",
       "Pushwagner"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "caa86b3db8a2ef15b945634e8400c27e",
@@ -3821,7 +4724,8 @@
       "[Anonym bruker]",
       "Shadow",
       "Sexy"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "962b2d2b8e72dc6771bca613d49b46fb",
@@ -3833,7 +4737,8 @@
     "hitBy": [
       "Olga Burger",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "a886f2ee22888badbce90eac740c49be",
@@ -3845,7 +4750,8 @@
     "hitBy": [
       "A La Carte",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "e8f47db39e7d724df83e2330105427fe",
@@ -3858,16 +4764,8 @@
       "Santos",
       "Santos",
       "Santos"
-    ]
-  },
-  {
-    "id": "114fdfefd3d69799f0b6f73ef764d405",
-    "username": "Santos",
-    "rank": "Capo Crimini",
-    "hits": 4,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "8edf0eab1d0f30ab0079075965572a16",
@@ -3879,7 +4777,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "Cirella"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "fae005cf393a8ec646f3fe040339fd9d",
@@ -3888,7 +4787,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "6295dcf6cedcef0b2e26f2bf97b93887",
@@ -3900,7 +4800,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "0ff14a13b985917b6dfc452f8d8fbde0",
@@ -3913,7 +4814,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "Olga Burger"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "8669fecf5d6ea90e15baa10a74b8d852",
@@ -3933,7 +4835,8 @@
       "The Architect",
       "Hugo",
       "Hunk"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "170e46bf5e0cafab00cac3a650910837",
@@ -3948,7 +4851,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "Grief"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "c82f3ed501cae690af7bc8f78eb2f4d0",
@@ -3961,7 +4865,8 @@
       "Cirella",
       "[Anonym bruker]",
       "Herobrine"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "a4e399477d7924994be052d1d6d47715",
@@ -3973,7 +4878,8 @@
     "hitBy": [
       "Crush",
       "Crush"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "b092a62c96785fab02d01a852bf63351",
@@ -3998,7 +4904,8 @@
       "winnie the pooh",
       "Seraphiel",
       "Saber"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "3a23bb515e06d0e944ff916e79a7775c",
@@ -4007,7 +4914,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": true,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "2286579934e93afe92c3506509ef49db",
@@ -4021,7 +4929,8 @@
       "Warden",
       "Caligula",
       "Escape"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "56a81aad0011bdc68fd3cc7a6bc79676",
@@ -4033,7 +4942,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "322440f7b794b187e8ab15a3c0332398",
@@ -4042,7 +4952,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "a50cab0ae2516b1d140ccfc78aee41a5",
@@ -4056,7 +4967,8 @@
       "Hanslarsen",
       "send truse",
       "send truse"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "35d71c508624e77a92066bc1d2a26c4d",
@@ -4065,7 +4977,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "d7d7ea84ddb323e80d1bc2f2bb14cca2",
@@ -4076,7 +4989,8 @@
     "dead": false,
     "hitBy": [
       "Stavmikser"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "da346996eb968f8b5112daa738e0c004",
@@ -4089,7 +5003,8 @@
       "Ascension",
       "Magnus Karlsen",
       "Sala Consilina"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "13365d367683301ee26d9d76d25c518b",
@@ -4098,7 +5013,8 @@
     "hits": 3,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "ea38a1946a299b4ccf05fc43e586482b",
@@ -4110,18 +5026,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
-  },
-  {
-    "id": "99b6d569ecb9344764d08b4f076901f0",
-    "username": "Firenze",
-    "rank": "Capo de tutti Capi",
-    "hits": 12,
-    "gottenHit": 1,
-    "dead": false,
-    "hitBy": [
-      "Ascension"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "5da2acc2e323615fe7345ec0d24ae587",
@@ -4130,19 +5036,8 @@
     "hits": 4,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "dee77b12002b838de315147b1dac24cc",
-    "username": "ferrara",
-    "rank": "Capo de tutti Capi",
-    "hits": 3,
-    "gottenHit": 2,
-    "dead": false,
-    "hitBy": [
-      "Walt Whitman",
-      "Walt Whitman"
-    ]
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "5d01ec641694901bfb4aff853ccde4c1",
@@ -4156,7 +5051,8 @@
       "Chase",
       "Chase",
       "Torino"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "f2bf79fab3d1d0abc75418800e804136",
@@ -4170,7 +5066,8 @@
       "[Anonym bruker]",
       "WhoRWe",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "65f185ec6bd47af8f082f8196d0b4d24",
@@ -4182,7 +5079,8 @@
     "hitBy": [
       "Crush",
       "Crush"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "ac15dd302601bdac753596694ac78093",
@@ -4196,7 +5094,8 @@
       "Vow",
       "Milano",
       "Lecce"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "bfd8e8a92ff2e016af7eb9d22acf3c8b",
@@ -4210,7 +5109,8 @@
       "Vow",
       "Interstellar",
       "Hunk"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "32adf050226995bf2311421ebe0698e0",
@@ -4219,7 +5119,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "79837509a0490f9c54c6cde4440abd95",
@@ -4230,7 +5131,8 @@
     "dead": false,
     "hitBy": [
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "d4ddaca55481786b25a2f2c60934c2ff",
@@ -4239,7 +5141,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "149afd631693c895f81e508eb5aaef37",
@@ -4251,7 +5154,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "998c72646420af9359a81119951ae285",
@@ -4262,7 +5166,8 @@
     "dead": true,
     "hitBy": [
       "WhoRWe"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "746b2c636b96c7ff12ceb8dda5c90a4e",
@@ -4276,7 +5181,8 @@
       "Devilreaux",
       "Devilreaux",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "a3ae36ccfca53ed61ef83e645700d9ce",
@@ -4290,7 +5196,8 @@
       "Firenze",
       "Bastardo",
       "Firenze"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "43207842ec9a513516851d23f729a25e",
@@ -4311,7 +5218,8 @@
       "Beta",
       "Bergamo",
       "send truse"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "9bb71f8228340f00355120d30127933e",
@@ -4322,7 +5230,8 @@
     "dead": true,
     "hitBy": [
       "Magnus Karlsen"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "c2c66e3a934afe7a66734ac607fd3bc5",
@@ -4333,7 +5242,8 @@
     "dead": false,
     "hitBy": [
       "Clown"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "9f6052814a6214e9abacb4ab8481932f",
@@ -4344,7 +5254,8 @@
     "dead": false,
     "hitBy": [
       "Oddvar Torsheim"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "6e5e16b261e93d07c53869216aa7cf61",
@@ -4353,7 +5264,8 @@
     "hits": 7,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "69e652751549d7a37791c227aa914c2d",
@@ -4366,7 +5278,8 @@
       "Grief",
       "Grief",
       "Warlord"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "f62e05eafec3231205788cba3ef91d54",
@@ -4379,7 +5292,8 @@
       "Kortopi",
       "Arezzo",
       "Fatherless"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7b644443e39cccacaff97f471e5fc2f5",
@@ -4401,7 +5315,8 @@
       "Bellona",
       "Bellona",
       "Saber"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "774c39d966a322f93f662188fb6f665d",
@@ -4414,7 +5329,8 @@
       "Milano",
       "[Anonym bruker]",
       "Walt Whitman"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "8200fdece927b56ffcfeae7518d5df61",
@@ -4423,7 +5339,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "ac754a330530832ba1bf7687f577da91",
@@ -4437,7 +5354,8 @@
       "Grief",
       "Jarle",
       "Vogue"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "e5d9820465dbf1653463dd79403579f2",
@@ -4452,7 +5370,8 @@
       "Napoli",
       "Interstellar",
       "Virtuoso"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "4d14cc253c29926302b8c36434bf140c",
@@ -4461,7 +5380,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "f9272a81229666376268261069523232",
@@ -4473,7 +5393,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "Beta"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "f5bd93a2b7c9a70fa7d673021a765289",
@@ -4488,7 +5409,8 @@
       "Beta",
       "Palermo",
       "Hanslarsen"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "f56681194ebea036dd1297f1184bf7bd",
@@ -4497,7 +5419,8 @@
     "hits": 7,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "012bc9d05ea2af8eea4d3e4b0b905661",
@@ -4510,7 +5433,8 @@
       "[Anonym bruker]",
       "Olga Burger",
       "Mandalorian"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "02c7375c93896d37004ae45bf9bc6ac5",
@@ -4523,7 +5447,8 @@
       "[Anonym bruker]",
       "Milano",
       "Michelangelo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "b246ff693d453c3b1a3049752da2bc75",
@@ -4534,7 +5459,8 @@
     "dead": true,
     "hitBy": [
       "Maestro"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "2767cc3ede7592a47bd6657e3799565c",
@@ -4551,7 +5477,8 @@
       "Tyler",
       "The Architect",
       "balerinasasina"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "14a0815047897e351d500afda614b143",
@@ -4563,7 +5490,8 @@
     "hitBy": [
       "Aliyah",
       "Lando"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "73711778f1d0f4fe5ca412388b05310d",
@@ -4574,7 +5502,8 @@
     "dead": false,
     "hitBy": [
       "Nomen Nescio"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "62103b39a359d46c886c2450b86435ce",
@@ -4587,7 +5516,8 @@
       "Freddy Geas",
       "[Anonym bruker]",
       "Palermo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "6915731e0cf5ec998491625d27ed9b1d",
@@ -4598,7 +5528,8 @@
     "dead": false,
     "hitBy": [
       "C11H15No2"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "addac03e2ac2f62d1a7e766874af16b3",
@@ -4611,7 +5542,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "Epic Fail Guy"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "82c19f634500519bee03132176b0f743",
@@ -4630,7 +5562,8 @@
       "Zanuxus",
       "Zanuxus",
       "Saber"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7dabe93c7dea0aab55d8e4ed47fde9c0",
@@ -4645,7 +5578,8 @@
       "[Anonym bruker]",
       "[Anonym bruker]",
       "Gravedigger"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "a862f474a6c1dfa9ba02033c061e48b9",
@@ -4658,7 +5592,8 @@
       "Nightwalker",
       "[Anonym bruker]",
       "Cunha"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "5cc61a5abfbc35f2015441000b6315f9",
@@ -4667,7 +5602,8 @@
     "hits": 2,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "a4c23078bcf091bde6398be8628c66d2",
@@ -4683,7 +5619,8 @@
       "Walt Whitman",
       "C11H15No2",
       "Saber"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "0143c1e8e97da861c623ff508a441c54",
@@ -4692,7 +5629,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "45857ce289abe1e4eb9dfab5c2753cac",
@@ -4703,7 +5641,8 @@
     "dead": false,
     "hitBy": [
       "Palermo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "1b2d0477734fe6cdd96ad6003c5b9409",
@@ -4715,7 +5654,8 @@
     "hitBy": [
       "[Anonym bruker]",
       "[Anonym bruker]"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7aba2bf77f359c303912418ec2d488f9",
@@ -4729,16 +5669,8 @@
       "Walt Whitman",
       "Olga Burger",
       "Palermo"
-    ]
-  },
-  {
-    "id": "2e92d188dbdbd88e7c15831f4abfe1fc",
-    "username": "Roma",
-    "rank": "Capo Crimini",
-    "hits": 2,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "f9d5c16a7f42203f8c195432354a3271",
@@ -4747,7 +5679,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "bd6f6ba4d0a6b87fa156dd5cf21b2708",
@@ -4769,7 +5702,8 @@
       "Jarle",
       "Olga Burger",
       "Grevlingen"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "0ffe34b4e04c2b282c5a388b1ad8aa7a",
@@ -4781,7 +5715,8 @@
     "hitBy": [
       "Devilreaux",
       "Devilreaux"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "838360888259ea5ffe3a73f81a2a6f19",
@@ -4790,7 +5725,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "e94567e6ce62de204d10d745a5354a5d",
@@ -4801,7 +5737,8 @@
     "dead": false,
     "hitBy": [
       "Joan Miro"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7dae0475671c4ee2c3f96ad9b0101c3f",
@@ -4816,7 +5753,8 @@
       "Onkel Skrue",
       "Onkel Skrue",
       "Onkel Skrue"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "c970b55ca814de56d24aeeee1a3d0565",
@@ -4828,7 +5766,8 @@
     "hitBy": [
       "Milano",
       "Napoli"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "753d4c2fa2e96e3a834b765c9ddd8c76",
@@ -4839,7 +5778,8 @@
     "dead": false,
     "hitBy": [
       "Ascension"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "6925a35fda814b1471aba1753cbb0469",
@@ -4853,7 +5793,8 @@
       "Vow",
       "El Diablo",
       "Tugg Speedman"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "913013028698f70c12b568ec173f5f86",
@@ -4873,7 +5814,8 @@
       "Walt Whitman",
       "Palermo",
       "Firenze"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "9b3883d41aaff14cce38c2cbb355e720",
@@ -4887,7 +5829,8 @@
       "Jeffery",
       "Zanuxus",
       "Walt Whitman"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "f91094cdf7d57b05533474efa4a37cff",
@@ -4902,7 +5845,8 @@
       "Rose",
       "Vixen",
       "Ponzi"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "baf3ab5b8cab6297f99d30157ef9cae7",
@@ -4914,7 +5858,8 @@
     "hitBy": [
       "Napoli",
       "Unc"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "979e57d16f8271c1924039307f981e66",
@@ -4926,7 +5871,8 @@
     "hitBy": [
       "Beta",
       "Beta"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "22f55bbf6ddc81e7c41829b528a36f6b",
@@ -4938,7 +5884,8 @@
     "hitBy": [
       "Bellona",
       "Bellona"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "87048453419883b3f814f81863df6e8c",
@@ -4950,7 +5897,8 @@
     "hitBy": [
       "Nightwalker",
       "Kryptex"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "4c96f8324e3ba54a99e78249b95daa30",
@@ -4962,7 +5910,8 @@
     "hitBy": [
       "Santos",
       "Hunk"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "c96be7a45761c151628a8c3b3075fc51",
@@ -4978,7 +5927,8 @@
       "Ascension",
       "Guy Fawkes",
       "Olga Burger"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "b203283b6e76a612e97cc9408058ed08",
@@ -4993,7 +5943,8 @@
       "winnie the pooh",
       "WillyMyWonka",
       "Torino"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "1e628956ae1080b8caf3d79545a2d0a7",
@@ -5004,16 +5955,8 @@
     "dead": true,
     "hitBy": [
       "Vixen"
-    ]
-  },
-  {
-    "id": "182a1e726ac1c8ae851194cea6df0393",
-    "username": "Schizophrenia",
-    "rank": "Capo Crimini",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    ],
+    "aliases": []
   },
   {
     "id": "8045b194e542f37053fb4ec17edb2855",
@@ -5025,7 +5968,8 @@
     "hitBy": [
       "Beta",
       "Walt Whitman"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "ccb4a9130f39cc557558b9248360f43f",
@@ -5034,7 +5978,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "cf1d8c2c1090da863cf51868840c1f83",
@@ -5047,7 +5992,8 @@
       "Bergamo",
       "Bergamo",
       "Bergamo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "fdb04f640d8e936f948fbb1e8ac00696",
@@ -5058,7 +6004,8 @@
     "dead": false,
     "hitBy": [
       "Muammar Gaddafi"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "f505a4f2dfe4f6071f265d170c34d2f7",
@@ -5072,7 +6019,8 @@
       "Hunk",
       "Walt Whitman",
       "Vogue"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "9a701a32dbe1df32d2236c625b3e4b59",
@@ -5086,7 +6034,8 @@
       "Aliyah",
       "Nomen Nescio",
       "Krakk med hatt"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "a2a7e24fc5e3c53544310ba5c9ab3fb1",
@@ -5098,7 +6047,8 @@
     "hitBy": [
       "Ubuden Gjest",
       "Ubuden Gjest"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "1dfd17797393d69564ea6ccb391b3f00",
@@ -5110,7 +6060,8 @@
     "hitBy": [
       "Ascension",
       "Ascension"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "5d13f53262af378baa779a9bb8e42284",
@@ -5125,7 +6076,8 @@
       "Sala Consilina",
       "Ferrara",
       "Firenze"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "3a5861b8276b585efb390a9cb3a82871",
@@ -5142,7 +6094,8 @@
       "Walt Whitman",
       "Clown",
       "Weegee"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "a4e360681676c770121e891f8c407572",
@@ -5154,7 +6107,8 @@
     "hitBy": [
       "Gallery",
       "Saul Goodman"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "d1f9cc6dcce0518273c68f03cbbb51f8",
@@ -5166,7 +6120,8 @@
     "hitBy": [
       "C11H15No2",
       "Jeffery"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "43124ce2528703bb9cef871ac70b42ae",
@@ -5180,7 +6135,8 @@
       "Kryptex",
       "Saber",
       "Saber"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "8cd61a30a6393131867b48214750fb05",
@@ -5189,7 +6145,8 @@
     "hits": 5,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "de98182c8e9f945d6a895c4e84590eca",
@@ -5201,7 +6158,8 @@
     "hitBy": [
       "Nightmare",
       "Bellona"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "64b69ce05f9e128794e433fea61a7e24",
@@ -5213,7 +6171,8 @@
     "hitBy": [
       "Bergamo",
       "Bergamo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "348a448a51d1e0f0f5eee42337d12adc",
@@ -5225,7 +6184,8 @@
     "hitBy": [
       "Cirella",
       "Roma"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "06f05dc26fd281aa7a3bec3e47b3d738",
@@ -5240,7 +6200,8 @@
       "Livorno",
       "Torino",
       "Napoli"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "4eb2389a86ca6fd5af6fc776f32df2e2",
@@ -5251,7 +6212,8 @@
     "dead": false,
     "hitBy": [
       "test160"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "2f7625f24c4c3b8da8e76a9dec696d2d",
@@ -5263,7 +6225,8 @@
     "hitBy": [
       "Seraphiel",
       "Ascension"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "2ca63cddd54f9490efad22421891a9d1",
@@ -5276,7 +6239,8 @@
       "Walt Whitman",
       "Mundo",
       "C11H15No2"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "f88f98b8fc132e8afd011f63abe492b8",
@@ -5285,7 +6249,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "69cae2e5b7136802e35d70afedd7ef29",
@@ -5294,7 +6259,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": true,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "a6f02e7b6fe3a8e0f2d03b60aada8920",
@@ -5306,7 +6272,8 @@
     "hitBy": [
       "FeitePetra",
       "FeitePetra"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "de68284758a3d7b4f51266c0fbbc3335",
@@ -5318,7 +6285,8 @@
     "hitBy": [
       "Kortopi",
       "Kortopi"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "2bde79bff687ae45f1354cde4324ccdd",
@@ -5330,7 +6298,8 @@
     "hitBy": [
       "Interstellar",
       "Kryptex"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "fcf434f2763c0fbd19a6e83059268b50",
@@ -5345,7 +6314,8 @@
       "Piccolo",
       "Negan",
       "Chase"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "d2720e9f90799c8075642ad43f263211",
@@ -5360,7 +6330,8 @@
       "Lecce",
       "Palermo",
       "Milano"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "c72444a1b9678e55273d5d5f315a6c0e",
@@ -5369,7 +6340,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "30d20b6bdbad8484e2c7507b8bec65d9",
@@ -5382,7 +6354,8 @@
       "Interstellar",
       "Hunk",
       "Palermo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "a55408424a89b867f3068ace6ed821dc",
@@ -5394,7 +6367,8 @@
     "hitBy": [
       "Hanslarsen",
       "Trekkoppbil"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "345a731593be850d20ab355f196d549f",
@@ -5408,7 +6382,8 @@
       "NAVle",
       "Grevlingen",
       "send truse"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "ffccaa5a29b30ab401fc4ec23609d515",
@@ -5417,7 +6392,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "43f8351edd38358e4bdb2b4616158bf8",
@@ -5429,7 +6405,8 @@
     "hitBy": [
       "Hanslarsen",
       "Torvesta"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "245c0f05ae025001f12aa83c95a1461c",
@@ -5441,7 +6418,8 @@
     "hitBy": [
       "Barletta",
       "Venezia"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "90319ea56263c86d6dbade1b0f34fab6",
@@ -5452,7 +6430,8 @@
     "dead": false,
     "hitBy": [
       "Interstellar"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "50a8862ce46a71666bd47f9d8d60aad2",
@@ -5461,7 +6440,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "2af12286ebc6e268ceec0984082d9007",
@@ -5474,7 +6454,8 @@
       "Ascension",
       "Ascension",
       "Weegee"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7f1da65aa78fe5670d69391a36eed6f0",
@@ -5487,7 +6468,8 @@
       "Hunk",
       "Hunk",
       "Unc"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "a7740469eeeff523a5e670941d31a092",
@@ -5496,7 +6478,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "0edd46c411e2b82e4b5a35889d8cafd8",
@@ -5508,7 +6491,8 @@
     "hitBy": [
       "Avellino",
       "Palermo"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "fdf99ba7dcc64fd2cdfdebd5995d9045",
@@ -5517,7 +6501,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "f94baabc69dcb7730ff4d860fc49ed99",
@@ -5529,7 +6514,8 @@
     "hitBy": [
       "Hunk",
       "Trekkoppbil"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "91f182dde4faec474daa58306dff2556",
@@ -5541,7 +6527,8 @@
     "hitBy": [
       "Naan bread",
       "Saber"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "9cac9fca995736e818005324bce03183",
@@ -5550,7 +6537,8 @@
     "hits": 1,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "bcbf4669369710f675bdb8d0f5517ee6",
@@ -5562,7 +6550,8 @@
     "hitBy": [
       "Torino",
       "Napoli"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "7e59cb5b2f52c763bc846471fe5942e4",
@@ -5571,7 +6560,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "3bf1114a986ba87ed28fc1b5884fc2f8",
@@ -5583,7 +6573,8 @@
     "hitBy": [
       "Seraphiel",
       "Chase"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "856a0e01f91390365a2d8dc887354d44",
@@ -5595,7 +6586,8 @@
     "hitBy": [
       "Aune Sand",
       "Oddvar Torsheim"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "c52d0c2595a46d59ee0d3bb2b98184bf",
@@ -5607,7 +6599,8 @@
     "hitBy": [
       "Interstellar",
       "Unc"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "417482069977543b42ad011319c1409b",
@@ -5619,7 +6612,8 @@
     "hitBy": [
       "Hunk",
       "Hunk"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "bda9643ac6601722a28f238714274da4",
@@ -5631,7 +6625,8 @@
     "hitBy": [
       "L Aquila",
       "L Aquila"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "2170bcd55c0e3844ecb4ef13fef29b01",
@@ -5643,7 +6638,8 @@
     "hitBy": [
       "Zanuxus",
       "Zanuxus"
-    ]
+    ],
+    "aliases": []
   },
   {
     "id": "edc8ef11409ebb9d98835d82140a6972",
@@ -5652,7 +6648,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "b026e947fb190f3d89815b064c221afe",
@@ -5661,16 +6658,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "6e2213858374dda06c6c17da156466ee",
-    "username": "Sleiken",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "4e0c87b0f72870402a0fe4c9a32186bd",
@@ -5679,7 +6668,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "d0cf41590d8f49d4e742d059607dd718",
@@ -5688,7 +6678,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "3ea2a590db139200100b70b8ac721946",
@@ -5697,7 +6688,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "3fcbec0a16da5dd4e59aba38fbaab1a0",
@@ -5706,16 +6698,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
-  },
-  {
-    "id": "250ad995a9e9a734e027b093907cea70",
-    "username": "SynVoid",
-    "rank": "Gudfar",
-    "hits": 0,
-    "gottenHit": 0,
-    "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "634c21f7dc1612ed1d84be6a95f70b8c",
@@ -5724,7 +6708,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "d8578edf8458ce06fbc5bb76a58c5ca4",
@@ -5733,7 +6718,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "d50eb7873ac5c4d957e8c59d6511e4d8",
@@ -5742,7 +6728,8 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   },
   {
     "id": "ffb6fc05e9528a5797ccbeac838cbf08",
@@ -5751,6 +6738,7 @@
     "hits": 0,
     "gottenHit": 0,
     "dead": false,
-    "hitBy": []
+    "hitBy": [],
+    "aliases": []
   }
 ]

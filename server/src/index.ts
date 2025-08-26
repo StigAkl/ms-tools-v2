@@ -29,7 +29,7 @@ fs.writeFileSync(
 app.get("/api/v1/events", (req, res) => {
   const filePath = path.join(__dirname, "data", "data.json");
   const json = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-  res.json(json); // 👈 dette returnerer JSON direkte
+  res.json(json);
 });
 
 app.listen(port, () => {
