@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "MS",
+  "version": "1.0",
+  "description": "Viser krim_tid-verdien i fanetittelen",
+  "permissions": ["activeTab", "scripting", "notifications", "storage"],
+  "action": { "default_popup": "popup.html" },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js", "popup.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["crimeTimer.js", "beep.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
