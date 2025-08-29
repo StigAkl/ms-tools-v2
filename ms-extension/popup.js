@@ -47,7 +47,7 @@ document.getElementById("alpha").addEventListener("input", (e) => {
 });
 
 document.getElementById("apply").addEventListener("click", async () => {
-  console.log("applying..");
+  console.log("clicking");
   const phrases = toLines(document.getElementById("phrases").value);
   const hex = document.getElementById("color").value;
   const alpha = +document.getElementById("alpha").value;
@@ -65,3 +65,53 @@ document.getElementById("apply").addEventListener("click", async () => {
     });
   }
 });
+
+const sendToggle = async (feature, enabled) => {
+  try {
+    const [tab] = await chrome.tabs.query({
+      active: true,
+      currentWindow: true,
+    });
+    if (tab?.id)
+      await chrome.tabs.sendMessage(tab.id, {
+        type: "TOGGLE",
+        feature,
+        enabled,
+      });
+  } catch (e) {
+    console.error("Error sending toggle:", e);
+  }
+};
+
+const init = async () => {
+  console.log("initing..?");
+  const { enableNotificationsBlink = true, enableReportBlink = true } =
+    await chrome.storage.sync.get([
+      "enableNotificationsBlink",
+      "enableReportBlink",
+    ]);
+
+  const notificationElement = document.getElementById("toggleNotifications");
+  const reportElement = document.getElementById("toggleReport");
+
+  notificationElement.checked = enableNotificationsBlink;
+  reportElement.checked = enableReportBlink;
+
+  notificationElement.addEventListener("change", async () => {
+    console.log("Sending notification check:", notificationElement.checked);
+    await chrome.storage.sync.set({
+      enableNotificationsBlink: notificationElement.checked,
+    });
+    sendToggle("notifications", notificationElement.checked);
+  });
+
+  reportElement.addEventListener("change", async () => {
+    console.log("Sending report check:", reportElement.checked);
+    await chorme.storage.sync.set({
+      enableReportBlink: reportElement.checked,
+    });
+    sendToggle("report", reportElement.checked);
+  });
+};
+
+init();

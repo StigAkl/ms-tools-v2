@@ -30,74 +30,6 @@ const krimmeTimer = () => {
   }
 };
 
-// const aasdad = () => {
-//   console.log("Observing steal notifications...");
-
-//   function triggerFlash() {
-//     const overlay = document.createElement("div");
-//     overlay.style.position = "fixed";
-//     overlay.style.top = "0";
-//     overlay.style.left = "0";
-//     overlay.style.width = "100vw";
-//     overlay.style.height = "100vh";
-//     overlay.style.backgroundColor = "rgba(23, 210, 26, 0.55)";
-//     overlay.style.zIndex = "9999";
-//     overlay.style.pointerEvents = "none";
-//     overlay.style.transition = "opacity 0.5s ease";
-
-//     document.body.appendChild(overlay);
-
-//     // Fjern etter 2 sekunder med fade ut
-//     setTimeout(() => {
-//       overlay.style.opacity = "0";
-//       setTimeout(() => overlay.remove(), 500);
-//     }, 2000);
-//   }
-
-//   const QUERY = "stjele penger";
-//   const QUERY2 = "Du blir angrepet";
-
-//   const q = QUERY.normalize("NFKC").toLowerCase();
-//   const q2 = QUERY2.normalize("NFKC").toLowerCase();
-//   const seen = new WeakSet();
-
-//   const rootObserver = new MutationObserver(() => {
-//     const root = document.querySelector("#notifications_table");
-//     if (!root) return;
-//     rootObserver.disconnect();
-
-//     const checkRow = (row) => {
-//       if (!(row instanceof Element)) return;
-//       if (seen.has(row)) return;
-//       const txt = (row.textContent || "").normalize("NFKC").toLowerCase();
-//       if (txt.includes(q) || txt.includes(q2)) {
-//         seen.add(row);
-//         const button = document.querySelector("#drapsknapp");
-//         button.click();
-//         triggerFlash();
-//       }
-//     };
-
-//     // sjekk eksisterende
-//     root.querySelectorAll(".notific_row").forEach(checkRow);
-
-//     // observer nye
-//     const obs = new MutationObserver((muts) => {
-//       muts.forEach((m) => {
-//         m.addedNodes?.forEach((n) => {
-//           if (n instanceof Element && n.matches?.(".notific_row")) {
-//             checkRow(n);
-//           }
-//         });
-//       });
-//     });
-
-//     obs.observe(root, { childList: true, subtree: true });
-//   });
-
-//   rootObserver.observe(document.body, { childList: true, subtree: true });
-// };
-
 function triggerFlash(color) {
   const overlay = document.createElement("div");
   overlay.style.position = "fixed";
@@ -116,7 +48,7 @@ function triggerFlash(color) {
   }, 2000);
 }
 
-function observeStealNotification2({ phrases, color }) {
+function observeNotifications({ phrases, color }) {
   const qs = (phrases && phrases.length ? phrases : []).map((s) =>
     s.toLowerCase()
   );
@@ -132,7 +64,6 @@ function observeStealNotification2({ phrases, color }) {
       if (seen.has(row)) return;
       const txt = row.textContent.toLowerCase() || "";
       if (qs.some((q) => txt.includes(q))) {
-        console.log("Query:", txt);
         seen.add(row);
         triggerFlash(color);
       }
@@ -162,7 +93,7 @@ function observeStealNotification2({ phrases, color }) {
 
   rootObserver.observe(document.body, { childList: true, subtree: true });
 
-  // mulighet for å stoppe rootObserver også
+  // mulighet for å stoppe rootObserver
   let stopped = false;
   let stopCurrent = () => {};
   return () => {
@@ -178,13 +109,19 @@ function observeStealNotification2({ phrases, color }) {
 }
 
 const observeReports = () => {
-  console.log("Observing reports..");
   const SELECTOR = "#rapportstream .forumtekst > span:first-child";
-
+  const overlayColor = "rgba(79, 11, 174, 0.55)";
   const logNames = () => {
-    document.querySelectorAll(SELECTOR).forEach((el) => {
-      console.log("Spillernavn:", el.textContent.trim());
-    });
+    const selectors = document.querySelectorAll(SELECTOR);
+    if (selectors.length) {
+      const lastPlayer = selectors[selectors.length - 1];
+      console.log("Siste rapport:", lastPlayer.textContent.trim());
+
+      if (lastPlayer.textContent.trim().toLowerCase() === "nacho") {
+        triggerFlash(overlayColor);
+        console.log("flash trigered for:", lastPLayer.textContent.trim());
+      }
+    }
   };
 
   const attach = (root) => {
@@ -211,31 +148,103 @@ const observeReports = () => {
   }
 };
 
-observeReports();
+let stopNotifications = null;
+let stopReports = null;
 
-// --- Boot: last config og start ---
-let stopObs = null;
+/*********** START / RESTART NOTIFICATIONS ***********/
+function startNotificationsWithConfig(cfg = {}) {
+  const merged = {
+    phrases: [],
+    color: "rgba(16, 233, 45, 0.55)",
+    enableNotificationsBlink: true,
+    ...cfg,
+  };
 
-function startWithConfig(cfg) {
-  if (typeof stopObs === "function") stopObs();
-  stopObs = observeStealNotification2(cfg || {});
+  // Stopp gammel observer hvis den kjører
+  if (typeof stopNotifications === "function") {
+    try {
+      stopNotifications();
+    } catch {}
+    stopNotifications = null;
+  }
+
+  // Hvis av – ikke start på nytt
+  if (!merged.enableNotificationsBlink) return null;
+
+  // Start på nytt med gjeldende config
+  stopNotifications = observeNotifications({
+    phrases: merged.phrases,
+    color: merged.color,
+  });
+  return stopNotifications;
 }
 
-// init fra storage
+/*********** INIT FRA STORAGE ***********/
 chrome.storage.sync.get(
   {
     phrases: [],
     color: "rgba(16, 233, 45, 0.55)",
+    enableNotificationsBlink: true,
+    enableReportBlink: true, // for senere
   },
-  (cfg) => startWithConfig(cfg)
+  (cfg) => {
+    if (cfg.enableNotificationsBlink) {
+      startNotificationsWithConfig(cfg);
+    }
+  }
 );
 
-// Live-oppdater fra popup
+/*********** MELDINGER FRA POPUP ***********/
 chrome.runtime.onMessage.addListener((msg) => {
+  // Oppdatere phrases/farge live
   if (msg?.type === "KRIM_UPDATE_CONFIG") {
-    startWithConfig({ phrases: msg.phrases, color: msg.color });
+    // Hvis notifications er PÅ: restart med ny config
+    if (typeof stopNotifications === "function") {
+      startNotificationsWithConfig({
+        phrases: msg.phrases,
+        color: msg.color,
+        enableNotificationsBlink: true, // behold status PÅ
+      });
+    } else {
+      // Hvis notifications er AV: bare lagre så det brukes neste gang du skrur på
+      chrome.storage.sync.set({ phrases: msg.phrases, color: msg.color });
+    }
   }
+
+  // Toggle fra popup
+  if (msg?.type === "TOGGLE" && msg.feature === "notifications") {
+    const { enabled } = msg;
+
+    if (enabled) {
+      // Les gjeldende config og start
+      chrome.storage.sync.get(
+        {
+          phrases: [],
+          color: "rgba(16, 233, 45, 0.55)",
+        },
+        (cfg) => {
+          chrome.storage.sync.set({ enableNotificationsBlink: true });
+          startNotificationsWithConfig({
+            ...cfg,
+            enableNotificationsBlink: true,
+          });
+        }
+      );
+    } else {
+      // Stopp trygt og lagre flagget som AV
+      if (typeof stopNotifications === "function") {
+        try {
+          stopNotifications();
+        } catch {}
+        stopNotifications = null;
+      }
+      chrome.storage.sync.set({ enableNotificationsBlink: false });
+    }
+  }
+
+  // TODO: msg.feature === "reports"
 });
 
 //observeStealNotification2();
 krimmeTimer();
+observeReports();

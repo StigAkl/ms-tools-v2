@@ -21,6 +21,12 @@
         gap: 8px;
         align-items: center;
       }
+
+      .flex-col {
+        flex-direction: column;
+        align-items: start;
+        gap: 2px;
+      }
     </style>
   </head>
   <body>
@@ -42,6 +48,23 @@
       <button id="apply">Lagre & Bruk</button>
     </div>
 
+    <div class="row">
+      <h1>Slå av / på</h1>
+      <div class="flex flex-col">
+        <label
+          ><input id="toggleNotifications" type="checkbox" /> Blink på
+          varsler</label
+        >
+        <label
+          ><input id="toggleReport" type="checkbox" />Blink på rapport</label
+        >
+      </div>
+    </div>
+
+    <script>
+      const kake = document.getElementById("toggleReport");
+      kake.addEventListener("change", () => console.log("changed"));
+    </script>
     <script src="popup.js"></script>
   </body>
 </html>
