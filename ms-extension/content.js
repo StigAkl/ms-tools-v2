@@ -3,7 +3,7 @@ const krimmeTimer = () => {
 
   let originalTitle = document.title;
 
-  function updateTitle() {
+  const updateTitle = () => {
     const krimTidEl = document.querySelector("#krim_tid");
     if (krimTidEl) {
       const tid = krimTidEl.textContent.trim();
@@ -11,12 +11,10 @@ const krimmeTimer = () => {
         document.title = `[${tid}] ${originalTitle}`;
       }
     }
-  }
+  };
 
-  // Kjør en gang ved load
   updateTitle();
 
-  // Overvåk endringer på #krim_tid spesifikt (ikke hele body)
   const targetNode = document.querySelector("#krim_tid");
   if (targetNode) {
     const observer = new MutationObserver(() => {
@@ -185,7 +183,7 @@ chrome.storage.sync.get(
     phrases: [],
     color: "rgba(16, 233, 45, 0.55)",
     enableNotificationsBlink: true,
-    enableReportBlink: true, // for senere
+    enableReportBlink: true, // TODO - future me have to fix..
   },
   (cfg) => {
     if (cfg.enableNotificationsBlink) {
@@ -196,18 +194,13 @@ chrome.storage.sync.get(
 
 /*********** MELDINGER FRA POPUP ***********/
 chrome.runtime.onMessage.addListener((msg) => {
-  // Oppdatere phrases/farge live
   if (msg?.type === "KRIM_UPDATE_CONFIG") {
-    // Hvis notifications er PÅ: restart med ny config
     if (typeof stopNotifications === "function") {
       startNotificationsWithConfig({
         phrases: msg.phrases,
         color: msg.color,
-        enableNotificationsBlink: true, // behold status PÅ
+        enableNotificationsBlink: true,
       });
-    } else {
-      // Hvis notifications er AV: bare lagre så det brukes neste gang du skrur på
-      chrome.storage.sync.set({ phrases: msg.phrases, color: msg.color });
     }
   }
 
@@ -231,7 +224,6 @@ chrome.runtime.onMessage.addListener((msg) => {
         }
       );
     } else {
-      // Stopp trygt og lagre flagget som AV
       if (typeof stopNotifications === "function") {
         try {
           stopNotifications();
