@@ -67,17 +67,14 @@ function observeNotifications({ phrases, color }) {
       }
     };
 
-    // sjekk eksisterende
     root.querySelectorAll(".notific_row").forEach(checkRow);
 
-    // observer nye
     const obs = new MutationObserver((muts) => {
       muts.forEach((m) => {
         m.addedNodes?.forEach((n) => {
           if (n instanceof Element && n.matches?.(".notific_row")) {
             checkRow(n);
           }
-          // hvis raden ligger dypere
           n.querySelectorAll?.(".notific_row").forEach(checkRow);
         });
       });
@@ -85,7 +82,7 @@ function observeNotifications({ phrases, color }) {
 
     obs.observe(root, { childList: true, subtree: true, characterData: true });
 
-    // Gi tilbake en stopper, så vi kan restarte ved ny config
+    // Mulighet for å stoppe observeren
     stopCurrent = () => obs.disconnect();
   });
 
@@ -106,7 +103,13 @@ function observeNotifications({ phrases, color }) {
   };
 }
 
-const observeReports = () => {
+const observeReports = (username = "dfbot140") => {
+  if (typeof stopReports === "function") {
+    try {
+      console.log("Stopping previous report mutation observer for reports");
+      stopReports();
+    } catch {}
+  }
   const SELECTOR = "#rapportstream .forumtekst > span:first-child";
   const overlayColor = "rgba(79, 11, 174, 0.55)";
   const logNames = () => {
@@ -115,16 +118,24 @@ const observeReports = () => {
       const lastPlayer = selectors[selectors.length - 1];
       console.log("Siste rapport:", lastPlayer.textContent.trim());
 
-      if (lastPlayer.textContent.trim().toLowerCase() === "nacho") {
+      if (
+        lastPlayer.textContent
+          .trim()
+          .toLowerCase()
+          .includes(username.toLowerCase())
+      ) {
         triggerFlash(overlayColor);
-        console.log("flash trigered for:", lastPLayer.textContent.trim());
+        console.log("flash trigered for:", lastPlayer.textContent.trim());
       }
     }
   };
 
+  let streamMO = null;
+  let waitMO = null;
+
   const attach = (root) => {
     logNames();
-    new MutationObserver(logNames).observe(root, {
+    streamMO = new MutationObserver(logNames).observe(root, {
       childList: true,
       subtree: true,
       characterData: true,
@@ -136,7 +147,7 @@ const observeReports = () => {
     attach(root);
   } else {
     console.log("No root element..");
-    new MutationObserver((_, obs) => {
+    waitMO = new MutationObserver((_, obs) => {
       const r = document.getElementById("rapportstream");
       if (r) {
         obs.disconnect();
@@ -144,6 +155,15 @@ const observeReports = () => {
       }
     }).observe(document.body, { childList: true, subtree: true });
   }
+
+  return () => {
+    try {
+      streamMO && streamMO.disconnect();
+    } catch {}
+    try {
+      waitMO && waitMO.disconnect();
+    } catch {}
+  };
 };
 
 let stopNotifications = null;
@@ -204,6 +224,16 @@ chrome.runtime.onMessage.addListener((msg) => {
     }
   }
 
+  if (msg?.type === "REPORT_STREAM_USERNAME") {
+    console.log("Message received:", msg.reportStreamUsername, msg);
+    if (typeof stopReports === "function") {
+      console.log("Starting to observe..");
+      observeReports(msg.reportStreamUsername);
+    } else {
+      console.log("Reports not observing?");
+    }
+  }
+
   // Toggle fra popup
   if (msg?.type === "TOGGLE" && msg.feature === "notifications") {
     const { enabled } = msg;
@@ -239,4 +269,4 @@ chrome.runtime.onMessage.addListener((msg) => {
 
 //observeStealNotification2();
 krimmeTimer();
-observeReports();
+stopReports = observeReports("dfbot140");

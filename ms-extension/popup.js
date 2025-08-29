@@ -1,3 +1,5 @@
+const usernameButtonId = "username-save";
+const usernameInputId = "name";
 const toLines = (s) =>
   (s || "")
     .split(/\r?\n/)
@@ -65,6 +67,26 @@ document.getElementById("apply").addEventListener("click", async () => {
     });
   }
 });
+
+document
+  .getElementById(usernameButtonId)
+  .addEventListener("click", async () => {
+    console.log("Username saved click");
+    const username = document.getElementById(usernameInputId).value;
+    document.getElementById("username-content").innerText = username;
+    await chrome.storage.sync.set({ reportStreamUsername: username });
+
+    const [tab] = await chrome.tabs.query({
+      active: true,
+      currentWindow: true,
+    });
+    if (tab?.id) {
+      chrome.tabs.sendMessage(tab.id, {
+        type: "REPORT_STREAM_USERNAME",
+        reportStreamUsername: username,
+      });
+    }
+  });
 
 const sendToggle = async (feature, enabled) => {
   try {
